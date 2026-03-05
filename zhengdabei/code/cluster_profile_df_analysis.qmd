@@ -1,0 +1,577 @@
+
+
+```{r}
+#| echo=FALSE
+library(tidyverse)
+library(labelled)
+library(patchwork)
+origin_path <- "D:/RDirectory/zhengdabei/data/子女_老年人.RData"
+profiles_path <- "D:/RDirectory/zhengdabei/data/cluster_profiles.RData"
+tag_path <- "D:/RDirectory/zhengdabei/data/cluster_tag.Rdata"
+func_path <- "D:/RDirectory/zhengdabei/func/fixed_scale.r"
+source('func/write_xlsx_with_auto_width.r')
+```
+
+```{r}
+#| echo=FALSE
+load(origin_path)
+load(profiles_path)
+load(tag_path)
+source(func_path)
+```
+
+```{r}
+# 子女群体特征阈值表
+thresholds_C <- list(
+  # 基础信息类
+  样本量 = c(0, 398),
+  问卷总分均值 = c(0, 100),
+  女性占比 = c(0, 1),
+  年龄均值 = c(1, 5),
+  与老人同住率 = c(0, 1),
+  老人年龄均值 = c(1, 4),
+  老人失能程度均值 = c(1, 3),
+  核心城区占比 = c(0, 1),
+  装过扶手率 = c(0, 1),
+  可接受价格均值 = c(1, 5),
+
+  # 安装场景偏好率
+  卫生间安装偏好率 = c(0, 1),
+  床边安装偏好率 = c(0, 1),
+  楼道安装偏好率 = c(0, 1),
+  阳台安装偏好率 = c(0, 1),
+  其他安装偏好率 = c(0, 1),
+
+  # 扶手类型偏好率
+  基础不锈钢款偏好率 = c(0, 1),
+  可折叠款偏好率 = c(0, 1),
+  防滑款偏好率 = c(0, 1),
+  智能预警款偏好率 = c(0, 1),
+  其他类型偏好率 = c(0, 1),
+
+  # 服务期望率
+  免费安装期望率 = c(0, 1),
+  二十四小时售后期望率 = c(0, 1),
+  定期维护期望率 = c(0, 1),
+  上门教学期望率 = c(0, 1),
+  其他服务期望率 = c(0, 1),
+
+  # 核心潜变量
+  照护价值均值 = c(1, 5),
+  代际责任均值 = c(1, 5),
+  决策便利均值 = c(1, 5),
+  资源投入均值 = c(1, 5),
+  认知偏差均值 = c(1, 5),
+  购买意愿均值 = c(1, 5)
+)
+
+# 老年人群体特征阈值表
+thresholds_E <- list(
+  # 基础信息类
+  样本量 = c(0, 715),
+  问卷总分均值 = c(0, 100),
+  女性占比 = c(0, 1),
+  年龄均值 = c(1, 4),
+  健康状况均值 = c(1, 3),
+  核心城区占比 = c(0, 1),
+  居家独居率 = c(0, 1),
+  居家与子女同住率 = c(0, 1),
+  居家跌倒经历率 = c(0, 1),
+  已装扶手率 = c(0, 1),
+  可接受价格均值 = c(1, 5),
+
+  # 安装场景偏好率
+  卫生间安装偏好率 = c(0, 1),
+  床边安装偏好率 = c(0, 1),
+  楼道安装偏好率 = c(0, 1),
+  阳台安装偏好率 = c(0, 1),
+  其他安装偏好率 = c(0, 1),
+
+  # 扶手类型偏好率
+  基础不锈钢款偏好率 = c(0, 1),
+  可折叠款偏好率 = c(0, 1),
+  防滑款偏好率 = c(0, 1),
+  智能预警款偏好率 = c(0, 1),
+  其他类型偏好率 = c(0, 1),
+
+  # 补贴期望率
+  提高补贴力度期望率 = c(0, 1),
+  简化申请流程期望率 = c(0, 1),
+  差异化补贴期望率 = c(0, 1),
+  社区代办申请期望率 = c(0, 1),
+  其他补贴期望率 = c(0, 1),
+
+  # 核心潜变量
+  风险收益均值 = c(1, 5),
+  社会支持均值 = c(1, 5),
+  政策适配均值 = c(1, 5),
+  生活依赖均值 = c(1, 5),
+  使用意愿均值 = c(1, 5)
+)
+```
+
+```{r}
+df_C_hc_profile_scaled <- df_C_hc_profile |>
+  rowwise() |>
+  mutate(
+    across(
+      -聚类标签_C,
+      ~ fixed_scale(.x, cur_column(), threshold_table = thresholds_C)
+    )
+  ) |>
+  ungroup() |>
+  pivot_longer(cols = -聚类标签_C, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_C, values_from = "值") |>
+  mutate(差异 = abs(`1` - `2`)) |>
+  arrange(desc(差异))
+
+df_C_kmeans_profile_scaled <- df_C_kmeans_profile |>
+  rowwise() |>
+  mutate(
+    across(
+      -聚类标签_C,
+      ~ fixed_scale(.x, cur_column(), threshold_table = thresholds_C)
+    )
+  ) |>
+  ungroup() |>
+  pivot_longer(cols = -聚类标签_C, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_C, values_from = "值") |>
+  mutate(差异 = abs(`1` - `2`)) |>
+  arrange(desc(差异))
+
+df_E_hc_profile_scaled <- df_E_hc_profile |>
+  rowwise() |>
+  mutate(
+    across(
+      -聚类标签_E,
+      ~ fixed_scale(.x, cur_column(), threshold_table = thresholds_E)
+    )
+  ) |>
+  ungroup() |>
+  pivot_longer(cols = -聚类标签_E, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_E, values_from = "值") |>
+  mutate(差异 = abs(`1` - `2`)) |>
+  arrange(desc(差异))
+
+df_E_kmeans_profile_scaled <- df_E_kmeans_profile |>
+  rowwise() |>
+  mutate(
+    across(
+      -聚类标签_E,
+      ~ fixed_scale(.x, cur_column(), threshold_table = thresholds_E)
+    )
+  ) |>
+  ungroup() |>
+  pivot_longer(cols = -聚类标签_E, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_E, values_from = "值") |>
+  mutate(差异 = abs(`1` - `2`)) |>
+  arrange(desc(差异))
+```
+
+
+```{r}
+plot_top_features <- function(df, title) {
+  df |>
+    filter(特征 != '样本量') |>
+    slice_head(n = 15) |>
+    ggplot(aes(x = reorder(特征, 差异), y = 差异)) +
+    geom_bar(
+      stat = "identity",
+      fill = "#8ad2d8",
+      color = "black",
+      alpha = 0.8
+    ) +
+    coord_flip() +
+    labs(
+      title = title,
+      x = "特征名称",
+      y = "两类间绝对差异（越大区分度越高）"
+    ) +
+    theme_minimal() +
+    theme(
+      plot.title = element_text(face = "bold", size = 14),
+      axis.title.x = element_text(face = "bold", size = 14), # X轴标签加粗
+      axis.title.y = element_text(face = "bold", size = 14), # Y轴标签加粗
+      axis.text.x = element_text(face = "bold", size = 10), # X轴刻度加粗
+      axis.text.y = element_text(face = "bold", size = 10) # Y轴刻度加粗
+    )
+}
+```
+
+```{r}
+p1 <- plot_top_features(
+  df_C_hc_profile_scaled,
+  "子女分层聚类高区分度特征（TOP）"
+)
+
+p2 <- plot_top_features(
+  df_E_hc_profile_scaled,
+  "老人分层聚类高区分度特征（TOP）"
+)
+
+p1 / p2
+```
+
+```{r}
+p3 <- plot_top_features(
+  df_C_kmeans_profile_scaled,
+  "子女kmeans聚类高区分度特征（TOP）"
+)
+
+p4 <- plot_top_features(
+  df_E_kmeans_profile_scaled,
+  "老人kmeans聚类高区分度特征（TOP）"
+)
+
+p3 / p4
+```
+
+```{r}
+df_C_kmeans_profile_scaled |>
+  filter(差异 >= 0.1, 特征 != '样本量') |>
+  pull(特征)
+
+df_E_kmeans_profile_scaled |>
+  filter(差异 >= 0.1, 特征 != '样本量') |>
+  pull(特征)
+```
+
+```{r}
+diff_vars_C <- c(
+  "问卷总分_C",
+  # 照护价值
+  "照护价值_3_1_1_C",
+  "照护价值_3_1_2_C",
+  "照护价值_3_1_3_C",
+  "照护价值_3_1_4_C",
+  # 代际责任
+  "代际责任_3_2_1_C",
+  "代际责任_3_2_2_C",
+  "代际责任_3_2_3_C",
+  "代际责任_3_2_4_C",
+  # 决策便利
+  "决策便利_3_3_1_C",
+  "决策便利_3_3_2_C",
+  "决策便利_3_3_3_C",
+  "决策便利_3_3_4_C",
+  # 资源投入
+  "资源投入_3_4_1_C",
+  "资源投入_3_4_2_C",
+  "资源投入_3_4_3_C",
+  "资源投入_3_4_4_C",
+  # 认知偏差
+  "认知偏差_3_5_1_C",
+  "认知偏差_3_5_2_C",
+  "认知偏差_3_5_3_C",
+  "认知偏差_3_5_4_C",
+  # 购买意愿
+  "购买意愿_3_6_1_C",
+  "购买意愿_3_6_2_C",
+  "购买意愿_3_6_3_C"
+)
+
+diff_vars_E <- c(
+  "问卷总分_E",
+  # 风险收益
+  "风险收益_3_1_1_E",
+  "风险收益_3_1_2_E",
+  "风险收益_3_1_3_E",
+  "风险收益_3_1_4_E",
+  # 社会支持
+  "社会支持_3_2_1_E",
+  "社会支持_3_2_2_E",
+  "社会支持_3_2_3_E",
+  "社会支持_3_2_4_E",
+  # 政策适配
+  "政策适配_3_3_1_E",
+  "政策适配_3_3_2_E",
+  "政策适配_3_3_3_E",
+  "政策适配_3_3_4_E",
+  # 生活依赖
+  "生活依赖_3_4_1_E",
+  "生活依赖_3_4_2_E",
+  "生活依赖_3_4_3_E",
+  "生活依赖_3_4_4_E",
+  # 使用意愿
+  "使用意愿_3_5_1_E",
+  "使用意愿_3_5_2_E",
+  "使用意愿_3_5_3_E"
+)
+```
+
+```{r}
+df_C <- df_C |>
+  mutate(across(everything(), ~ remove_labels(.x))) |>
+  mutate(
+    across(
+      everything(),
+      ~ if (inherits(.x, "haven_labelled")) {
+        as.numeric(haven::as_factor(.x, levels = "values"))
+      } else {
+        .x
+      }
+    )
+  )
+```
+
+```{r}
+name_map_C <- tibble(
+  特征 = c(
+    "照护价值_1均值",
+    "照护价值_2均值",
+    "照护价值_3均值",
+    "照护价值_4均值",
+    "代际责任_1均值",
+    "代际责任_2均值",
+    "代际责任_3均值",
+    "代际责任_4均值",
+    "决策便利_1均值",
+    "决策便利_2均值",
+    "决策便利_3均值",
+    "决策便利_4均值",
+    "资源投入_1均值",
+    "资源投入_2均值",
+    "资源投入_3均值",
+    "资源投入_4均值",
+    "认知偏差_1均值",
+    "认知偏差_2均值",
+    "认知偏差_3均值",
+    "认知偏差_4均值",
+    "购买意愿_1均值",
+    "购买意愿_2均值",
+    "购买意愿_3均值",
+    "问卷总分均值",
+    "样本量"
+  ),
+  指标释义 = c(
+    "安全提升认可度",
+    "照护减负认可度",
+    "性价比认可度",
+    "产品质量认可度",
+    "安全责任感知度",
+    "跌倒风险担忧度",
+    "关爱行为表达度",
+    "亲友影响感知度",
+    "购买渠道便利度",
+    "安装预约便利度",
+    "补贴流程便利度",
+    "售后服务便利度",
+    "费用承担意愿度",
+    "精力投入意愿度",
+    "操作教学胜任度",
+    "维护协助意愿度",
+    "类型偏好差异度",
+    "需求认知差异度",
+    "价格接受差异度",
+    "政策了解差异度",
+    "主动购买意愿度",
+    "按需购买意愿度",
+    "推荐他人意愿度",
+    "问卷总分",
+    "样本量"
+  )
+)
+
+name_map_E <- tibble(
+  特征 = c(
+    "风险收益_1均值",
+    "风险收益_2均值",
+    "风险收益_3均值",
+    "风险收益_4均值",
+    "社会支持_1均值",
+    "社会支持_2均值",
+    "社会支持_3均值",
+    "社会支持_4均值",
+    "政策适配_1均值",
+    "政策适配_2均值",
+    "政策适配_3均值",
+    "政策适配_4均值",
+    "生活依赖_1均值",
+    "生活依赖_2均值",
+    "生活依赖_3均值",
+    "生活依赖_4均值",
+    "使用意愿_1均值",
+    "使用意愿_2均值",
+    "使用意愿_3均值",
+    "问卷总分均值",
+    "样本量"
+  ),
+  指标释义 = c(
+    "防跌倒效果认可度",
+    "操作简易认可度",
+    "安全收益感知度",
+    "安装风险担忧度",
+    "家人支持感知度",
+    "社区宣传感知度",
+    "亲友推荐感知度",
+    "安装协助感知度",
+    "补贴政策合理性",
+    "补贴金额满意度",
+    "申请流程便利度",
+    "政策宣传到位度",
+    "行动辅助依赖度",
+    "起居辅助依赖度",
+    "跌倒后安全依赖度",
+    "独处时安全依赖度",
+    "持续使用意愿度",
+    "主动申请意愿度",
+    "推荐他人意愿度",
+    "问卷总分",
+    "样本量"
+  )
+)
+```
+
+```{r}
+df_C_diff <- df_C |>
+  select(序号_C, all_of(diff_vars_C)) |>
+  left_join(df_C_kmeans_tag, by = "序号_C") |>
+  group_by(聚类标签_C) |>
+  summarise(
+    样本量 = n(),
+    问卷总分均值 = mean(问卷总分_C),
+    # 照护价值
+    照护价值_1均值 = mean(照护价值_3_1_1_C),
+    照护价值_2均值 = mean(照护价值_3_1_2_C),
+    照护价值_3均值 = mean(照护价值_3_1_3_C),
+    照护价值_4均值 = mean(照护价值_3_1_4_C),
+    # 代际责任
+    代际责任_1均值 = mean(代际责任_3_2_1_C),
+    代际责任_2均值 = mean(代际责任_3_2_2_C),
+    代际责任_3均值 = mean(代际责任_3_2_3_C),
+    代际责任_4均值 = mean(代际责任_3_2_4_C),
+    # 决策便利
+    决策便利_1均值 = mean(决策便利_3_3_1_C),
+    决策便利_2均值 = mean(决策便利_3_3_2_C),
+    决策便利_3均值 = mean(决策便利_3_3_3_C),
+    决策便利_4均值 = mean(决策便利_3_3_4_C),
+    # 资源投入
+    资源投入_1均值 = mean(资源投入_3_4_1_C),
+    资源投入_2均值 = mean(资源投入_3_4_2_C),
+    资源投入_3均值 = mean(资源投入_3_4_3_C),
+    资源投入_4均值 = mean(资源投入_3_4_4_C),
+    # 认知偏差
+    认知偏差_1均值 = mean(认知偏差_3_5_1_C),
+    认知偏差_2均值 = mean(认知偏差_3_5_2_C),
+    认知偏差_3均值 = mean(认知偏差_3_5_3_C),
+    认知偏差_4均值 = mean(认知偏差_3_5_4_C),
+    # 购买意愿
+    购买意愿_1均值 = mean(购买意愿_3_6_1_C),
+    购买意愿_2均值 = mean(购买意愿_3_6_2_C),
+    购买意愿_3均值 = mean(购买意愿_3_6_3_C)
+  ) |>
+  pivot_longer(cols = -聚类标签_C, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_C, values_from = "值") |>
+  mutate(差异 = abs(`1` - `2`)) |>
+  mutate(
+    维度 = case_when(
+      str_detect(特征, "照护价值") ~ "a",
+      str_detect(特征, "代际责任") ~ "b",
+      str_detect(特征, "决策便利") ~ "c",
+      str_detect(特征, "资源投入") ~ "d",
+      str_detect(特征, "认知偏差") ~ "e",
+      str_detect(特征, "购买意愿") ~ "f",
+      TRUE ~ "0"
+    )
+  ) |>
+  arrange(维度, desc(差异)) |>
+  ungroup() |>
+  select(-维度) |>
+  left_join(name_map_C, by = "特征")
+
+df_E_diff <- df_E |>
+  select(序号_E, all_of(diff_vars_E)) |>
+  left_join(df_E_kmeans_tag, by = "序号_E") |>
+  group_by(聚类标签_E) |>
+  summarise(
+    样本量 = n(),
+    问卷总分均值 = mean(问卷总分_E),
+    # 风险收益
+    风险收益_1均值 = mean(风险收益_3_1_1_E),
+    风险收益_2均值 = mean(风险收益_3_1_2_E),
+    风险收益_3均值 = mean(风险收益_3_1_3_E),
+    风险收益_4均值 = mean(风险收益_3_1_4_E),
+    # 社会支持
+    社会支持_1均值 = mean(社会支持_3_2_1_E),
+    社会支持_2均值 = mean(社会支持_3_2_2_E),
+    社会支持_3均值 = mean(社会支持_3_2_3_E),
+    社会支持_4均值 = mean(社会支持_3_2_4_E),
+    # 政策适配
+    政策适配_1均值 = mean(政策适配_3_3_1_E),
+    政策适配_2均值 = mean(政策适配_3_3_2_E),
+    政策适配_3均值 = mean(政策适配_3_3_3_E),
+    政策适配_4均值 = mean(政策适配_3_3_4_E),
+    # 生活依赖
+    生活依赖_1均值 = mean(生活依赖_3_4_1_E),
+    生活依赖_2均值 = mean(生活依赖_3_4_2_E),
+    生活依赖_3均值 = mean(生活依赖_3_4_3_E),
+    生活依赖_4均值 = mean(生活依赖_3_4_4_E),
+    # 使用意愿
+    使用意愿_1均值 = mean(使用意愿_3_5_1_E),
+    使用意愿_2均值 = mean(使用意愿_3_5_2_E),
+    使用意愿_3均值 = mean(使用意愿_3_5_3_E)
+  ) |>
+  pivot_longer(cols = -聚类标签_E, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_E, values_from = "值") |>
+  mutate(差异 = abs(`1` - `2`)) |>
+  mutate(
+    维度 = case_when(
+      str_detect(特征, "风险收益") ~ "a",
+      str_detect(特征, "社会支持") ~ "b",
+      str_detect(特征, "政策适配") ~ "c",
+      str_detect(特征, "生活依赖") ~ "d",
+      str_detect(特征, "使用意愿") ~ "e",
+      TRUE ~ "0"
+    )
+  ) |>
+  arrange(维度, desc(差异)) |>
+  ungroup() |>
+  select(-维度) |>
+  left_join(name_map_E, by = "特征")
+```
+
+```{r}
+df_C_diff |>
+  mutate(
+    维度 = case_when(
+      str_detect(特征, "照护价值") ~ "照护价值",
+      str_detect(特征, "代际责任") ~ "代际责任",
+      str_detect(特征, "决策便利") ~ "决策便利",
+      str_detect(特征, "资源投入") ~ "资源投入",
+      str_detect(特征, "认知偏差") ~ "认知偏差",
+      str_detect(特征, "购买意愿") ~ "购买意愿",
+      TRUE ~ "ungrouped"
+    )
+  ) |>
+  group_by(维度) |>
+  filter(
+    维度 == "ungrouped" | row_number(desc(差异)) == 1
+  ) |>
+  ungroup() |>
+  select(-维度) |>
+  arrange(desc(差异))
+
+df_E_diff |>
+  mutate(
+    维度 = case_when(
+      str_detect(特征, "风险收益") ~ "风险收益",
+      str_detect(特征, "社会支持") ~ "社会支持",
+      str_detect(特征, "政策适配") ~ "政策适配",
+      str_detect(特征, "生活依赖") ~ "生活依赖",
+      str_detect(特征, "使用意愿") ~ "使用意愿",
+      TRUE ~ "ungrouped"
+    )
+  ) |>
+  group_by(维度) |>
+  filter(
+    维度 == "ungrouped" | row_number(desc(差异)) == 1
+  ) |>
+  ungroup() |>
+  select(-维度) |>
+  arrange(desc(差异))
+```
+
+```{r}
+write_xlsx_with_auto_width(df_C_diff, "output/子女_核心潜变量差异.xlsx")
+write_xlsx_with_auto_width(df_E_diff, "output/老年人_核心潜变量差异.xlsx")
+```

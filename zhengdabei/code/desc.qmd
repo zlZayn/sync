@@ -1,0 +1,26 @@
+---
+title: "描述性统计表"
+format: html
+editor: source
+---
+
+```{r}
+#| echo=FALSE
+library(skimr)
+data_path <- "D:/RDirectory/zhengdabei/data/子女_老年人.RData"
+```
+
+```{r}
+#| echo=FALSE
+load(data_path)
+```
+
+# 子女版
+```{r}
+skim(df_C)
+```
+
+# 老年人版
+```{r}
+skim(df_E)
+```

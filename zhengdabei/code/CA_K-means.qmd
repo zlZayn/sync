@@ -1,0 +1,430 @@
+---
+title: "防跌倒扶手调研数据聚类分析"
+subtitle: "K-means聚类方法"
+format:
+  html:
+    lang: zh
+    self-contained: true
+    fig-width: 12      # 全局所有图宽度
+    fig-height: 9      # 全局所有图高度
+    fig-align: center  # 图片居中
+editor: source
+---
+
+```{r}
+#| label: setup
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+library(haven)
+library(cluster)
+library(factoextra)
+library(gt)
+```
+
+## 一、数据加载与检查
+### 1.1 加载数据集
+加载预处理后的子女和老年人数据集，确保数据文件存在且路径正确。
+
+```{r}
+#| label: load-data
+#| echo: false
+data_path <- "D:/RDirectory/zhengdabei/data/df_all_dbl.RData"
+output_path <- "D:/RDirectory/zhengdabei/output/"
+load(data_path)
+```
+
+## 二、子女群体聚类分析
+### 2.1 变量筛选与预处理
+选择子女群体的相关变量，**仅剔除序号，其余全部纳入聚类**，确保数据类型正确。
+
+```{r}
+#| label: select-clean-C
+#| echo: false
+cluster_vars_C_raw <- df_C_all_dbl |>
+  select(-序号_C)
+
+cluster_vars_C_clean <- cluster_vars_C_raw |>
+  mutate(across(everything(), as.numeric))
+```
+
+### 2.2 变量标准化
+对子女群体的所有变量进行标准化处理，确保不同变量的量纲一致，提高聚类效果。
+
+```{r}
+#| label: scale-C
+#| echo: false
+# 直接对所有预处理后的变量进行标准化，充分利用所有数据
+df_C_scaled <- as_tibble(scale(cluster_vars_C_clean))
+```
+
+### 2.3 确定最佳K值（轮廓系数法）
+使用轮廓系数法自动选择最佳聚类数k，通过计算不同k值的轮廓系数并选择最大值对应的k。
+
+```{r}
+#| label: silhouette-C
+#| echo: false
+set.seed(42)
+silhouette_scores_C <- map_dbl(
+  2:16,
+  ~ mean(silhouette(
+    kmeans(df_C_scaled, centers = ., nstart = 25)$cluster,
+    dist(df_C_scaled)
+  )[, "sil_width"])
+)
+
+# 自动选择最佳k值（轮廓系数最大）
+best_k_C <- which.max(silhouette_scores_C) + 1
+
+tibble(k = 2:16, silhouette = silhouette_scores_C) |>
+  ggplot(aes(x = k, y = silhouette)) +
+  geom_line(linewidth = 1.5, color = "#707070ff") +
+  geom_point(size = 4, color = "#d67570ff") +
+  scale_x_continuous(breaks = seq(2, 16, 1)) +
+  labs(
+    x = "聚类数量 k",
+    y = "平均轮廓系数",
+    caption = paste0(
+      "注：子女群体基于轮廓系数法确定最佳聚类数，K = ",
+      best_k_C
+    )
+  ) +
+  theme_classic() +
+  theme(
+    legend.direction = "horizontal",
+    legend.title = element_blank(),
+    axis.title = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 11),
+    plot.caption = element_text(size = 10, hjust = 0, face = "plain") # 脚注靠左
+  ) +
+  geom_vline(
+    xintercept = best_k_C,
+    linetype = "dashed",
+    linewidth = 1.0,
+    color = "#b08a32ff",
+    alpha = 0.7
+  )
+```
+
+### 2.4 执行K-means聚类
+使用自动选择的最佳k值执行K-means聚类，并将聚类标签与原始数据绑定。
+
+```{r}
+#| label: kmeans-C
+#| echo: false
+set.seed(42)
+km_C <- kmeans(df_C_scaled, centers = best_k_C, nstart = 25)
+
+# 绑定聚类标签，独立存储
+df_C_cluster_tag <- tibble(
+  序号_C = df_C_all_dbl$序号_C,
+  聚类标签_C = as.factor(km_C$cluster)
+)
+```
+
+### 2.5 聚类结果分析
+分析子女群体的聚类结果，生成特征剖面表格，展示不同聚类的特征差异。
+
+```{r}
+#| label: cluster-result-C
+#| echo: false
+df_C_all_dbl |>
+  left_join(df_C_cluster_tag, by = "序号_C") |>
+  group_by(聚类标签_C) |>
+  summarise(
+    样本量 = n(),
+    across(where(is.numeric), mean, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  select(-序号_C) |>
+  pivot_longer(cols = -聚类标签_C, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_C, values_from = "值") |>
+  gt() |>
+  tab_header(
+    title = "子女群体聚类特征剖面",
+    subtitle = "K-means聚类方法"
+  ) |>
+  fmt_number(columns = where(is.numeric), decimals = 3) |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_column_labels()
+  ) |>
+  tab_options(table.width = "100%", table.font.size = 12)
+```
+
+## 三、老年人群体聚类分析
+### 3.1 变量筛选与预处理
+选择老年人群体的相关变量，**仅剔除序号，其余全部纳入聚类**，确保数据类型正确。
+
+```{r}
+#| label: select-clean-E
+#| echo: false
+cluster_vars_E_raw <- df_E_all_dbl |>
+  select(-序号_E)
+
+cluster_vars_E_clean <- cluster_vars_E_raw |>
+  mutate(across(everything(), as.numeric))
+```
+
+### 3.2 变量标准化
+对老年人群体的所有变量进行标准化处理，确保不同变量的量纲一致，提高聚类效果。
+
+```{r}
+#| label: scale-E
+#| echo: false
+# 直接对所有预处理后的变量进行标准化，充分利用所有数据
+df_E_scaled <- as_tibble(scale(cluster_vars_E_clean))
+```
+
+### 3.3 确定最佳K值（轮廓系数法）
+使用轮廓系数法自动选择最佳聚类数k，通过计算不同k值的轮廓系数并选择最大值对应的k。
+
+```{r}
+#| label: silhouette-E
+#| echo: false
+set.seed(42)
+silhouette_scores_E <- map_dbl(
+  2:16,
+  ~ mean(silhouette(
+    kmeans(df_E_scaled, centers = ., nstart = 25)$cluster,
+    dist(df_E_scaled)
+  )[, "sil_width"])
+)
+
+# 自动选择最佳k值（轮廓系数最大）
+best_k_E <- which.max(silhouette_scores_E) + 1
+
+tibble(k = 2:16, silhouette = silhouette_scores_E) |>
+  ggplot(aes(x = k, y = silhouette)) +
+  geom_line(linewidth = 1.5, color = "#707070ff") +
+  geom_point(size = 4, color = "#d67570ff") +
+  scale_x_continuous(breaks = seq(2, 16, 1)) +
+  labs(
+    x = "聚类数量 k",
+    y = "平均轮廓系数",
+    caption = paste0(
+      "注：老年人群体基于轮廓系数法确定最佳聚类数，K = ",
+      best_k_E
+    )
+  ) +
+  theme_classic() +
+  theme(
+    legend.direction = "horizontal",
+    legend.title = element_blank(),
+    axis.title = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 11),
+    plot.caption = element_text(size = 10, hjust = 0, face = "plain")
+  ) +
+  geom_vline(
+    xintercept = best_k_E,
+    linetype = "dashed",
+    linewidth = 1.0,
+    color = "#b08a32ff",
+    alpha = 0.7
+  )
+```
+
+### 3.4 执行K-means聚类
+使用自动选择的最佳k值执行K-means聚类，并将聚类标签与原始数据绑定。
+
+```{r}
+#| label: kmeans-E
+#| echo: false
+set.seed(42)
+km_E <- kmeans(df_E_scaled, centers = best_k_E, nstart = 25)
+
+# 绑定聚类标签，独立存储
+df_E_cluster_tag <- tibble(
+  序号_E = df_E_all_dbl$序号_E,
+  聚类标签_E = as.factor(km_E$cluster)
+)
+```
+
+### 3.5 聚类结果分析
+分析老年人群体的聚类结果，生成特征剖面表格，展示不同聚类的特征差异。
+
+```{r}
+#| label: cluster-result-E
+#| echo: false
+df_E_all_dbl |>
+  left_join(df_E_cluster_tag, by = "序号_E") |>
+  group_by(聚类标签_E) |>
+  summarise(
+    样本量 = n(),
+    across(where(is.numeric), mean, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  select(-序号_E) |>
+  pivot_longer(cols = -聚类标签_E, names_to = "特征", values_to = "值") |>
+  pivot_wider(names_from = 聚类标签_E, values_from = "值") |>
+  gt() |>
+  tab_header(
+    title = "老年人群体聚类特征剖面",
+    subtitle = "K-means聚类方法"
+  ) |>
+  fmt_number(columns = where(is.numeric), decimals = 3) |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_column_labels()
+  ) |>
+  tab_options(table.width = "100%", table.font.size = 12)
+```
+
+### 4. 导出聚类结果
+将聚类标签导出为CSV文件，方便后续分析和使用。
+
+```{r}
+#| label: next-steps
+#| echo: false
+write_csv(df_C_cluster_tag, file.path(output_path, "子女_K-means聚类标签.csv"))
+write_csv(
+  df_E_cluster_tag,
+  file.path(output_path, "老年人_K-means聚类标签.csv")
+)
+```
+
+### 5. 聚类结果可视化
+可视化聚类结果和轮廓系数，直观展示聚类效果。
+
+```{r}
+#| label: visualize-clusters
+#| echo: false
+
+library(patchwork)
+
+# ======================================================================
+# 1. 子女群体聚类散点图（PCA降维）
+# ======================================================================
+p1 <- fviz_cluster(
+  km_C,
+  data = df_C_scaled,
+  ellipse.type = "norm",
+  palette = c("#a08d65ff", "#92ab75ff")
+) +
+  labs(
+    title = NULL,
+    x = "主成分 1",
+    y = "主成分 2",
+    caption = "注：子女群体 K-means 聚类可视化（PCA 降维展示）"
+  ) +
+  theme_bw() +
+  theme(
+    axis.title = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 10),
+    legend.position = "top",
+    legend.title = element_blank(),
+    plot.caption = element_text(size = 10, hjust = 0)
+  )
+
+# ======================================================================
+# 2. 老年人群体聚类散点图（PCA降维）
+# ======================================================================
+p2 <- fviz_cluster(
+  km_E,
+  data = df_E_scaled,
+  ellipse.type = "norm",
+  palette = c("#a08d65ff", "#92ab75ff")
+) +
+  labs(
+    title = NULL,
+    x = "主成分 1",
+    y = "主成分 2",
+    caption = "注：老年人群体 K-means 聚类可视化（PCA 降维展示）"
+  ) +
+  theme_bw() +
+  theme(
+    axis.title = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 10),
+    legend.position = "top",
+    legend.title = element_blank(),
+    plot.caption = element_text(size = 10, hjust = 0)
+  )
+
+# ======================================================================
+# 3. 子女群体轮廓系数图（自定义ggplot）
+# ======================================================================
+sil_C <- silhouette(km_C$cluster, dist(df_C_scaled))
+sil_C_df <- as.data.frame(sil_C)
+
+sil_C_df <- sil_C_df %>%
+  group_by(cluster) %>%
+  arrange(desc(sil_width), .by_group = TRUE) %>%
+  ungroup() %>%
+  mutate(id = row_number())
+
+avg_sil_C <- round(mean(sil_C_df$sil_width), 3)
+
+p3 <- ggplot(sil_C_df, aes(x = id, y = sil_width, fill = factor(cluster))) +
+  geom_col(alpha = 0.85, width = 1) +
+  scale_fill_manual(values = c("#a08d65ff", "#92ab75ff")) +
+  geom_hline(
+    yintercept = avg_sil_C,
+    color = "#205f70ff",
+    linetype = "dashed",
+    linewidth = 1,
+    alpha = 0.7
+  ) +
+  scale_y_continuous(limits = c(-0.1, 0.3), breaks = seq(-1, 1, 0.1)) +
+  labs(
+    x = "样本排序",
+    y = "轮廓系数",
+    caption = paste0("注：子女群体轮廓系数分布，平均轮廓系数 = ", avg_sil_C)
+  ) +
+  theme_bw() +
+  theme(
+    axis.title = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 10),
+    legend.position = "top",
+    legend.title = element_blank(),
+    plot.caption = element_text(size = 10, hjust = 0)
+  )
+
+# ======================================================================
+# 4. 老年人群体轮廓系数图（自定义ggplot）
+# ======================================================================
+sil_E <- silhouette(km_E$cluster, dist(df_E_scaled))
+sil_E_df <- as.data.frame(sil_E)
+
+sil_E_df <- sil_E_df %>%
+  group_by(cluster) %>%
+  arrange(desc(sil_width), .by_group = TRUE) %>%
+  ungroup() %>%
+  mutate(id = row_number())
+
+avg_sil_E <- round(mean(sil_E_df$sil_width), 3)
+
+p4 <- ggplot(sil_E_df, aes(x = id, y = sil_width, fill = factor(cluster))) +
+  geom_col(alpha = 0.85, width = 1) +
+  scale_fill_manual(values = c("#a08d65ff", "#92ab75ff")) +
+  geom_hline(
+    yintercept = avg_sil_E,
+    color = "#205f70ff",
+    linetype = "dashed",
+    linewidth = 1,
+    alpha = 0.7
+  ) +
+  scale_y_continuous(limits = c(-0.1, 0.3), breaks = seq(-1, 1, 0.1)) +
+  labs(
+    x = "样本排序",
+    y = "轮廓系数",
+    caption = paste0("注：老年人群体轮廓系数分布，平均轮廓系数 = ", avg_sil_E)
+  ) +
+  theme_bw() +
+  theme(
+    axis.title = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 10),
+    legend.position = "top",
+    legend.title = element_blank(),
+    plot.caption = element_text(size = 10, hjust = 0)
+  )
+
+# ======================================================================
+# 🧩 patchwork 拼图（分群体：子女一组 / 老人一组）
+# ======================================================================
+# 子女组图（散点图 + 轮廓系数图）
+(p1 + p3) + plot_layout(ncol = 2, widths = c(3, 2))
+
+# 老人组图（散点图 + 轮廓系数图）
+(p2 + p4) + plot_layout(ncol = 2, widths = c(3, 2))
+```

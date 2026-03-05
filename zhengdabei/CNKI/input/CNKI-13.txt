@@ -1,0 +1,7097 @@
+RT Newspaper Article
+SR 1
+A1 庄紫怡;陈渴;刘子豪
+T1 改造一小步享老一大步
+JF 福建日报
+OP 004
+FD 2025-11-09
+PB 福建日报
+LA 中文;
+CN 35-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28232/n.cnki.nfjrb.2025.010229
+DO 10.28232/n.cnki.nfjrb.2025.010229
+
+RT Newspaper Article
+SR 1
+A1 马海菊
+AD 惠州日报;
+T1 居家适老“小改造”撬动晚年“大便利”
+JF 惠州日报
+OP 003
+FD 2025-11-04
+PB 惠州日报
+LA 中文;
+CN 44-0056
+DS CNKI
+LK https://link.cnki.net/doi/10.28396/n.cnki.nhzdb.2025.002561
+DO 10.28396/n.cnki.nhzdb.2025.002561
+
+RT Newspaper Article
+SR 1
+A1 陈卓斌;黄婷
+AD 海南日报;
+T1 居家养老，如何“智”解难题？
+JF 海南日报
+OP A04
+FD 2025-10-31
+PB 海南日报
+LA 中文;
+CN 46-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28356/n.cnki.nhlrb.2025.008641
+DO 10.28356/n.cnki.nhlrb.2025.008641
+
+RT Newspaper Article
+SR 1
+A1 刘俊
+AD 长沙晚报;
+T1 爸妈养老不纠结，多种方式可选择
+JF 长沙晚报
+OP 005
+FD 2025-10-30
+PB 长沙晚报
+LA 中文;
+CN 43-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28047/n.cnki.ncawb.2025.002798
+DO 10.28047/n.cnki.ncawb.2025.002798
+
+RT Newspaper Article
+SR 1
+A1 王晶
+T1 桑榆欢语满庭芳
+JF 晋中日报
+OP 002
+FD 2025-10-30
+PB 晋中日报
+LA 中文;
+CN 14-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.28416/n.cnki.njinb.2025.001675
+DO 10.28416/n.cnki.njinb.2025.001675
+
+RT Newspaper Article
+SR 1
+AD 新华社;
+T1 居家适老化改造，如何改到老年人心坎儿上？
+JF 新华每日电讯
+OP 005
+FD 2025-10-30
+PB 新华每日电讯
+LA 中文;
+CN 11-0209
+DS CNKI
+LK https://link.cnki.net/doi/10.28870/n.cnki.nxhmr.2025.009393
+DO 10.28870/n.cnki.nxhmr.2025.009393
+
+RT Newspaper Article
+SR 1
+A1 何明华;安忠芳
+AD 广西云;广西日报;
+T1 “家门口”这样幸福养老
+JF 广西日报
+OP 012
+FD 2025-10-29
+PB 广西日报
+LA 中文;
+CN 45-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28292/n.cnki.ngxrb.2025.011271
+DO 10.28292/n.cnki.ngxrb.2025.011271
+
+RT Newspaper Article
+SR 1
+A1 林培
+T1 地方新规共筑“老有所养”设施网
+JF 中国建设报
+OP 004
+FD 2025-10-17
+PB 中国建设报
+LA 中文;
+CN 11-0038
+DS CNKI
+LK https://link.cnki.net/doi/10.38299/n.cnki.nzgjs.2025.002716
+DO 10.38299/n.cnki.nzgjs.2025.002716
+
+RT Newspaper Article
+SR 1
+A1 张莎
+AD 新重庆;重庆日报;
+T1 “三道防线”环环相扣让“老有颐养”从愿景走向现实
+JF 重庆日报
+OP 003
+FD 2025-10-08
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2025.006444
+DO 10.28120/n.cnki.ncqrb.2025.006444
+
+RT Newspaper Article
+SR 1
+A1 庄钊滢;汤海波
+T1 养老不离身边人情感不离老街坊
+JF 福建日报
+OP 004
+FD 2025-09-28
+PB 福建日报
+LA 中文;
+CN 35-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28232/n.cnki.nfjrb.2025.008853
+DO 10.28232/n.cnki.nfjrb.2025.008853
+
+RT Newspaper Article
+SR 1
+A1 张乐佳
+T1 “家门口”的幸福港湾
+JF 陕西日报
+OP 009
+FD 2025-09-24
+PB 陕西日报
+LA 中文;
+CN 61-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28762/n.cnki.nsxrb.2025.010082
+DO 10.28762/n.cnki.nsxrb.2025.010082
+
+RT Newspaper Article
+SR 1
+A1 商松林;潘蕾
+T1 织密养老服务网托举幸福银龄族
+JF 佳木斯日报
+OP 001
+FD 2025-09-23
+PB 佳木斯日报
+LA 中文;
+CN 23-0005
+DS CNKI
+LK https://link.cnki.net/doi/10.28449/n.cnki.njmrb.2025.000925
+DO 10.28449/n.cnki.njmrb.2025.000925
+
+RT Newspaper Article
+SR 1
+A1 张蓓;陈炳衡
+T1 扫清居家障碍，解锁多项“适老黑科技”
+JF 华夏时报
+OP 024
+FD 2025-09-22
+PB 华夏时报
+LA 中文;
+CN 11-0071
+DS CNKI
+LK https://link.cnki.net/doi/10.28391/n.cnki.nhxsb.2025.000926
+DO 10.28391/n.cnki.nhxsb.2025.000926
+
+RT Newspaper Article
+SR 1
+A1 姜琳琳
+T1 “焕新”补贴为银发消费注入活力
+JF 中国老年报
+OP 003
+FD 2025-09-18
+PB 中国老年报
+LA 中文;
+CN 11-0031
+DS CNKI
+LK https://link.cnki.net/doi/10.28108/n.cnki.nclnb.2025.000273
+DO 10.28108/n.cnki.nclnb.2025.000273
+
+RT Newspaper Article
+SR 1
+A1 孙也达
+T1 精准服务延伸民生保障
+JF 河北日报
+OP 012
+FD 2025-09-18
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2025.008543
+DO 10.28326/n.cnki.nhbrb.2025.008543
+
+RT Newspaper Article
+SR 1
+A1 孙金诚
+T1 加速推进适老化改造助推老年人生活迈向高质量
+JF 人民政协报
+OP 002
+FD 2025-09-11
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2025.008152
+DO 10.28660/n.cnki.nrmzx.2025.008152
+
+RT Newspaper Article
+SR 1
+A1 张婉
+AD 山西晚报;山河+;
+T1 适老化改造补贴来袭，养老变享老
+JF 山西晚报
+OP 002
+FD 2025-09-08
+PB 山西晚报
+LA 中文;
+CN 14-0051
+DS CNKI
+LK https://link.cnki.net/doi/10.48929/n.cnki.nsxwa.2025.001140
+DO 10.48929/n.cnki.nsxwa.2025.001140
+
+RT Newspaper Article
+SR 1
+A1 刘冰洋
+T1 “家门口”养老，如何提升幸福感
+JF 河北日报
+OP 006
+FD 2025-09-05
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2025.008088
+DO 10.28326/n.cnki.nhbrb.2025.008088
+
+RT Newspaper Article
+SR 1
+A1 郝婧
+T1 把适老化改造“改”到心坎上
+JF 华兴时报
+OP 001
+FD 2025-09-03
+PB 华兴时报
+LA 中文;
+CN 64-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28386/n.cnki.nhxbs.2025.002058
+DO 10.28386/n.cnki.nhxbs.2025.002058
+
+RT Newspaper Article
+SR 1
+A1 许朴琼;李冰洁;李燕
+T1 西山区加速打造“15分钟养老服务圈”
+JF 昆明日报
+OP 007
+FD 2025-09-03
+PB 昆明日报
+LA 中文;
+CN 53-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28508/n.cnki.nkmrb.2025.002847
+DO 10.28508/n.cnki.nkmrb.2025.002847
+
+RT Newspaper Article
+SR 1
+A1 王雅婧
+T1 群力托起幸福“夕阳红”
+JF 中国纪检监察报
+OP 005
+FD 2025-09-01
+PB 中国纪检监察报
+LA 中文;
+CN 11-0176
+DS CNKI
+LK https://link.cnki.net/doi/10.28423/n.cnki.njjjc.2025.004894
+DO 10.28423/n.cnki.njjjc.2025.004894
+
+RT Newspaper Article
+SR 1
+A1 张伟涛
+T1 打造多元服务场景释放银发消费潜力
+JF 中国社会报
+OP 001
+FD 2025-08-26
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.001155
+DO 10.28698/n.cnki.nshhu.2025.001155
+
+RT Newspaper Article
+SR 1
+A1 韩冬;刘珊
+T1 一老一小总关情
+JF 人民政协报
+OP 004
+FD 2025-08-26
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2025.007875
+DO 10.28660/n.cnki.nrmzx.2025.007875
+
+RT Newspaper Article
+SR 1
+A1 庄瑞玉
+AD 深圳特区报;
+T1 深圳聚焦一老一小绘就民生幸福图景
+JF 深圳特区报
+OP A01
+FD 2025-08-25
+PB 深圳特区报
+LA 中文;
+CN 44-0027
+DS CNKI
+LK https://link.cnki.net/doi/10.28776/n.cnki.nsztq.2025.007758
+DO 10.28776/n.cnki.nsztq.2025.007758
+
+RT Newspaper Article
+SR 1
+A1 白诚颖
+T1 居家适老化改造让养老变“享老”
+JF 玉溪日报
+OP 005
+FD 2025-08-21
+PB 玉溪日报
+LA 中文;
+CN 53-0040
+DS CNKI
+LK https://link.cnki.net/doi/10.38270/n.cnki.nyxbr.2025.001446
+DO 10.38270/n.cnki.nyxbr.2025.001446
+
+RT Newspaper Article
+SR 1
+A1 孙榕;马梅若
+T1 科技如何重塑“在家养老”一场与时间、误解和尊严的赛跑
+JF 金融时报
+OP 012
+FD 2025-08-20
+PB 金融时报
+LA 中文;
+CN 11-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28460/n.cnki.njrsb.2025.004598
+DO 10.28460/n.cnki.njrsb.2025.004598
+
+RT Newspaper Article
+SR 1
+A1 蒋承骏;毕金钧;姜涛
+T1 年底前扬州主城区颐养社区覆盖率100%
+JF 扬州日报
+OP 005
+FD 2025-08-20
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2025.001939
+DO 10.38283/n.cnki.nyzbr.2025.001939
+
+RT Newspaper Article
+SR 1
+A1 翟枫瑞
+AD 北京商报;
+T1 适老化改造热度攀升家居行业加速布局新蓝海
+JF 北京商报
+OP 004
+FD 2025-08-19
+PB 北京商报
+LA 中文;
+CN 11-0104
+DS CNKI
+LK https://link.cnki.net/doi/10.28036/n.cnki.nbjxd.2025.002585
+DO 10.28036/n.cnki.nbjxd.2025.002585
+
+RT Newspaper Article
+SR 1
+T1 进一步促进养老服务消费
+JF 经济日报
+OP 006
+FD 2025-08-17
+PB 经济日报
+LA 中文;
+CN 11-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28425/n.cnki.njjrb.2025.007406
+DO 10.28425/n.cnki.njjrb.2025.007406
+
+RT Newspaper Article
+SR 1
+A1 高珊;刘剑英
+T1 一个老旧小区的华丽转身
+JF 河北日报
+OP 005
+FD 2025-08-14
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2025.007344
+DO 10.28326/n.cnki.nhbrb.2025.007344
+
+RT Newspaper Article
+SR 1
+A1 白诚颖
+T1 我市实施特殊困难老年人居家适老化改造2506户
+JF 玉溪日报
+OP 003
+FD 2025-08-11
+PB 玉溪日报
+LA 中文;
+CN 53-0040
+DS CNKI
+LK https://link.cnki.net/doi/10.38270/n.cnki.nyxbr.2025.001413
+DO 10.38270/n.cnki.nyxbr.2025.001413
+
+RT Newspaper Article
+SR 1
+A1 邢晓然
+T1 全市养老服务规上企业达到12家
+JF 济南日报
+OP 001
+FD 2025-08-06
+PB 济南日报
+LA 中文;
+CN 37-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.28453/n.cnki.njnrb.2025.004588
+DO 10.28453/n.cnki.njnrb.2025.004588
+
+RT Newspaper Article
+SR 1
+A1 刘冕
+AD 洪观新闻;
+T1 适老微改造让“养老”更“享老”
+JF 南昌日报
+OP 007
+FD 2025-08-05
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2025.002469
+DO 10.28591/n.cnki.nncrb.2025.002469
+
+RT Journal Article
+SR 1
+A1 杨莉
+AD 武汉市社会科学院社会学所;
+T1 武汉市提升适老化建设水平调查研究
+JF 武汉社会科学
+YR 2025
+IS 02
+OP 89-95
+K1 适老化;硬环境;软环境;养老服务;社区食堂
+AB 在人口老龄化加剧背景下，武汉通过实施居家适老化改造、推动医养康养融合、搭建数字化养老服务平台、开展智能化养老社会实验、升级老年助餐食堂等举措推进适老化建设，取得阶段性成果。然而，在“硬环境”建设方面，尚存在城乡资源失衡、公共空间规划系统性不足、无障碍设施不全、老年产品产业链滞后等问题；在“软环境”建设方面，存在网络适老化改造缺乏人文关怀、老年短剧缺乏市场监管、社区助餐服务缺乏可持续性发展等问题。武汉市进一步提升城市适老化建设水平，需从三个方面进行优化：加大适老化改造投入，探索智慧养老模式；强化“软环境”建设，完善老年精神文化服务并引导积极老龄化理念；多方参与，探索构建政府社会市场多方协同机制。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJ7nRqsG3T9OmmC99buV9qxKP7E5kEOcooETYzoyxeAXUoZWt3Mbt7snKD2KjUOIHV6OFhShkJM4zUEBIsak7y9EJkb8decd0u1Z05sSrlX2ITxdWrf_R2yCWL1V7o4ECz5FAX1h-_K7BKBuPFcO3TX-kbLlFGQbWtnMApfthFr-A==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 马丽萍
+T1 “辰光里”的幸福晚年图景
+JF 中国社会报
+OP 004
+FD 2025-07-31
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.001013
+DO 10.28698/n.cnki.nshhu.2025.001013
+
+RT Newspaper Article
+SR 1
+A1 张瑾
+T1 侬好，适老化样板间
+JF 中国银行保险报
+OP 006
+FD 2025-07-30
+PB 中国银行保险报
+LA 中文;
+CN 11-0310
+DS CNKI
+LK https://link.cnki.net/doi/10.28049/n.cnki.ncbxb.2025.003869
+DO 10.28049/n.cnki.ncbxb.2025.003869
+
+RT Newspaper Article
+SR 1
+A1 杨千慧
+AD 山东商报;速豹新闻网;
+T1 银发浪潮下适老化改造提速
+JF 山东商报
+OP 012
+FD 2025-07-30
+PB 山东商报
+LA 中文;
+CN 37-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28685/n.cnki.nsdsb.2025.001946
+DO 10.28685/n.cnki.nsdsb.2025.001946
+
+RT Newspaper Article
+SR 1
+A1 唐悦;何千晨
+T1 居家“小改造”撬动养老“大产业”
+JF 新华日报
+OP 004
+FD 2025-07-28
+PB 新华日报
+LA 中文;
+CN 32-0050
+DS CNKI
+LK https://link.cnki.net/doi/10.28872/n.cnki.nxhrb.2025.006212
+DO 10.28872/n.cnki.nxhrb.2025.006212
+
+RT Newspaper Article
+SR 1
+A1 陶然
+T1 居家适老化改造产品也能以旧换新了
+JF 郑州日报
+OP 001
+FD 2025-07-23
+PB 郑州日报
+LA 中文;
+CN 41-0048
+DS CNKI
+LK https://link.cnki.net/doi/10.38344/n.cnki.nzzrb.2025.002178
+DO 10.38344/n.cnki.nzzrb.2025.002178
+
+RT Newspaper Article
+SR 1
+A1 孙金诚
+T1 幸福，在细微处生长
+JF 人民政协报
+OP 005
+FD 2025-07-21
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2025.005734
+DO 10.28660/n.cnki.nrmzx.2025.005734
+
+RT Newspaper Article
+SR 1
+A1 赵娜;梁大闯
+T1 我市全面启动适老化改造“焕新”补贴
+JF 张家口日报
+OP 002
+FD 2025-07-21
+PB 张家口日报
+LA 中文;
+CN 13-0019
+DS CNKI
+LK https://link.cnki.net/doi/10.38325/n.cnki.nzjkb.2025.001494
+DO 10.38325/n.cnki.nzjkb.2025.001494
+
+RT Newspaper Article
+SR 1
+A1 陈佳琳
+T1 适老化改造“体验车”进小区
+JF 新民晚报
+OP 002
+FD 2025-07-19
+PB 新民晚报
+LA 中文;
+CN 31-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28892/n.cnki.nxmwb.2025.001675
+DO 10.28892/n.cnki.nxmwb.2025.001675
+
+RT Newspaper Article
+SR 1
+A1 郑义;李冰洁
+T1 “西山颐养”智慧享老
+JF 中国县域经济报
+OP 004
+FD 2025-07-14
+PB 中国县域经济报
+LA 中文;
+CN 11-0121
+DS CNKI
+LK https://link.cnki.net/doi/10.28426/n.cnki.njjrn.2025.001346
+DO 10.28426/n.cnki.njjrn.2025.001346
+
+RT Newspaper Article
+SR 1
+A1 邵鹏璐
+T1 数字适老让晚年生活变“讲究”
+JF 中国经济导报
+OP 003
+FD 2025-07-12
+PB 中国经济导报
+LA 中文;
+CN 11-0233
+DS CNKI
+LK https://link.cnki.net/doi/10.28095/n.cnki.ncjjd.2025.000925
+DO 10.28095/n.cnki.ncjjd.2025.000925
+
+RT Newspaper Article
+SR 1
+A1 张文利
+T1 适老化改造评估师让家“逆生长”
+JF 浙江老年报
+OP 002
+FD 2025-07-11
+PB 浙江老年报
+LA 中文;
+CN 33-0097
+DS CNKI
+LK https://link.cnki.net/doi/10.38327/n.cnki.nzjln.2025.000072
+DO 10.38327/n.cnki.nzjln.2025.000072
+
+RT Newspaper Article
+SR 1
+A1 李国
+T1 重庆推出两大创新举措破解养老难题
+JF 工人日报
+OP 004
+FD 2025-07-07
+PB 工人日报
+LA 中文;
+CN 11-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28277/n.cnki.ngrrb.2025.005284
+DO 10.28277/n.cnki.ngrrb.2025.005284
+
+RT Newspaper Article
+SR 1
+A1 李玥
+T1 养老服务多样化点亮幸福“夕阳红”
+JF 哈尔滨日报
+OP 002
+FD 2025-07-06
+PB 哈尔滨日报
+LA 中文;
+CN 23-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28334/n.cnki.nhebb.2025.003024
+DO 10.28334/n.cnki.nhebb.2025.003024
+
+RT Journal Article
+SR 1
+A1 于凌浩
+AD 新疆师范高等专科学校;
+T1 居家养老模式下室内空间适老化设计
+JF 明日风尚
+YR 2025
+IS 13
+OP 96-98
+AB <正>人口老龄化是当今世界人口发展变化的主要趋势，各国都会相继进入老龄化社会。《中华人民共和国老年人权益保障法》中规定，60岁及以上的人口统称为老年人。我国作为人口大国，人口老龄化呈现出老年人口数量多、发展速度较快、发展不平衡的特点。随着老年人数量的持续增加，老年人对室内空间适老化设计的需求日趋明显，营造“适合、适宜、适用”的老年居住环境，不仅是每一位设计师的应尽职责，也是对孝亲敬老这一中华传统美德的传承，更是构建和谐社会、实现代际共融的必然要求和题中之义。
+SN 1673-8365
+CN 32-1775/G0
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKM5cIsH4NdZBoFEc-0fSli6LA4ZTOPdP8slk8m7AJZTBOzGi_1Xer3QgMVDEXEzBGZRjBe1wZgvcsxf40e8K2f5u3wHEy85vNr-ofyto9Wd7PUfI5wTvkOnynXHei8cO40r-w3Asd3zopNHDu9TAvISiFGQ2rSEROn0u9zuOyYYy8yvnB8XNWj&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 罗园
+T1 如何破解适老化改造中的难题？
+JF 精神文明报
+OP 001
+FD 2025-07-04
+PB 精神文明报
+LA 中文;
+CN 51-0055
+DS CNKI
+LK https://link.cnki.net/doi/10.28476/n.cnki.njswm.2025.000271
+DO 10.28476/n.cnki.njswm.2025.000271
+
+RT Newspaper Article
+SR 1
+A1 王冠;杜菲菲
+T1 打造银发“幸福圈”托起最暖“夕阳红”
+JF 哈尔滨日报
+OP 004
+FD 2025-07-04
+PB 哈尔滨日报
+LA 中文;
+CN 23-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28334/n.cnki.nhebb.2025.002991
+DO 10.28334/n.cnki.nhebb.2025.002991
+
+RT Newspaper Article
+SR 1
+A1 赖昊拓;陈尹荔
+T1 闽企发力适老化产品赛道
+JF 福建日报
+OP 008
+FD 2025-07-03
+PB 福建日报
+LA 中文;
+CN 35-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28232/n.cnki.nfjrb.2025.005441
+DO 10.28232/n.cnki.nfjrb.2025.005441
+
+RT Newspaper Article
+SR 1
+A1 张莎
+AD 新重庆;重庆日报;
+T1 重庆双策发力撬动养老服务全新升级
+JF 重庆日报
+OP 002
+FD 2025-06-28
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2025.003822
+DO 10.28120/n.cnki.ncqrb.2025.003822
+
+RT Newspaper Article
+SR 1
+A1 张伟涛
+T1 智慧服务点亮银龄生活
+JF 中国社会报
+OP 003
+FD 2025-06-25
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000841
+DO 10.28698/n.cnki.nshhu.2025.000841
+
+RT Newspaper Article
+SR 1
+A1 孙潇
+T1 昆明多元化养老体系托起幸福“夕阳红”
+JF 昆明日报
+OP 001
+FD 2025-06-23
+PB 昆明日报
+LA 中文;
+CN 53-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28508/n.cnki.nkmrb.2025.002176
+DO 10.28508/n.cnki.nkmrb.2025.002176
+
+RT Newspaper Article
+SR 1
+A1 邬靓
+AD 洪观新闻;
+T1 青山湖区：“小改变”带来居家养老“大安心”
+JF 南昌日报
+OP 006
+FD 2025-06-20
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2025.001927
+DO 10.28591/n.cnki.nncrb.2025.001927
+
+RT Newspaper Article
+SR 1
+A1 宋宁华;陈佳琳;曹博文
+T1 黑科技云集全场景关怀
+JF 新民晚报
+OP 006
+FD 2025-06-11
+PB 新民晚报
+LA 中文;
+CN 31-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28892/n.cnki.nxmwb.2025.001376
+DO 10.28892/n.cnki.nxmwb.2025.001376
+
+RT Newspaper Article
+SR 1
+A1 解敏
+T1 迎接银发浪潮洞见产业未来
+JF 新民晚报
+OP 007
+FD 2025-06-11
+PB 新民晚报
+LA 中文;
+CN 31-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28892/n.cnki.nxmwb.2025.001373
+DO 10.28892/n.cnki.nxmwb.2025.001373
+
+RT Newspaper Article
+SR 1
+A1 王海燕
+T1 社区养老资源“围墙”如何打破
+JF 解放日报
+OP 001
+FD 2025-06-04
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2025.003633
+DO 10.28410/n.cnki.njfrb.2025.003633
+
+RT Newspaper Article
+SR 1
+A1 王海燕
+T1 “大城养老”如何让老年人更满意
+JF 解放日报
+OP 002
+FD 2025-05-27
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2025.003435
+DO 10.28410/n.cnki.njfrb.2025.003435
+
+RT Newspaper Article
+SR 1
+A1 李玥
+T1 多样式养老服务托起幸福“夕阳红”
+JF 哈尔滨日报
+OP 003
+FD 2025-05-26
+PB 哈尔滨日报
+LA 中文;
+CN 23-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28334/n.cnki.nhebb.2025.002311
+DO 10.28334/n.cnki.nhebb.2025.002311
+
+RT Journal Article
+SR 1
+AD 济南市民政局;济南市发展和改革委员会;济南市财政局;济南市住房和城乡建设局;济南市商务局;济南市市场监管局;
+T1 济南市民政局济南市发展和改革委员会济南市财政局等6部门关于印发济南市2025年消费品以旧换新居家适老化改造补贴实施细则的通知
+JF 济南市人民政府公报
+YR 2025
+IS Z3
+vo 
+OP 9-20
+AB <正>济民发[2025]13号各区县(功能区)民政局、发改局、财政局、住建局、商务局、市场监管局:现将《济南市2025年消费品以旧换新居家适老化改造补贴实施细则》印发给你们,请认真抓好贯彻落实。2025年5月9日济南市2025年消费品以旧换新居家适老化改造补贴实施细则为深入贯彻党中央、国务院关于大规模设备更新和消费品以旧换新决策部署,全面落实市委、市政府工作安排,促进银发经济,提升养老服务领域消费,根据《民政部等6部门办公厅关于做好2025年家装厨卫“焕新”工作的通知》(商办消费函[2025]29号)、《山东省2025年加力扩围实施大规模设备更新和消费品以旧换新工作方案》的通知(鲁发改环资[2025]170号)、《关于印发山东省消费品以旧换新居家适老化改造补贴实施方案的通知》(鲁民函[2025]7号)和《2025年济南市家装、家居“焕新”补贴活动实施细则》要求,现就推进超长期特别国债资金支持居家适老化改造工作,制定我市实施细则。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJ9eLn1qraw-UjldE3koAXHToL4Y3DNXi0GIxfOYeAsbh0bsoGK5RAMZUvhZumdudzME0XwiumgmjLPen38CGxbyc0hh6LNZdZQNcZhxFsy6PzutJtCC9KDf7ISn_qeqX-kTNouZUTpxXroKrBZKXu1Yyt0cD-2KU7DHb3bb42cmQ==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 魏吉珂;徐欢;张梅莲;武雪
+T1 海州区倾力打造“颐养之城”
+JF 连云港日报
+OP 003
+FD 2025-05-24
+PB 连云港日报
+LA 中文;
+CN 32-0041
+DS CNKI
+LK https://link.cnki.net/doi/10.28550/n.cnki.nlygb.2025.000856
+DO 10.28550/n.cnki.nlygb.2025.000856
+
+RT Newspaper Article
+SR 1
+A1 伍欣
+T1 送上门的养老服务解决了急难愁盼
+JF 中国社会报
+OP 001
+FD 2025-05-21
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000675
+DO 10.28698/n.cnki.nshhu.2025.000675
+
+RT Newspaper Article
+SR 1
+A1 王子浩
+T1 构建可持续的适老化服务生态体系
+JF 中国财经报
+OP 008
+FD 2025-05-20
+PB 中国财经报
+LA 中文;
+CN 11-0185
+DS CNKI
+LK https://link.cnki.net/doi/10.28053/n.cnki.nccjb.2025.001046
+DO 10.28053/n.cnki.nccjb.2025.001046
+
+RT Newspaper Article
+SR 1
+A1 王子浩
+T1 小改造大民生
+JF 中国财经报
+OP 008
+FD 2025-05-20
+PB 中国财经报
+LA 中文;
+CN 11-0185
+DS CNKI
+LK https://link.cnki.net/doi/10.28053/n.cnki.nccjb.2025.001048
+DO 10.28053/n.cnki.nccjb.2025.001048
+
+RT Newspaper Article
+SR 1
+A1 庄瑞玉
+T1 居家适老化：每人最高补贴1万元
+JF 深圳特区报
+OP A06
+FD 2025-05-15
+PB 深圳特区报
+LA 中文;
+CN 44-0027
+DS CNKI
+LK https://link.cnki.net/doi/10.28776/n.cnki.nsztq.2025.003465
+DO 10.28776/n.cnki.nsztq.2025.003465
+
+RT Newspaper Article
+SR 1
+A1 张平;符艳;李凌晨;王进
+T1 四川宣汉：适老化改造高效破解“居家养老难”
+JF 中国改革报
+OP 003
+FD 2025-05-14
+PB 中国改革报
+LA 中文;
+CN 11-0178
+DS CNKI
+LK https://link.cnki.net/doi/10.28074/n.cnki.ncggb.2025.000722
+DO 10.28074/n.cnki.ncggb.2025.000722
+
+RT Newspaper Article
+SR 1
+A1 孙彦川
+T1 多重保障让幸福晚年可感可及
+JF 中国社会报
+OP 001
+FD 2025-05-14
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000636
+DO 10.28698/n.cnki.nshhu.2025.000636
+
+RT Newspaper Article
+SR 1
+A1 陈璋
+T1 安全居家舒适养老
+JF 江西日报
+OP 005
+FD 2025-05-13
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2025.002801
+DO 10.28490/n.cnki.njxrb.2025.002801
+
+RT Newspaper Article
+SR 1
+A1 范俐鑫
+T1 山东共有养老机构2707家
+JF 济南日报
+OP 002
+FD 2025-05-10
+PB 济南日报
+LA 中文;
+CN 37-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.28453/n.cnki.njnrb.2025.002166
+DO 10.28453/n.cnki.njnrb.2025.002166
+
+RT Newspaper Article
+SR 1
+A1 马强;张敏
+AD 广元市融媒体中心;
+T1 打造家门口的幸福养老圈
+JF 广元日报
+OP 003
+FD 2025-05-06
+PB 广元日报
+LA 中文;
+CN 51-0093
+DS CNKI
+LK https://link.cnki.net/doi/10.28294/n.cnki.ngybr.2025.000787
+DO 10.28294/n.cnki.ngybr.2025.000787
+
+RT Newspaper Article
+SR 1
+A1 洪永林
+T1 我市多措并举激发银发经济发展新动能
+JF 九江日报
+OP 002
+FD 2025-04-29
+PB 九江日报
+LA 中文;
+CN 36-0008
+DS CNKI
+LK https://link.cnki.net/doi/10.28424/n.cnki.njjra.2025.000770
+DO 10.28424/n.cnki.njjra.2025.000770
+
+RT Journal Article
+SR 1
+T1 江西省民政厅江西省商务厅江西省财政厅关于印发《江西省2025年消费品以旧换新居家适老化改造实施细则》的通知
+JF 江西省人民政府公报
+YR 2025
+IS 08
+vo 
+OP 28-41
+AB <正>赣民字〔2025〕12号2025年4月11日各设区市民政局、商务局、财政局:现将《江西省2025年消费品以旧换新居家适老化改造实施细则》印发给你们,请结合工作实际,抓好贯彻落实。(此件主动公开)江西省2025年消费品以旧换新居家适老化改造实施细则
+SN 2096-8825
+CN 36-1306/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iI4Lt9YRefudeugAlePGzYsRYB30uzqnpMgR1quPUlpDQdAAePcVpK9xc8xs7PE9pVcA2V9XyrP16FITZptBJI_dNTnkTM_K9LnS55lSISLJOhahRwuouu1DMfkRQm0sI1i-avq45RucOW3Z7Iwz8qsBcKRan7dYRrCijS0zKzAzfABOTK1MoOe&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+AD 江西省民政厅;
+T1 《江西省2025年消费品以旧换新居家适老化改造实施细则》政策解读
+JF 江西省人民政府公报
+YR 2025
+IS 08
+vo 
+OP 44-45
+AB <正>一、起草背景为贯彻落实党中央、国务院关于提振消费和“两新”工作部署,做好我省2025年度消费品以旧换新居家适老化工作,根据商务部等6部门办公厅《关于做好2025年家装厨卫“焕新”工作的通知》(商办消费函〔2025〕29号)和省发展改革委、省财政厅《关于印发<江西省2025年加力扩围实施大规模设备更新和消费品以旧换新工作方案>的通知》(赣发改环资〔2025〕68号)及省商务厅等11部门《江西省2025年加力扩围消费品以旧换新实施细则》(赣商务消费字〔2025〕17号)等文件要求,省民政厅会同省商务厅、省财政厅制定《江西省2025年消费品以旧换新居家适老化改造实施细则》(以下简称《实施细则》)。
+SN 2096-8825
+CN 36-1306/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iLpaJWaMvumoJwQ14d0r6ojskq0FAyMghpV5Xvy_Vbub_vOboGs8U38V8fhYJNqrlIWcdtOoAVkCtFHiW-h2GINl1pmDfet4m9EZGX51POEem_VuwGqF-Cvcc4XgKFdK1pokVkerQht0T-RCDbq7ToH_SYXC2yRi2mFYc0djbTYppfGzjMrdn5_&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 张敏;马强;侯东
+T1 广元朝天区打造“家门口”的幸福养老圈
+JF 四川经济日报
+OP 003
+FD 2025-04-25
+PB 四川经济日报
+LA 中文;
+CN 51-0044
+DS CNKI
+LK https://link.cnki.net/doi/10.28666/n.cnki.nscjj.2025.000818
+DO 10.28666/n.cnki.nscjj.2025.000818
+
+RT Newspaper Article
+SR 1
+A1 贾润梅
+T1 深化改造优服务描绘“享老”新图景
+JF 中国质量报
+OP 007
+FD 2025-04-24
+PB 中国质量报
+LA 中文;
+CN 11-0167
+DS CNKI
+LK https://link.cnki.net/doi/10.28164/n.cnki.nczlb.2025.001420
+DO 10.28164/n.cnki.nczlb.2025.001420
+
+RT Newspaper Article
+SR 1
+A1 赖婷婷;缪亚平
+T1 云南省出台28项政策措施提振消费
+JF 昆明日报
+OP 003
+FD 2025-04-17
+PB 昆明日报
+LA 中文;
+CN 53-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28508/n.cnki.nkmrb.2025.001347
+DO 10.28508/n.cnki.nkmrb.2025.001347
+
+RT Newspaper Article
+SR 1
+A1 马丽萍
+T1 聚焦多元需求激活消费潜能
+JF 中国社会报
+OP 004
+FD 2025-04-17
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000537
+DO 10.28698/n.cnki.nshhu.2025.000537
+
+RT Newspaper Article
+SR 1
+A1 伍慧
+T1 惠民生增福祉促友好今年老龄工作这么干
+JF 宁波日报
+OP 007
+FD 2025-04-17
+PB 宁波日报
+LA 中文;
+CN 33-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28586/n.cnki.nnbrb.2025.001154
+DO 10.28586/n.cnki.nnbrb.2025.001154
+
+RT Journal Article
+SR 1
+T1 景德镇市民政局景德镇市商务局景德镇市财政局关于印发《景德镇市2025年消费品以旧换新居家适老化改造实施细则》的通知
+JF 景德镇市人民政府公报
+YR 2025
+IS 04
+vo 
+OP 56-69
+AB <正>景民字〔2025〕23号2025年4月21日各县（市、区）民政局、商务局、财政局，昌南新区社会事业管理局、产业促进局、财政局：现将《景德镇市2025年消费品以旧换新居家适老化改造实施细则》印发给你们，请结合工作实际，抓好贯彻落实。（此件主动公开）景德镇市2025年消费品以旧换新居家适老化改造实施细则
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iIG0zTJh1FTSC9Mz6g22zG1b0RFD_9wo-CixyeNPim7J37CwiUhLOEBS7Rxrgnpp6oA0tcepalXUQYi6pu4BsdFEMpc_af9wUm0exagWzOCtBZgmwWtlR969R4e7iXyoWYNwhHv2P2cPREtO6Jh_m7AG5N8nTzwS5qn5Je2dXJXCmhAQwDTgxj3&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+T1 《景德镇市2025年消费品以旧换新居家适老化改造实施细则》政策解读
+JF 景德镇市人民政府公报
+YR 2025
+IS 04
+vo 
+OP 69-81
+AB <正>为贯彻落实党中央、国务院决策部署和省委、省政府工作要求，根据《江西省2025年消费品以旧换新居家适老化改造实施细则》（赣民字〔2025〕12号）要求，决定在全市开展消费品以旧换新居家适老化改造项目。一、补贴对象及标准（一）补贴对象居住在本市范围内年满60周岁（以申请当日为计算基准）的老年人，均可自愿申请居家适老化改造。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iIG0zTJh1FTSC9Mz6g22zG1b0RFD_9wo-CixyeNPim7J37CwiUhLOEBuUZ_ggOjauUDuxGpBM1s_vAYAJDs4gu6IuA1EU2O7H-AraqWCMXuuCycu6ic8oU6q8IU2xNRoF6_zq_6Gagj7DcO5tdLC_--ytVO_kFSzsGXU9kzdrF8QssRHu93n4Aa&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 刘俊
+AD 长沙晚报;
+T1 在自个屋里就能安心养老
+JF 长沙晚报
+OP 001
+FD 2025-04-14
+PB 长沙晚报
+LA 中文;
+CN 43-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28047/n.cnki.ncawb.2025.001033
+DO 10.28047/n.cnki.ncawb.2025.001033
+
+RT Newspaper Article
+SR 1
+A1 徐蓓
+T1 居家适老化改造其实没那么简单
+JF 解放日报
+OP 009
+FD 2025-04-14
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2025.002050
+DO 10.28410/n.cnki.njfrb.2025.002050
+
+RT Newspaper Article
+SR 1
+A1 王骁
+T1 硬科技+软服务!织就东莞银发“幸福网”
+JF 东莞日报
+OP A04
+FD 2025-04-03
+PB 东莞日报
+LA 中文;
+CN 44-0057
+DS CNKI
+LK https://link.cnki.net/doi/10.28181/n.cnki.ndgrb.2025.000722
+DO 10.28181/n.cnki.ndgrb.2025.000722
+
+RT Newspaper Article
+SR 1
+A1 于娜
+AD 山东商报;速豹新闻网;
+T1 政策赋能，活动焕新
+JF 山东商报
+OP 007
+FD 2025-04-03
+PB 山东商报
+LA 中文;
+CN 37-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28685/n.cnki.nsdsb.2025.000975
+DO 10.28685/n.cnki.nsdsb.2025.000975
+
+RT Newspaper Article
+SR 1
+A1 吴舒睿
+T1 助力银发经济驶向“新蓝海”
+JF 中国县域经济报
+OP 004
+FD 2025-04-03
+PB 中国县域经济报
+LA 中文;
+CN 11-0121
+DS CNKI
+LK https://link.cnki.net/doi/10.28426/n.cnki.njjrn.2025.000639
+DO 10.28426/n.cnki.njjrn.2025.000639
+
+RT Newspaper Article
+SR 1
+A1 何明华;安忠芳
+AD 广西云;广西日报;
+T1 改善民生释放银发经济活力
+JF 广西日报
+OP 007
+FD 2025-04-02
+PB 广西日报
+LA 中文;
+CN 45-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28292/n.cnki.ngxrb.2025.002100
+DO 10.28292/n.cnki.ngxrb.2025.002100
+
+RT Newspaper Article
+SR 1
+A1 于娜;吕奕
+AD 山东商报;速豹新闻网;
+T1 居家适老化改造首批补贴1000万元
+JF 山东商报
+OP 007
+FD 2025-03-31
+PB 山东商报
+LA 中文;
+CN 37-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28685/n.cnki.nsdsb.2025.000911
+DO 10.28685/n.cnki.nsdsb.2025.000911
+
+RT Newspaper Article
+SR 1
+A1 卢珍珍
+AD 台传媒;
+T1 适老化改造助力银龄生活
+JF 台州日报
+OP 006
+FD 2025-03-31
+PB 台州日报
+LA 中文;
+CN 33-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28812/n.cnki.ntzrb.2025.001080
+DO 10.28812/n.cnki.ntzrb.2025.001080
+
+RT Journal Article
+SR 1
+AD 广州市民政局;广州市财政局;广州市残疾人联合会;
+T1 广州市民政局广州市财政局广州市残疾人联合会关于印发广州市老年人居家适老化改造工作实施方案的通知
+JF 广州市人民政府公报
+YR 2025
+IS 09
+vo 
+OP 15-28
+AB <正>GZ0320250009广州市民政局广州市财政局广州市残疾人联合会文件穗民规字〔2025〕1号各区民政局、财政局、残疾人联合会：按照《民政部等九部门关于加快实施老年人居家适老化改造工程的指导意见》（民发〔2020〕86号）、《广东省民政厅等九部门关于做好老年人居家适老化改造工作的通知》（粤民发〔2020〕151号）要求，为充分调动社会力量参与居家社区养老服务的积极性，推动我市居家适老化改造工作稳步、长效开展，现将《广州市老年人居家适老化改造工作实施方案》印发给你们，请认真贯彻执行。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKfguqC1W6TB7yj_6xpeA5_reJKtIgiyCNRtOsG3ArxIC6JIGzRR5GPKM0dAirar_4DUfvmxNCesIgFkr2i4udbl7KsZrWrZ4nEAarcF4NXmJOzgZYKhls4jtN2Ki-J9bHTq98kRPlfudd_Dxp4Wte-8kBFpAU2V9MDnVoi6EaJDSPpl18p2HkZ&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+T1 《关于印发广州市老年人居家适老化改造工作实施方案的通知》政策解读
+JF 广州市人民政府公报
+YR 2025
+IS 09
+vo 
+OP 46-47
+AB <正>一、《通知》制定背景2021年施行的《广州市民政局广州市财政局广州市残疾人联合会关于印发广州市老年人居家适老化改造工作实施方案的通知》（穗民规字〔2021〕8号）已届满失效，为保持政策的连续性，结合最新工作实际，市民政局会同市财政局、市残联制定了《广州市民政局广州市财政局广州市残疾人联合会关于印发广州市老年人居家适老化改造工作实施方案的通知》（穗民规字〔2025〕1号，以下简称《通知》），确保广州市适老化改造工作顺利开展。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKfguqC1W6TB7yj_6xpeA5_reJKtIgiyCNRtOsG3ArxIC6JIGzRR5GPMbjQTPjgD6NrnfBNmWxX5O21SMQ2DI2uWj7ZXRumt8UvkNf1lN1t-jGTwnFdHiniov6QiRxDEK2JYNjs6gXCLC50ygJd4uIZryMSnkGPeB6pC-XKNHoeclNvmdA7skdV&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 邱正
+T1 适老化改造如何更“适”老
+JF 青岛日报
+OP 008
+FD 2025-03-28
+PB 青岛日报
+LA 中文;
+CN 37-0029
+DS CNKI
+LK https://link.cnki.net/doi/10.28617/n.cnki.nqdrb.2025.001037
+DO 10.28617/n.cnki.nqdrb.2025.001037
+
+RT Newspaper Article
+SR 1
+AD 民盟安徽省委会;
+T1 优化多元供给构筑养老友好型社会
+JF 江淮时报
+OP 003
+FD 2025-03-25
+PB 江淮时报
+LA 中文;
+CN 34-0053
+DS CNKI
+LK https://link.cnki.net/doi/10.28414/n.cnki.njhsb.2025.000297
+DO 10.28414/n.cnki.njhsb.2025.000297
+
+RT Newspaper Article
+SR 1
+A1 张晶晶
+T1 增进民生福祉释放消费潜力
+JF 中国社会报
+OP 001
+FD 2025-03-24
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000413
+DO 10.28698/n.cnki.nshhu.2025.000413
+
+RT Newspaper Article
+SR 1
+A1 程晖
+T1 探访北京适老化改造样板间：政策引领下的银发经济新图景
+JF 中国经济导报
+OP 002
+FD 2025-03-22
+PB 中国经济导报
+LA 中文;
+CN 11-0233
+DS CNKI
+LK https://link.cnki.net/doi/10.28095/n.cnki.ncjjd.2025.000304
+DO 10.28095/n.cnki.ncjjd.2025.000304
+
+RT Newspaper Article
+SR 1
+A1 程晖
+T1 政策引领下的银发经济新图景
+JF 中国改革报
+OP 002
+FD 2025-03-21
+PB 中国改革报
+LA 中文;
+CN 11-0178
+DS CNKI
+LK https://link.cnki.net/doi/10.28074/n.cnki.ncggb.2025.000399
+DO 10.28074/n.cnki.ncggb.2025.000399
+
+RT Newspaper Article
+SR 1
+A1 贾臻
+AD 青岛日报;观海新闻;
+T1 居家适老化改造补贴将惠及全市常住老年人
+JF 青岛日报
+OP 006
+FD 2025-03-21
+PB 青岛日报
+LA 中文;
+CN 37-0029
+DS CNKI
+LK https://link.cnki.net/doi/10.28617/n.cnki.nqdrb.2025.000981
+DO 10.28617/n.cnki.nqdrb.2025.000981
+
+RT Newspaper Article
+SR 1
+A1 赖志凯
+T1 北京适老化改造将落地“百街万户”
+JF 工人日报
+OP 004
+FD 2025-03-20
+PB 工人日报
+LA 中文;
+CN 11-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28277/n.cnki.ngrrb.2025.001616
+DO 10.28277/n.cnki.ngrrb.2025.001616
+
+RT Newspaper Article
+SR 1
+A1 施妍
+T1 “享老”如何从家开始
+JF 湖州日报
+OP A06
+FD 2025-03-18
+PB 湖州日报
+LA 中文;
+CN 33-0007
+DS CNKI
+LK https://link.cnki.net/doi/10.28398/n.cnki.nhzdn.2025.000868
+DO 10.28398/n.cnki.nhzdn.2025.000868
+
+RT Newspaper Article
+SR 1
+T1 富德生命人寿“美好生活”助力品质养老
+JF 中国银行保险报
+OP 019
+FD 2025-03-17
+PB 中国银行保险报
+LA 中文;
+CN 11-0310
+DS CNKI
+LK https://link.cnki.net/doi/10.28049/n.cnki.ncbxb.2025.001034
+DO 10.28049/n.cnki.ncbxb.2025.001034
+
+RT Newspaper Article
+SR 1
+A1 崔亦馨
+T1 倾心颐养享安澜桑榆暮景绽春晖
+JF 咸阳日报
+OP 001
+FD 2025-03-17
+PB 咸阳日报
+LA 中文;
+CN 61-0007
+DS CNKI
+LK https://link.cnki.net/doi/10.38218/n.cnki.nxybr.2025.000637
+DO 10.38218/n.cnki.nxybr.2025.000637
+
+RT Journal Article
+SR 1
+A1 汤军;王振鑫
+AD 武汉理工大学艺术与设计学院;
+T1 针对居家老年人需求的智能床头柜设计研究与实践
+JF 包装与设计
+YR 2025
+IS 02
+vo 
+OP 184-186
+K1 老年人;居家养老;智能床头柜;模块化设计
+AB 我国老龄化趋势不断加快，老年人的居家生活越来越受到重视。本研究首先对居家老年人这一群体的生理特点、床边活动场景进行了分析，将居家老年人对床头柜的需求归纳为环境卫生需求、娱乐性需求、便利性需求、身体健康需求和居家医疗需求五大类型；然后基于对目标人群需求的分析，以及对同类产品的调研，提出了一款模块化智能床头柜设计方案，旨在满足不同类型老年人在不同方面的需求，为老年群体带来更好的生活体验。
+SN 1007-4759
+CN 44-1262/TB
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJw_bwBp8NR6rwNZ0TSlRxZEJbylfFCkbkr_UsKN-rO-G0I4iow0afKvJHnMmvFTXXHr-Nl7xzpS1oPN35Fz4SFXGLBgGESH9syykBWjMAApSig4sM4__0A-xX-gzvhyNApOb_7LXDuXe20hTHh6mnKeLXkWiezoST2k11lHQhsr79_49ZjqkUU&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 卢扬;程靓
+AD 北京商报;
+T1 北京首批9个适老化改造公共样板间亮相
+JF 北京商报
+OP 002
+FD 2025-03-14
+PB 北京商报
+LA 中文;
+CN 11-0104
+DS CNKI
+LK https://link.cnki.net/doi/10.28036/n.cnki.nbjxd.2025.000706
+DO 10.28036/n.cnki.nbjxd.2025.000706
+
+RT Newspaper Article
+SR 1
+A1 严少卫;陈远
+T1 银发浪潮下，“适老号”启航
+JF 中国人口报
+OP 004
+FD 2025-03-12
+PB 中国人口报
+LA 中文;
+CN 11-0020
+DS CNKI
+LK https://link.cnki.net/doi/10.28125/n.cnki.ncrcb.2025.000101
+DO 10.28125/n.cnki.ncrcb.2025.000101
+
+RT Newspaper Article
+SR 1
+A1 李榕
+T1 持续推动适老化改造提供更高质量的养老服务
+JF 中国建设报
+OP 003
+FD 2025-03-10
+PB 中国建设报
+LA 中文;
+CN 11-0038
+DS CNKI
+LK https://link.cnki.net/doi/10.38299/n.cnki.nzgjs.2025.000205
+DO 10.38299/n.cnki.nzgjs.2025.000205
+
+RT Newspaper Article
+SR 1
+A1 孙琳;任民
+T1 张北优化服务供给让老年人安享晚年
+JF 张家口日报
+OP 001
+FD 2025-03-10
+PB 张家口日报
+LA 中文;
+CN 13-0019
+DS CNKI
+LK https://link.cnki.net/doi/10.38325/n.cnki.nzjkb.2025.000555
+DO 10.38325/n.cnki.nzjkb.2025.000555
+
+RT Newspaper Article
+SR 1
+A1 徐晶卉
+T1 从30%适老化补贴窥见银发经济潜力
+JF 文汇报
+OP 005
+FD 2025-03-08
+PB 文汇报
+LA 中文;
+CN 31-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28814/n.cnki.nwehu.2025.000939
+DO 10.28814/n.cnki.nwehu.2025.000939
+
+RT Newspaper Article
+SR 1
+A1 闫洁;张伟涛;孙彦川
+T1 发展银发经济增进老年人福祉
+JF 中国社会报
+OP 001
+FD 2025-02-26
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000246
+DO 10.28698/n.cnki.nshhu.2025.000246
+
+RT Newspaper Article
+SR 1
+A1 周丽丽
+AD 台传媒;
+T1 居家适老化改造共筑老年友好社会
+JF 台州日报
+OP 003
+FD 2025-02-26
+PB 台州日报
+LA 中文;
+CN 33-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28812/n.cnki.ntzrb.2025.000657
+DO 10.28812/n.cnki.ntzrb.2025.000657
+
+RT Newspaper Article
+SR 1
+A1 董吉妮
+T1 2025年居家适老化改造补贴来啦
+JF 温州日报
+OP 002
+FD 2025-02-24
+PB 温州日报
+LA 中文;
+CN 33-0004
+DS CNKI
+LK https://link.cnki.net/doi/10.28840/n.cnki.nwzrb.2025.000559
+DO 10.28840/n.cnki.nwzrb.2025.000559
+
+RT Newspaper Article
+SR 1
+A1 胡彦思
+AD 洪观新闻;
+T1 “量身定制”守护幸福“夕阳红”
+JF 南昌日报
+OP 003
+FD 2025-02-22
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2025.000626
+DO 10.28591/n.cnki.nncrb.2025.000626
+
+RT Newspaper Article
+SR 1
+A1 李胜利;张玉春;谢美锋
+AD 益阳日报;
+T1 “一户一策”映关怀适老改造暖人心
+JF 益阳日报
+OP 003
+FD 2025-02-21
+PB 益阳日报
+LA 中文;
+CN 43-0047
+DS CNKI
+LK https://link.cnki.net/doi/10.38276/n.cnki.nyyrb.2025.000198
+DO 10.38276/n.cnki.nyyrb.2025.000198
+
+RT Newspaper Article
+SR 1
+A1 孙蔚
+T1 家装厨卫焕新动力足
+JF 中国消费者报
+OP 004
+FD 2025-02-21
+PB 中国消费者报
+LA 中文;
+CN 11-0042
+DS CNKI
+LK https://link.cnki.net/doi/10.28867/n.cnki.nxfzb.2025.000328
+DO 10.28867/n.cnki.nxfzb.2025.000328
+
+RT Newspaper Article
+SR 1
+A1 雷昱
+AD 农民日报;中国农网;
+T1 “床位”搬回家服务送上门
+JF 农民日报
+OP 007
+FD 2025-02-21
+PB 农民日报
+LA 中文;
+CN 11-0055
+DS CNKI
+LK https://link.cnki.net/doi/10.28603/n.cnki.nnmrb.2025.000834
+DO 10.28603/n.cnki.nnmrb.2025.000834
+
+RT Newspaper Article
+SR 1
+A1 那日苏
+T1 我市推动专业养老服务向失能老年人延伸
+JF 巴彦淖尔日报(汉)
+OP 002
+FD 2025-02-19
+PB 巴彦淖尔日报(汉)
+LA 中文;
+CN 15-0016
+DS CNKI
+LK https://link.cnki.net/doi/10.28044/n.cnki.nbyze.2025.000399
+DO 10.28044/n.cnki.nbyze.2025.000399
+
+RT Newspaper Article
+SR 1
+A1 温济聪
+T1 “焕新”释放家装厨卫消费潜力
+JF 经济日报
+OP 005
+FD 2025-02-17
+PB 经济日报
+LA 中文;
+CN 11-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28425/n.cnki.njjrb.2025.001050
+DO 10.28425/n.cnki.njjrb.2025.001050
+
+RT Newspaper Article
+SR 1
+A1 徐佳婷
+AD 沈阳日报;沈报;
+T1 沈阳老年人可以申请享受这些福利
+JF 沈阳日报
+OP 006
+FD 2025-02-07
+PB 沈阳日报
+LA 中文;
+CN 21-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28770/n.cnki.nsyrb.2025.000509
+DO 10.28770/n.cnki.nsyrb.2025.000509
+
+RT Newspaper Article
+SR 1
+A1 张思楠
+T1 在“老有所养”上持续用力
+JF 中国财经报
+OP 001
+FD 2025-02-06
+PB 中国财经报
+LA 中文;
+CN 11-0185
+DS CNKI
+LK https://link.cnki.net/doi/10.28053/n.cnki.nccjb.2025.000140
+DO 10.28053/n.cnki.nccjb.2025.000140
+
+RT Newspaper Article
+SR 1
+A1 杨光
+AD 青岛日报;观海新闻;
+T1 从“养老”到“享老”，青岛24项举措发展银发经济
+JF 青岛日报
+OP 003
+FD 2025-01-27
+PB 青岛日报
+LA 中文;
+CN 37-0029
+DS CNKI
+LK https://link.cnki.net/doi/10.28617/n.cnki.nqdrb.2025.000223
+DO 10.28617/n.cnki.nqdrb.2025.000223
+
+RT Newspaper Article
+SR 1
+A1 刘静静
+T1 关爱“零距离”情暖老人心
+JF 中国社会报
+OP 001
+FD 2025-01-24
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000120
+DO 10.28698/n.cnki.nshhu.2025.000120
+
+RT Newspaper Article
+SR 1
+A1 皮磊
+T1 天猫启动黄扶手计划3.0守“忘”行动
+JF 公益时报
+OP 009
+FD 2025-01-21
+PB 公益时报
+LA 中文;
+CN 11-0150
+DS CNKI
+LK https://link.cnki.net/doi/10.28297/n.cnki.ngysp.2025.000022
+DO 10.28297/n.cnki.ngysp.2025.000022
+
+RT Newspaper Article
+SR 1
+A1 闫妮莎;侯璐瑶
+T1 生活“无碍”让晚年更有爱
+JF 太行日报
+OP 002
+FD 2025-01-16
+PB 太行日报
+LA 中文;
+CN 14-0022
+DS CNKI
+LK https://link.cnki.net/doi/10.28778/n.cnki.ntarb.2025.000078
+DO 10.28778/n.cnki.ntarb.2025.000078
+
+RT Newspaper Article
+SR 1
+A1 张伟涛
+T1 让养老服务更专业更便捷
+JF 中国社会报
+OP 001
+FD 2025-01-14
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2025.000050
+DO 10.28698/n.cnki.nshhu.2025.000050
+
+RT Newspaper Article
+SR 1
+A1 黄靖怡
+T1 老年居家“有碍”变“有爱”
+JF 中山日报
+OP 001
+FD 2025-01-14
+PB 中山日报
+LA 中文;
+CN 44-0126
+DS CNKI
+LK https://link.cnki.net/doi/10.38337/n.cnki.nzsrb.2025.000081
+DO 10.38337/n.cnki.nzsrb.2025.000081
+
+RT Newspaper Article
+SR 1
+T1 怀揣民生良方真情建言献策
+JF 吴忠日报
+OP 003
+FD 2025-01-12
+PB 吴忠日报
+LA 中文;
+CN 64-0013
+DS CNKI
+LK https://link.cnki.net/doi/10.28838/n.cnki.nwzbr.2025.000126
+DO 10.28838/n.cnki.nwzbr.2025.000126
+
+RT Newspaper Article
+SR 1
+A1 张辉;王昳静
+T1 “小改造”托起“大幸福”
+JF 许昌日报
+OP 003
+FD 2025-01-10
+PB 许昌日报
+LA 中文;
+CN 41-0013
+DS CNKI
+LK https://link.cnki.net/doi/10.28851/n.cnki.nxcrb.2025.000060
+DO 10.28851/n.cnki.nxcrb.2025.000060
+
+RT Newspaper Article
+SR 1
+A1 王浩
+T1 推进社区和家庭适老化改造提升社区养老服务能力
+JF 菏泽日报
+OP 002
+FD 2025-01-09
+PB 菏泽日报
+LA 中文;
+CN 37-0067
+DS CNKI
+LK https://link.cnki.net/doi/10.28395/n.cnki.nhzbr.2025.000141
+DO 10.28395/n.cnki.nhzbr.2025.000141
+
+RT Newspaper Article
+SR 1
+A1 马飞
+T1 “养老”变“享老”“老龄”变“乐龄”
+JF 鹤壁日报
+OP 002
+FD 2025-01-07
+PB 鹤壁日报
+LA 中文;
+CN 41-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28314/n.cnki.nhbdn.2025.000045
+DO 10.28314/n.cnki.nhbdn.2025.000045
+
+RT Newspaper Article
+SR 1
+A1 高俊明;车雷超
+T1 城区持续健全城乡养老服务体系提升供给能力
+JF 太行日报
+OP 002
+FD 2025-01-07
+PB 太行日报
+LA 中文;
+CN 14-0022
+DS CNKI
+LK https://link.cnki.net/doi/10.28778/n.cnki.ntarb.2025.000019
+DO 10.28778/n.cnki.ntarb.2025.000019
+
+RT Newspaper Article
+SR 1
+A1 张子豪
+T1 办好助老小食堂民生“食事”更温暖
+JF 驻马店日报
+OP 006
+FD 2025-01-03
+PB 驻马店日报
+LA 中文;
+CN 41-0017
+DS CNKI
+LK https://link.cnki.net/doi/10.38333/n.cnki.nzmdb.2025.000019
+DO 10.38333/n.cnki.nzmdb.2025.000019
+
+RT Journal Article
+SR 1
+A1 张帅
+AD 青岛市民政局;
+T1 关于实施爱老助老五项行动的议案办理情况的报告——2024年12月19日在市十七届人大常委会第二十一次会议上
+JF 青岛市人民代表大会常务委员会公报
+YR 2024
+IS 06
+OP 117-139
+AB <正>青岛市人民代表大会常务委员会:现将实施爱老助老五项行动的议案办理情况报告如下。今年是实施爱老助老五项行动的收官之年,市政府认真落实市委和市人大常委会决策部署,统筹谋划布局,加力压茬推进,赵胜村副市长先后9次召开专题会议,研究解决工作推进中的疑难问题,实地督导调研五项行动推进情况,总结推广先进经验。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKlDTQkaLXr857m6aHGBJDpcTbEmdjGvIUz31GFEpaOVEc7gytZzFiYCNdTgxJYXsjVD9bXE_SE8aAw9l_ukOKQHhM47Jew2O5DgYOC1OoVHgE96M241ZflUXKSefBUBcAAh7_h36drVMSkT_A5Q3qcF0VfKlr_Aqyd1cN_vrD5eA==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 郭锦辉
+T1 抓住银发经济机遇
+JF 中国经济时报
+OP 003
+FD 2024-12-24
+PB 中国经济时报
+LA 中文;
+CN 11-0200
+DS CNKI
+LK https://link.cnki.net/doi/10.28427/n.cnki.njjsb.2024.001396
+DO 10.28427/n.cnki.njjsb.2024.001396
+
+RT Newspaper Article
+SR 1
+A1 马丽萍
+T1 把握关键之年聚力高质量发展
+JF 中国社会报
+OP 001
+FD 2024-12-24
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2024.001579
+DO 10.28698/n.cnki.nshhu.2024.001579
+
+RT Newspaper Article
+SR 1
+A1 王超
+T1 “养老”变“享老”的幸福密码
+JF 乌海日报
+OP 001
+FD 2024-12-24
+PB 乌海日报
+LA 中文;
+CN 15-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.28819/n.cnki.nwhbr.2024.002152
+DO 10.28819/n.cnki.nwhbr.2024.002152
+
+RT Journal Article
+SR 1
+A1 徐英子
+AD 《民生周刊》;
+T1 江苏苏州市吴中区发力个性化适老化改造,着力提升老年人的晚年生活幸福指数以家庭适老化“小改造”托举老人“大幸福”
+JF 民生周刊
+YR 2024
+IS 26
+vo 
+OP 32-34
+AB <正>“以前，他坐在这里晒完太阳，想站起来就叫我撑着，可我一个老太太，哪有那么大力气？不去管他，他自己又站不稳。”江苏省苏州市吴中区胥口镇香泾新村的吕阿婆指着房屋外墙上的扶手，对《民生周刊》记者演示她老伴是如何利用这些扶手的。院子里的外墙边放着一把躺椅，阳光好的时候，吕阿婆的老伴会半躺在这把椅子上晒太阳。“现在可好了，有了扶手和助行器，他自己站起来是没有问题的，还能一个人出去散步。”吕阿婆指着外门说。
+SN 2095-1213
+CN 11-5987/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iL2tC_1AURAB_rgdvDWQVbCLTrGWLP_OSt7IhlyKbf6OOPKo-cuxAk1r-jizfbHiTAJ-EVG3IB4AFWe7LX4q8bdJ6MfIoA-rbO1AAtXMIHrP0Xz9AsdiGOR4C-GkYH8ie-R280aFAfQWJctRpGbgHdnsptK68BX0WPiffzitTLrrR467ycrh_zo&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 张莎
+AD 新重庆;重庆日报;
+T1 重庆从细节入手提升老年人幸福指数
+JF 重庆日报
+OP 003
+FD 2024-12-20
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2024.005979
+DO 10.28120/n.cnki.ncqrb.2024.005979
+
+RT Newspaper Article
+SR 1
+A1 李菁;方海涛;许培吟;李莹;李淑媚;郭晓玲
+T1 安全便捷养老变“享老”
+JF 泉州晚报
+OP 018
+FD 2024-12-20
+PB 泉州晚报
+LA 中文;
+CN 35-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28640/n.cnki.nqzwb.2024.003458
+DO 10.28640/n.cnki.nqzwb.2024.003458
+
+RT Newspaper Article
+SR 1
+A1 陈安彤
+T1 黔西南州加快“15分钟养老服务圈”建设
+JF 黔西南日报
+OP 001
+FD 2024-12-13
+PB 黔西南日报
+LA 中文;
+CN 52-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28636/n.cnki.nqxnb.2024.002137
+DO 10.28636/n.cnki.nqxnb.2024.002137
+
+RT Newspaper Article
+SR 1
+A1 李顾珵
+T1 贵州：扶助老幼，换新更有心
+JF 国际商报
+OP 005
+FD 2024-12-11
+PB 国际商报
+LA 中文;
+CN 11-0118
+DS CNKI
+LK https://link.cnki.net/doi/10.28270/n.cnki.ngjsb.2024.004241
+DO 10.28270/n.cnki.ngjsb.2024.004241
+
+RT Newspaper Article
+SR 1
+A1 李顾珵
+T1 原居宜养老：“小改造”送上“晚年福”
+JF 国际商报
+OP 005
+FD 2024-12-11
+PB 国际商报
+LA 中文;
+CN 11-0118
+DS CNKI
+LK https://link.cnki.net/doi/10.28270/n.cnki.ngjsb.2024.004245
+DO 10.28270/n.cnki.ngjsb.2024.004245
+
+RT Newspaper Article
+SR 1
+A1 李松林
+T1 老人能力评估师适老改造评估师您知道是干嘛的吗？
+JF 北京城市副中心报
+OP 002
+FD 2024-12-10
+PB 北京城市副中心报
+LA 中文;
+CN 11-0314
+DS CNKI
+LK https://link.cnki.net/doi/10.44239/n.cnki.nbjcs.2024.002195
+DO 10.44239/n.cnki.nbjcs.2024.002195
+
+RT Newspaper Article
+SR 1
+A1 柯丽娟;刘燕婷;方海涛;吴颖瑜
+T1 每户最高可补贴2万元
+JF 泉州晚报
+OP 007
+FD 2024-12-09
+PB 泉州晚报
+LA 中文;
+CN 35-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28640/n.cnki.nqzwb.2024.003302
+DO 10.28640/n.cnki.nqzwb.2024.003302
+
+RT Newspaper Article
+SR 1
+A1 马道军
+AD 南京日报;紫金山新闻;
+T1 “养老清单”变“幸福账单”
+JF 南京日报
+OP A07
+FD 2024-12-04
+PB 南京日报
+LA 中文;
+CN 32-0030
+DS CNKI
+LK https://link.cnki.net/doi/10.28601/n.cnki.nnjrb.2024.006619
+DO 10.28601/n.cnki.nnjrb.2024.006619
+
+RT Newspaper Article
+SR 1
+A1 曾雨
+T1 “小改造”托起幸福“夕阳红”
+JF 十堰日报
+OP 002
+FD 2024-12-04
+PB 十堰日报
+LA 中文;
+CN 42-0066
+DS CNKI
+LK https://link.cnki.net/doi/10.28767/n.cnki.nsybr.2024.001761
+DO 10.28767/n.cnki.nsybr.2024.001761
+
+RT Newspaper Article
+SR 1
+A1 冯维静
+T1 家庭适老化改造，怎么改？
+JF 北京城市副中心报
+OP 004
+FD 2024-12-03
+PB 北京城市副中心报
+LA 中文;
+CN 11-0314
+DS CNKI
+LK https://link.cnki.net/doi/10.44239/n.cnki.nbjcs.2024.002100
+DO 10.44239/n.cnki.nbjcs.2024.002100
+
+RT Journal Article
+SR 1
+AD 北京市民政局;北京市发展和改革委员会;北京市财政局;
+T1 北京市民政局北京市发展和改革委员会北京市财政局关于印发《北京市促进居家适老化改造产品消费工作方案》的通知
+JF 北京市人民政府公报
+YR 2024
+IS 41
+vo 
+OP 36-43
+AB <正>京民老龄发〔2024〕88号各区民政局、发展改革委、财政局:现将《北京市促进居家适老化改造产品消费工作方案》印发给你们,请认真贯彻落实。2024年10月11日北京市促进居家适老化改造产品消费工作方案为贯彻落实国家发展改革委、财政部《关于加力支持大规模设备更新和消费品以旧换新的若干措施》,按照市委、市政府决策部署,根据《北京市加力支持设备更新和消费品以旧换新实施方案》,现就超长期国债资金支持消费品以旧换新推动居家适老化改造工作,制定本方案。
+SN 1009-2862
+CN 11-4172/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKCo-y94-LA-cn9oTNYBSA3ptH7VnY_TuclT9_rqXXbrAavJZzoMEqgOdJKFR5tNcN6PFRjhtadRDAsF9GFsFacXn6v5EjB1ka5QW6qKcNeWWmrVU2Be-MXnhbTIQW9MONu-TH4Lz2uNfj1usPAVLAzum3dpiJ5fkdr1fTw1pCZSI3usvTW9FEj&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 姜涛
+T1 适老化改造细节之处见关怀
+JF 扬州日报
+OP 003
+FD 2024-11-25
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2024.003087
+DO 10.38283/n.cnki.nyzbr.2024.003087
+
+RT Newspaper Article
+SR 1
+A1 吴宝杰;毕金钧;姜涛
+T1 2548名老人已申请适老化改造
+JF 扬州日报
+OP 005
+FD 2024-11-20
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2024.003017
+DO 10.38283/n.cnki.nyzbr.2024.003017
+
+RT Newspaper Article
+SR 1
+A1 赵晨熹;贠英伟
+AD 洛报融媒;
+T1 我市即将启动家装厨卫改造“焕新”活动
+JF 洛阳日报
+OP 002
+FD 2024-11-18
+PB 洛阳日报
+LA 中文;
+CN 41-0004
+DS CNKI
+LK https://link.cnki.net/doi/10.28549/n.cnki.nlybr.2024.002225
+DO 10.28549/n.cnki.nlybr.2024.002225
+
+RT Newspaper Article
+SR 1
+A1 吴春霖;徐碧颖
+T1 医养结合守护最美夕阳红
+JF 银川日报
+OP 003
+FD 2024-11-18
+PB 银川日报
+LA 中文;
+CN 64-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.38237/n.cnki.nycdn.2024.002952
+DO 10.38237/n.cnki.nycdn.2024.002952
+
+RT Newspaper Article
+SR 1
+A1 王琪鹏
+T1 适老产品为何老人不知道
+JF 北京城市副中心报
+OP 002
+FD 2024-11-14
+PB 北京城市副中心报
+LA 中文;
+CN 11-0314
+DS CNKI
+LK https://link.cnki.net/doi/10.44239/n.cnki.nbjcs.2024.002039
+DO 10.44239/n.cnki.nbjcs.2024.002039
+
+RT Newspaper Article
+SR 1
+A1 吴香凝;杨承昊;于梦圆
+T1 谱写银龄乐章奏响为老服务新旋律
+JF 呼和浩特日报(汉)
+OP 005
+FD 2024-11-11
+PB 呼和浩特日报(汉)
+LA 中文;
+CN 15-0073
+DS CNKI
+LK https://link.cnki.net/doi/10.28384/n.cnki.nhtrb.2024.002265
+DO 10.28384/n.cnki.nhtrb.2024.002265
+
+RT Newspaper Article
+SR 1
+A1 李佩蓉
+T1 养老变“享老”
+JF 汉中日报
+OP 001
+FD 2024-11-07
+PB 汉中日报
+LA 中文;
+CN 61-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28309/n.cnki.nharb.2024.001777
+DO 10.28309/n.cnki.nharb.2024.001777
+
+RT Newspaper Article
+SR 1
+A1 卜令伟
+T1 我省制定“一户一策”改造方案实施农村适老化改造
+JF 友报
+OP 003
+FD 2024-11-01
+PB 友报
+LA 中文;
+CN 21-0074
+DS CNKI
+LK https://link.cnki.net/doi/10.38263/n.cnki.nyoub.2024.000502
+DO 10.38263/n.cnki.nyoub.2024.000502
+
+RT Journal Article
+SR 1
+T1 江西省民政厅江西省财政厅关于印发《江西省2024年消费品以旧换新居家适老化改造实施方案》的通知
+JF 江西省人民政府公报
+YR 2024
+IS 20
+vo 
+OP 34-41
+AB <正>赣民字〔2024〕28号2024年9月10日各设区市民政局、财政局:现将《江西省2024年消费品以旧换新居家适老化改造实施方案》印发给你们,请结合工作实际,抓好贯彻落实。(此件主动公开)江西省2024年消费品以旧换新居家适老化改造实施方案为贯彻落实党中央、国务院决策部署和省委、省政府工作要求,根据《江西省推动大规模设备更新和消费品以旧换新实施方案》(赣府发〔2024〕9号)、《江西省2024年加力支持大规模设备更新和消费品以旧换新实施方案》(赣发改环资〔2024〕690号)等文件精神,现就消费品以旧换新居家适老化改造制定如下实施方案。
+SN 2096-8825
+CN 36-1306/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKe7vSjTcj0mFNhpQmdwRd_dx5nALi6NeStfumFRxbk8x459AX43L2TkC2ztCQzzmNitqi3P1ReVp8z0nqUYi2YKCELwysDU1_7sqkQmR4R3CyTOjENN8OsK5615Q7v2VoZvBiSitMM3Q3WB0f4tO7D2H5GyfVrjv-7wE_tdPi7V1igiz4a8Q7i&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 张亚欣
+AD 中国城市报;
+T1 多地进行消费品以旧换新居家适老化改造
+JF 中国城市报
+OP A08
+FD 2024-10-28
+PB 中国城市报
+LA 中文;
+CN 11-0283
+DS CNKI
+LK https://link.cnki.net/doi/10.28056/n.cnki.nccsb.2024.000433
+DO 10.28056/n.cnki.nccsb.2024.000433
+
+RT Newspaper Article
+SR 1
+T1 我国养老服务机构和设施41万个
+JF 北京商报
+OP 003
+FD 2024-10-22
+PB 北京商报
+LA 中文;
+CN 11-0104
+DS CNKI
+LK https://link.cnki.net/doi/10.28036/n.cnki.nbjxd.2024.003063
+DO 10.28036/n.cnki.nbjxd.2024.003063
+
+RT Newspaper Article
+SR 1
+A1 王永钦;郑慧英
+AD 中国妇女报;
+T1 如何让老年人居家有“爱”无“碍”？
+JF 中国妇女报
+OP 004
+FD 2024-10-21
+PB 中国妇女报
+LA 中文;
+CN 11-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28067/n.cnki.ncfnb.2024.002783
+DO 10.28067/n.cnki.ncfnb.2024.002783
+
+RT Newspaper Article
+SR 1
+A1 张亮
+T1 新一轮居家适老化改造补贴项目开启
+JF 南通日报
+OP A03
+FD 2024-10-18
+PB 南通日报
+LA 中文;
+CN 32-0025
+DS CNKI
+LK https://link.cnki.net/doi/10.28606/n.cnki.nntrb.2024.002514
+DO 10.28606/n.cnki.nntrb.2024.002514
+
+RT Newspaper Article
+SR 1
+A1 王琪鹏
+T1 户籍老人家庭适老改造最高补五千
+JF 北京日报
+OP 008
+FD 2024-10-18
+PB 北京日报
+LA 中文;
+CN 11-0101
+DS CNKI
+LK https://link.cnki.net/doi/10.28033/n.cnki.nbjrb.2024.006064
+DO 10.28033/n.cnki.nbjrb.2024.006064
+
+RT Newspaper Article
+SR 1
+A1 陈晶晶
+T1 平安人寿董事长杨铮：创新升级产品和服务写好养老金融篇章
+JF 中国经营报
+OP B08
+FD 2024-10-14
+PB 中国经营报
+LA 中文;
+CN 11-0151
+DS CNKI
+LK https://link.cnki.net/doi/10.38300/n.cnki.nzgjy.2024.002330
+DO 10.38300/n.cnki.nzgjy.2024.002330
+
+RT Newspaper Article
+SR 1
+A1 武红利
+T1 以协商之力托起“老老人”幸福“夕阳红”
+JF 北京日报
+OP 003
+FD 2024-10-14
+PB 北京日报
+LA 中文;
+CN 11-0101
+DS CNKI
+LK https://link.cnki.net/doi/10.28033/n.cnki.nbjrb.2024.005962
+DO 10.28033/n.cnki.nbjrb.2024.005962
+
+RT Newspaper Article
+SR 1
+A1 林杉
+T1 适老化改造适老化改造，让原居享老无“碍”
+JF 新华日报
+OP 007
+FD 2024-10-14
+PB 新华日报
+LA 中文;
+CN 32-0050
+DS CNKI
+LK https://link.cnki.net/doi/10.28872/n.cnki.nxhrb.2024.005825
+DO 10.28872/n.cnki.nxhrb.2024.005825
+
+RT Newspaper Article
+SR 1
+A1 蒋波;柳文;唐一路
+T1 家装厨卫以旧换新释放消费潜力
+JF 经济日报
+OP 011
+FD 2024-10-14
+PB 经济日报
+LA 中文;
+CN 11-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28425/n.cnki.njjrb.2024.007191
+DO 10.28425/n.cnki.njjrb.2024.007191
+
+RT Newspaper Article
+SR 1
+A1 庄瑞玉
+AD 深圳特区报;
+T1 购买产品最高资助2万元
+JF 深圳特区报
+OP A04
+FD 2024-10-12
+PB 深圳特区报
+LA 中文;
+CN 44-0027
+DS CNKI
+LK https://link.cnki.net/doi/10.28776/n.cnki.nsztq.2024.004694
+DO 10.28776/n.cnki.nsztq.2024.004694
+
+RT Newspaper Article
+SR 1
+A1 姜雪芹
+T1 关爱老年人，从提升居家安全性和便利性做起
+JF 中国社会报
+OP 005
+FD 2024-10-11
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2024.001203
+DO 10.28698/n.cnki.nshhu.2024.001203
+
+RT Newspaper Article
+SR 1
+A1 陈晓
+AD 中青报;中青网;
+T1 为老人改造一个宜居的家
+JF 中国青年报
+OP 003
+FD 2024-10-10
+PB 中国青年报
+LA 中文;
+CN 11-0061
+DS CNKI
+LK https://link.cnki.net/doi/10.38302/n.cnki.nzgqn.2024.003908
+DO 10.38302/n.cnki.nzgqn.2024.003908
+
+RT Newspaper Article
+SR 1
+A1 徐佳婷
+AD 沈阳日报;沈报;
+T1 嵌入式养老机构：为老年人提供家门口的养老服务
+JF 沈阳日报
+OP 006
+FD 2024-10-10
+PB 沈阳日报
+LA 中文;
+CN 21-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28770/n.cnki.nsyrb.2024.003108
+DO 10.28770/n.cnki.nsyrb.2024.003108
+
+RT Newspaper Article
+SR 1
+A1 谢宛君
+T1 找准“小切口”办好贴心事
+JF 常德日报
+OP 003
+FD 2024-10-04
+PB 常德日报
+LA 中文;
+CN 43-0038
+DS CNKI
+LK https://link.cnki.net/doi/10.28060/n.cnki.ncdeb.2024.001640
+DO 10.28060/n.cnki.ncdeb.2024.001640
+
+RT Newspaper Article
+SR 1
+A1 何明华;安忠芳
+AD 广西云;广西日报;
+T1 家门口养老幸福感这样来
+JF 广西日报
+OP 001
+FD 2024-10-03
+PB 广西日报
+LA 中文;
+CN 45-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28292/n.cnki.ngxrb.2024.005615
+DO 10.28292/n.cnki.ngxrb.2024.005615
+
+RT Newspaper Article
+SR 1
+A1 吴春霖
+T1 关爱一老一小共建幸福家园
+JF 银川日报
+OP 001
+FD 2024-09-29
+PB 银川日报
+LA 中文;
+CN 64-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.38237/n.cnki.nycdn.2024.002386
+DO 10.38237/n.cnki.nycdn.2024.002386
+
+RT Newspaper Article
+SR 1
+A1 蔡颖辉
+T1 建家门口的“养老幸福圈”
+JF 江西日报
+OP 009
+FD 2024-09-26
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2024.003397
+DO 10.28490/n.cnki.njxrb.2024.003397
+
+RT Newspaper Article
+SR 1
+A1 姜璐
+T1 宁夏补贴1亿元推动居家适老化改造“焕新”
+JF 宁夏日报
+OP 003
+FD 2024-09-26
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2024.003714
+DO 10.28607/n.cnki.nnxrb.2024.003714
+
+RT Newspaper Article
+SR 1
+A1 殷思萌
+AD 洪观新闻;
+T1 在家安全出门方便生活舒心
+JF 南昌日报
+OP 006
+FD 2024-09-19
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2024.002709
+DO 10.28591/n.cnki.nncrb.2024.002709
+
+RT Newspaper Article
+SR 1
+A1 刘旭卓
+T1 金凤区建好养老服务体系描绘“享老”幸福画卷
+JF 银川日报
+OP 003
+FD 2024-09-19
+PB 银川日报
+LA 中文;
+CN 64-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.38237/n.cnki.nycdn.2024.002314
+DO 10.38237/n.cnki.nycdn.2024.002314
+
+RT Newspaper Article
+SR 1
+A1 李晓玲
+T1 推进民生实事见实效提升老年群体幸福感
+JF 抚顺日报
+OP 002
+FD 2024-09-18
+PB 抚顺日报
+LA 中文;
+CN 21-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28235/n.cnki.nfsrb.2024.000946
+DO 10.28235/n.cnki.nfsrb.2024.000946
+
+RT Journal Article
+SR 1
+A1 黄群;徐岩
+AD 武汉理工大学艺术与设计学院;
+T1 居家养老视角下高龄老人无人助餐产品设计研究
+JF 包装与设计
+YR 2024
+IS 05
+vo 
+OP 106-107
+K1 无人助餐产品;高龄老人;居家养老;服务设计;ERG需求理论
+AB 目的 设计一款社区无人助餐产品来解决现有助餐服务体系下高龄老年人吃饭难的问题。方法 以入户访谈和问卷调研的数据为依据，梳理高龄老人在“订餐—配送—餐后”三个助餐场景中所遇到的问题与诉求。然后利用ERG需求理论，将老人在助餐环节中所产生的各种需求按照用餐质量、用餐便利性、情感支持三个维度进行划分，并定位每一层级中最为迫切的需求，构建需求-服务匹配模型。结果 提出了一个从餐食订购到配送、再到餐后情感联系的无人助餐全过程设计方案。结论 该方案注重技术创新与实用性相结合，有望满足居家高龄老人对送用餐服务的需求。
+SN 1007-4759
+CN 44-1262/TB
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iLR60pBCnQiCZBW1UNoQKKXMVv0hpBCqCCCptb6pWVphvV6PAGTI92IJzbIJbd-EHqa7VrCw3Dj37QUXdOJRuwbnbQ0rgvFkQ__6wZkbWafvMWCTLToV_W8fPfYz-9OsO69udij6kPhX3hCJoxZpo63dJyXkRsY7jvAOIq2bk1xk1j27e9rxi-Q&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 董文涛
+T1 加力推动更新换代释放经济发展活力
+JF 江西日报
+OP 002
+FD 2024-09-13
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2024.003255
+DO 10.28490/n.cnki.njxrb.2024.003255
+
+RT Newspaper Article
+SR 1
+A1 周明
+T1 为“银发族”托起幸福家
+JF 陕西日报
+OP 009
+FD 2024-09-10
+PB 陕西日报
+LA 中文;
+CN 61-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28762/n.cnki.nsxrb.2024.005257
+DO 10.28762/n.cnki.nsxrb.2024.005257
+
+RT Newspaper Article
+SR 1
+A1 沈海珠
+AD 台传媒;
+T1 永宁之家：从“养老”到“享老”
+JF 台州日报
+OP 004
+FD 2024-09-10
+PB 台州日报
+LA 中文;
+CN 33-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28812/n.cnki.ntzrb.2024.002573
+DO 10.28812/n.cnki.ntzrb.2024.002573
+
+RT Newspaper Article
+SR 1
+A1 燕春丽
+AD 新甘肃;甘肃经济日报;
+T1 释放投资消费潜力提升居民生活品质
+JF 甘肃经济日报
+OP 001
+FD 2024-09-05
+PB 甘肃经济日报
+LA 中文;
+CN 62-0025
+DS CNKI
+LK https://link.cnki.net/doi/10.28283/n.cnki.ngsjj.2024.001767
+DO 10.28283/n.cnki.ngsjj.2024.001767
+
+RT Newspaper Article
+SR 1
+A1 陶玉琼;苏欣雨
+T1 “家门口”养老幸福近在咫尺
+JF 陕西日报
+OP 009
+FD 2024-09-04
+PB 陕西日报
+LA 中文;
+CN 61-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28762/n.cnki.nsxrb.2024.005300
+DO 10.28762/n.cnki.nsxrb.2024.005300
+
+RT Newspaper Article
+SR 1
+A1 王静
+T1 用心守护每一抹夕阳红
+JF 石家庄日报
+OP 001
+FD 2024-08-30
+PB 石家庄日报
+LA 中文;
+CN 13-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28728/n.cnki.nsjzb.2024.001724
+DO 10.28728/n.cnki.nsjzb.2024.001724
+
+RT Newspaper Article
+SR 1
+A1 李琳;张冬梅
+AD 石榴云;新疆日报;
+T1 新疆家庭适老化改造改得咋样了？
+JF 新疆日报(汉)
+OP 005
+FD 2024-08-20
+PB 新疆日报(汉)
+LA 中文;
+CN 65-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28887/n.cnki.nxjrb.2024.003329
+DO 10.28887/n.cnki.nxjrb.2024.003329
+
+RT Newspaper Article
+SR 1
+A1 刘子烨
+T1 让上海这座城市多些温情
+JF 联合时报
+OP 001
+FD 2024-08-20
+PB 联合时报
+LA 中文;
+CN 31-0019
+DS CNKI
+LK https://link.cnki.net/doi/10.28527/n.cnki.nlhsb.2024.000493
+DO 10.28527/n.cnki.nlhsb.2024.000493
+
+RT Newspaper Article
+SR 1
+A1 李杰
+T1 兴义市创新三种模式提升居家社区养老服务水平
+JF 黔西南日报
+OP 001
+FD 2024-08-19
+PB 黔西南日报
+LA 中文;
+CN 52-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28636/n.cnki.nqxnb.2024.001389
+DO 10.28636/n.cnki.nqxnb.2024.001389
+
+RT Newspaper Article
+SR 1
+T1 养老服务新职业成长空间广阔
+JF 人民日报
+OP 019
+FD 2024-08-16
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2024.008726
+DO 10.28655/n.cnki.nrmrb.2024.008726
+
+RT Newspaper Article
+SR 1
+A1 李昊
+AD 农民日报;中国农网;
+T1 用心用情守护“夕阳红”
+JF 农民日报
+OP 001
+FD 2024-08-16
+PB 农民日报
+LA 中文;
+CN 11-0055
+DS CNKI
+LK https://link.cnki.net/doi/10.28603/n.cnki.nnmrb.2024.004023
+DO 10.28603/n.cnki.nnmrb.2024.004023
+
+RT Newspaper Article
+SR 1
+A1 朱旭敏;刘佳鑫
+T1 乌兰察布：让老人乐享“幸福滋味”
+JF 乌兰察布日报
+OP 006
+FD 2024-08-16
+PB 乌兰察布日报
+LA 中文;
+CN 15-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.28827/n.cnki.nwlcb.2024.000849
+DO 10.28827/n.cnki.nwlcb.2024.000849
+
+RT Journal Article
+SR 1
+T1 宜昌市人民政府办公室关于印发《宜昌市创建健康和老年友好型城市工作方案》的通知
+JF 宜昌市人民政府公报
+YR 2024
+IS 04
+vo 
+OP 23-26
+AB <正>宜府办发[2024]35号各县市区人民政府，市政府各部门、各直属机构：《宜昌市创建健康和老年友好型城市工作方案》已经市人民政府同意，现印发给你们，请结合实际认真组织实施。宜昌市人民政府办公室2024年6月24日宜昌市创建健康和老年友好型城市工作方案
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKMpQ8GbUlKN7WQjWWAkNuorAIzjkfRiDVoHqkIO8NaUldWs8sBnqocRCTI0-R9CXXEMCM54Asg3UOpRNKxJWjRP6TRd44drs9rYJ9x3ZwMra0fZmKT-ydwmmyRSEt20kdxVIYuyWl9Go83qmE8uhOq4ururKY4nlcZU4EjB4soCKe0Bzap5f1A&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+T1 让幸福养老就在身边
+JF 宁夏日报
+OP 004
+FD 2024-08-15
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2024.003132
+DO 10.28607/n.cnki.nnxrb.2024.003132
+
+RT Newspaper Article
+SR 1
+A1 胡光华
+T1 吃得好睡得好，子女也能安心工作
+JF 江西日报
+OP 006
+FD 2024-08-13
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2024.002818
+DO 10.28490/n.cnki.njxrb.2024.002818
+
+RT Newspaper Article
+SR 1
+A1 祖维晨
+T1 “养老清单”变“幸福账单”
+JF 吉林日报
+OP 001
+FD 2024-08-09
+PB 吉林日报
+LA 中文;
+CN 22-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28447/n.cnki.njlrb.2024.002895
+DO 10.28447/n.cnki.njlrb.2024.002895
+
+RT Newspaper Article
+SR 1
+AD 民政部规划财务司;
+T1 适老化改造让老年人居有所安
+JF 中国社会报
+OP 003
+FD 2024-08-09
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2024.000962
+DO 10.28698/n.cnki.nshhu.2024.000962
+
+RT Newspaper Article
+SR 1
+A1 安子修
+T1 全屋智能适老化让养老更安心
+JF 通信信息报
+OP 004
+FD 2024-08-07
+PB 通信信息报
+LA 中文;
+CN 35-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.28808/n.cnki.ntxxx.2024.000331
+DO 10.28808/n.cnki.ntxxx.2024.000331
+
+RT Newspaper Article
+SR 1
+A1 洪剑儒;顾鸿儒;李可
+T1 “小改造”如何激活“大市场”、创造“大幸福”？
+JF 国际商报
+OP 002
+FD 2024-07-29
+PB 国际商报
+LA 中文;
+CN 11-0118
+DS CNKI
+LK https://link.cnki.net/doi/10.28270/n.cnki.ngjsb.2024.002230
+DO 10.28270/n.cnki.ngjsb.2024.002230
+
+RT Newspaper Article
+SR 1
+A1 许赟恒
+AD 黑龙江省齐齐哈尔市民政局;
+T1 强化统筹，提升居家和社区基本养老服务质效
+JF 中国社会报
+OP 002
+FD 2024-07-29
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2024.000899
+DO 10.28698/n.cnki.nshhu.2024.000899
+
+RT Newspaper Article
+SR 1
+A1 柯丽娟;刘燕婷;张小玲;郭欣欣;方海涛;吴颖瑜
+T1 居家式基本养老服务让“养老”变“享老”
+JF 泉州晚报
+OP 007
+FD 2024-07-25
+PB 泉州晚报
+LA 中文;
+CN 35-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28640/n.cnki.nqzwb.2024.001884
+DO 10.28640/n.cnki.nqzwb.2024.001884
+
+RT Newspaper Article
+SR 1
+A1 陈颖婷
+T1 打造“最后10米”报警服务圈
+JF 上海法治报
+OP B01
+FD 2024-07-24
+PB 上海法治报
+LA 中文;
+CN 31-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28696/n.cnki.nshfz.2024.000761
+DO 10.28696/n.cnki.nshfz.2024.000761
+
+RT Other Article
+SR 1
+T1 建筑环境与辅助技术融合的社区居家适老化改造成套技术与应用
+A1 王羽
+AD 中国建筑设计研究院有限公司
+FD 2024-07-15
+K1 适老化;辅助技术;建筑环境;数据体系;融合理论
+AB 老年宜居环境建设是在城乡建设领域落实“积极老龄观、健康老龄化”的国家基本策略,也是城镇建设适老化转型的必要前提,对妥善解决广大老年人居住问题,满足老年人多层次、多样化的健康养老需求,实现老年人家庭对“好房子、好小区、好社区、好城区”的期待,具有重要意义。该项目共包括3项课题,涉及国家级、省部级等多个层面,覆盖人居环境领域社区居家适老化改造方向的理论研究、技术与产品研发、市场化与工程化应用等方面,旨在通过建筑环境与辅助技术的深度融合与创新,全面提升社区居家适老化改造技术兼容性、通用性、精准性、体系性,助力建设安全、便捷、舒适、健康的老年宜居环境。项目以中国建筑设计研究院有限公司为牵头单位,联合住房和城乡建设部科技与产业化发展中心、北京航空航天大学、国家康复辅具研究中心、常州市钱璟康复股份有限公司,形成了政产学研用深度融合。通过与医工交叉、康复医学等学科的头部团队开展跨领域联合研究,共形成三项核心成果,为完善我国老年宜居环境领域的基础理论、技术体系、产品体系起到重要作用。一是在基础研究方面,针对国内外研究差距与我国相关本土数据缺失的问题,提出建筑环境与辅助技术融合理论,建立基础数据体系与参数化分析模型,搭建足尺实验研究平台;二是在前沿技术研究方面,针对老年人居住环境障碍多、安全性不足、照护压力大等社会痛点问题以及适老化改造缺乏评价工具、有效性与系统性有待提升等行业关键问题,从社区与居家两个层面提出适老化改造成套技术,建立评价指标体系,编制多部标准,为相关部委文件起草提供技术支撑,并在多类型项目中进行应用示范;三是在适配产品研发方面,针对老年人-建筑环境-辅助器具不适配的问题,建立居家适老化改造产品体系,提出适老化产品与居家环境适配技术,研发适老康复产品与室外适老产品。项目成果应用于北京、西安、常州等适老化改造项目数十项,惠及居民数千户,经济、社会和环境效益显著。相关科技成果顺利通过由院士、大师及行业专家领衔的成果鉴定,认为成果总体达到国际先进水平,其中老年人行为与空间特征参数化分析模型达到国际领先水平。同时,项目成果获得多项国内外荣誉,并通过中央电视台、国际展会、中国土木工程学会等多个渠道进行科普推广,有效推动了适老化改造技术的社会化推广。
+DB 科技成果
+
+RT Newspaper Article
+SR 1
+A1 吴春霖
+T1 关爱“一老一幼”增进民生福祉
+JF 银川日报
+OP 002
+FD 2024-07-12
+PB 银川日报
+LA 中文;
+CN 64-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.38237/n.cnki.nycdn.2024.001685
+DO 10.38237/n.cnki.nycdn.2024.001685
+
+RT Newspaper Article
+SR 1
+A1 赵永刚
+T1 养老服务在身边幸福晚年在眼前
+JF 乌海日报
+OP 002
+FD 2024-07-10
+PB 乌海日报
+LA 中文;
+CN 15-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.28819/n.cnki.nwhbr.2024.001140
+DO 10.28819/n.cnki.nwhbr.2024.001140
+
+RT Newspaper Article
+SR 1
+A1 于佳鑫
+T1 需求旺盛家居企业探索布局适老赛道
+JF 中国商报
+OP 005
+FD 2024-07-09
+PB 中国商报
+LA 中文;
+CN 11-0088
+DS CNKI
+LK https://link.cnki.net/doi/10.38304/n.cnki.nzgsb.2024.001051
+DO 10.38304/n.cnki.nzgsb.2024.001051
+
+RT Journal Article
+SR 1
+AD 北京市发展和改革委员会;
+T1 北京市发展和改革委员会关于印发加强设计服务推动居家适老化改造和产业发展实施方案(试行)的通知
+JF 北京市人民政府公报
+YR 2024
+IS 26
+vo 
+OP 64-70
+AB <正>京发改规〔2024〕3号各有关单位:为进一步加强居家适老化改造设计服务能力,推动高质量居家适老化改造,培育发展新动能,提高老年人生活品质,市发展改革委制定了《关于加强设计服务推动居家适老化改造和产业发展的实施方案(试行)》,现予以印发,请遵照执行。特此通知。
+SN 1009-2862
+CN 11-4172/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJyKAJwNPdzcw6hyUhfYG8KEMM6_Eb1xz_fShhLcunrGZbJbtz3BF4miKSpPkSyV5rlWAdM6yyUH0Pp-XcyvQ7rDyhai_5EdR31QGEMZ05Gb70lPMvGTHFwlEKHtvTJKIfEXWg6IzTEUJ9xKYMIv2ihbxr5mOnDEY60GzPnNZED9hDt1ofG06TN&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+T1 市人大常委会居家养老工作专题询问问答摘要
+JF 池州日报
+OP 006
+FD 2024-07-04
+PB 池州日报
+LA 中文;
+CN 34-0018
+DS CNKI
+LK https://link.cnki.net/doi/10.28165/n.cnki.nczra.2024.001061
+DO 10.28165/n.cnki.nczra.2024.001061
+
+RT Newspaper Article
+SR 1
+A1 侯琪琳
+T1 擦亮“为老服务”底色守护最美“夕阳红”
+JF 济源日报
+OP 002
+FD 2024-06-26
+PB 济源日报
+LA 中文;
+CN 41-0079
+DS CNKI
+LK https://link.cnki.net/doi/10.44670/n.cnki.nyjrb.2024.000660
+DO 10.44670/n.cnki.nyjrb.2024.000660
+
+RT Newspaper Article
+SR 1
+A1 王海燕;肖彤
+T1 “老博会”上看适老化新品，“科技感”扑面而来
+JF 解放日报
+OP 005
+FD 2024-06-14
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2024.002635
+DO 10.28410/n.cnki.njfrb.2024.002635
+
+RT Newspaper Article
+SR 1
+A1 张隽;郭鑫;刘雨婷
+AD 长城网;冀云客户端;
+T1 复兴区医养结合让老年人安享晚年
+JF 河北经济日报
+OP 007
+FD 2024-06-11
+PB 河北经济日报
+LA 中文;
+CN 13-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.28318/n.cnki.nhbjj.2024.001621
+DO 10.28318/n.cnki.nhbjj.2024.001621
+
+RT Newspaper Article
+SR 1
+A1 孟婧美
+T1 幸福养老从家开始
+JF 包头日报
+OP 006
+FD 2024-06-05
+PB 包头日报
+LA 中文;
+CN 15-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.28037/n.cnki.nbtbr.2024.001160
+DO 10.28037/n.cnki.nbtbr.2024.001160
+
+RT Newspaper Article
+SR 1
+A1 李莉;吴娟娟;王齐帅;周洪涛
+T1 “六助”送上门养老更舒心
+JF 德州日报
+OP B01
+FD 2024-06-04
+PB 德州日报
+LA 中文;
+CN 37-0039
+DS CNKI
+LK https://link.cnki.net/doi/10.28210/n.cnki.ndzbr.2024.000938
+DO 10.28210/n.cnki.ndzbr.2024.000938
+
+RT Newspaper Article
+SR 1
+A1 民小爱;毕金钧;姜涛
+T1 今年168.42万m2小区公共区域适老化改造
+JF 扬州日报
+OP 005
+FD 2024-05-24
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2024.001238
+DO 10.38283/n.cnki.nyzbr.2024.001238
+
+RT Newspaper Article
+SR 1
+A1 王洋
+T1 华为全屋智能解决方案迎“史诗级”加强
+JF 消费日报
+OP A03
+FD 2024-05-17
+PB 消费日报
+LA 中文;
+CN 11-0057
+DS CNKI
+LK https://link.cnki.net/doi/10.28866/n.cnki.nxfrb.2024.000553
+DO 10.28866/n.cnki.nxfrb.2024.000553
+
+RT Newspaper Article
+SR 1
+A1 郭纯树;邓元金
+T1 宁远：福彩公益金稳稳托起“夕阳红”
+JF 永州日报
+OP 006
+FD 2024-05-16
+PB 永州日报
+LA 中文;
+CN 43-0046
+DS CNKI
+LK https://link.cnki.net/doi/10.38286/n.cnki.nyzrb.2024.000790
+DO 10.38286/n.cnki.nyzrb.2024.000790
+
+RT Newspaper Article
+SR 1
+A1 赵莹莹
+T1 如何进一步打造老年宜居环境
+JF 人民政协报
+OP 010
+FD 2024-05-09
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2024.002724
+DO 10.28660/n.cnki.nrmzx.2024.002724
+
+RT Newspaper Article
+SR 1
+T1 明明白白一本账写满为民惠民情
+JF 宁夏日报
+OP 007
+FD 2024-05-09
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2024.001784
+DO 10.28607/n.cnki.nnxrb.2024.001784
+
+RT Newspaper Article
+SR 1
+A1 蒋毅槿
+T1 养老服务有温度长者居家更安心
+JF 珠海特区报
+OP 004
+FD 2024-04-28
+PB 珠海特区报
+LA 中文;
+CN 44-0030
+DS CNKI
+LK https://link.cnki.net/doi/10.38317/n.cnki.nzhtq.2024.001119
+DO 10.38317/n.cnki.nzhtq.2024.001119
+
+RT Newspaper Article
+SR 1
+A1 张莎
+AD 新重庆;重庆日报;
+T1 从养老到“享老”重庆为老人幸福加码
+JF 重庆日报
+OP 005
+FD 2024-04-27
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2024.001608
+DO 10.28120/n.cnki.ncqrb.2024.001608
+
+RT Newspaper Article
+SR 1
+A1 于晗
+T1 破题居家养老保险大有可为
+JF 中国银行保险报
+OP 009
+FD 2024-04-26
+PB 中国银行保险报
+LA 中文;
+CN 11-0310
+DS CNKI
+LK https://link.cnki.net/doi/10.28049/n.cnki.ncbxb.2024.001268
+DO 10.28049/n.cnki.ncbxb.2024.001268
+
+RT Newspaper Article
+SR 1
+A1 罗园
+T1 “小改造”托举老年人生活“大幸福”
+JF 精神文明报
+OP 001
+FD 2024-04-22
+PB 精神文明报
+LA 中文;
+CN 51-0055
+DS CNKI
+LK https://link.cnki.net/doi/10.28476/n.cnki.njswm.2024.000122
+DO 10.28476/n.cnki.njswm.2024.000122
+
+RT Newspaper Article
+SR 1
+A1 吴青华
+T1 用心用情守护“一老一小”稳稳托起“朝夕”幸福生活
+JF 南宁日报
+OP 006
+FD 2024-04-18
+PB 南宁日报
+LA 中文;
+CN 45-0070
+DS CNKI
+LK https://link.cnki.net/doi/10.28604/n.cnki.nnnrb.2024.000605
+DO 10.28604/n.cnki.nnnrb.2024.000605
+
+RT Newspaper Article
+SR 1
+A1 胡红玲
+T1 多方发力打造居家养老“升级版”
+JF 宝鸡日报
+OP 008
+FD 2024-04-18
+PB 宝鸡日报
+LA 中文;
+CN 61-0008
+DS CNKI
+LK https://link.cnki.net/doi/10.28027/n.cnki.nbjbr.2024.000522
+DO 10.28027/n.cnki.nbjbr.2024.000522
+
+RT Newspaper Article
+SR 1
+A1 王笑
+T1 深耕养老金融保险机构加速全国布局
+JF 金融时报
+OP 012
+FD 2024-04-17
+PB 金融时报
+LA 中文;
+CN 11-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28460/n.cnki.njrsb.2024.001811
+DO 10.28460/n.cnki.njrsb.2024.001811
+
+RT Newspaper Article
+SR 1
+A1 吴春霖;李桂宁
+T1 为百姓打造家门口的幸福养老
+JF 银川日报
+OP 004
+FD 2024-04-15
+PB 银川日报
+LA 中文;
+CN 64-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.38237/n.cnki.nycdn.2024.000852
+DO 10.38237/n.cnki.nycdn.2024.000852
+
+RT Newspaper Article
+SR 1
+A1 赵莹莹
+T1 “黄扶手”托起幸福“夕阳红”
+JF 人民政协报
+OP 009
+FD 2024-04-09
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2024.002176
+DO 10.28660/n.cnki.nrmzx.2024.002176
+
+RT Newspaper Article
+SR 1
+A1 李筱
+T1 拥抱“银发经济”读懂“适老”需求
+JF 团结报
+OP 004
+FD 2024-03-23
+PB 团结报
+LA 中文;
+CN 11-0051
+DS CNKI
+LK https://link.cnki.net/doi/10.28784/n.cnki.ntjbz.2024.000238
+DO 10.28784/n.cnki.ntjbz.2024.000238
+
+RT Newspaper Article
+SR 1
+A1 赵曦
+T1 “养老”不出村“享老”不离家
+JF 内蒙古日报(汉)
+OP 010
+FD 2024-03-21
+PB 内蒙古日报(汉)
+LA 中文;
+CN 15-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28568/n.cnki.nmgrb.2024.000986
+DO 10.28568/n.cnki.nmgrb.2024.000986
+
+RT Newspaper Article
+SR 1
+T1 市政协八届三次会议发言摘登(二)
+JF 太行日报
+OP 005
+FD 2024-03-21
+PB 太行日报
+LA 中文;
+CN 14-0022
+DS CNKI
+LK https://link.cnki.net/doi/10.28778/n.cnki.ntarb.2024.000472
+DO 10.28778/n.cnki.ntarb.2024.000472
+
+RT Newspaper Article
+SR 1
+A1 李昌禹;易舒冉
+T1 发展银发经济增进老年人福祉
+JF 人民日报
+OP 018
+FD 2024-03-21
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2024.002850
+DO 10.28655/n.cnki.nrmrb.2024.002850
+
+RT Newspaper Article
+SR 1
+A1 薄红贞
+T1 稳稳托起幸福“夕阳红”
+JF 阳泉日报
+OP 001
+FD 2024-03-13
+PB 阳泉日报
+LA 中文;
+CN 14-0020
+DS CNKI
+LK https://link.cnki.net/doi/10.38264/n.cnki.nyqrb.2024.000213
+DO 10.38264/n.cnki.nyqrb.2024.000213
+
+RT Newspaper Article
+SR 1
+A1 杨若男
+T1 以城市更新为抓手助推经济增长
+JF 中国建设报
+OP 002
+FD 2024-03-07
+PB 中国建设报
+LA 中文;
+CN 11-0038
+DS CNKI
+LK https://link.cnki.net/doi/10.38299/n.cnki.nzgjs.2024.000155
+DO 10.38299/n.cnki.nzgjs.2024.000155
+
+RT Newspaper Article
+SR 1
+A1 陈姝
+AD 中国妇女报;
+T1 加快居家适老化改造，让“养老”变“享老”
+JF 中国妇女报
+OP 002
+FD 2024-03-04
+PB 中国妇女报
+LA 中文;
+CN 11-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28067/n.cnki.ncfnb.2024.000594
+DO 10.28067/n.cnki.ncfnb.2024.000594
+
+RT Newspaper Article
+SR 1
+A1 邓贞
+T1 加快城市公共设施适老化改造
+JF 上海证券报
+OP 010
+FD 2024-03-04
+PB 上海证券报
+LA 中文;
+CN 31-0094
+DS CNKI
+LK https://link.cnki.net/doi/10.28719/n.cnki.nshzj.2024.000921
+DO 10.28719/n.cnki.nshzj.2024.000921
+
+RT Newspaper Article
+SR 1
+A1 丁文婷
+T1 居家适老化改造:把安全和尊严还给老人
+JF 经济观察报
+OP 003
+FD 2024-03-04
+PB 经济观察报
+LA 中文;
+CN 37-0027
+DS CNKI
+LK https://link.cnki.net/doi/10.28421/n.cnki.njjgc.2024.000225
+DO 10.28421/n.cnki.njjgc.2024.000225
+
+RT Newspaper Article
+SR 1
+A1 张适清
+T1 医养结合托起最美“夕阳红”
+JF 宁夏日报
+OP 007
+FD 2024-03-04
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2024.000903
+DO 10.28607/n.cnki.nnxrb.2024.000903
+
+RT Newspaper Article
+SR 1
+A1 黎鹏
+T1 立足大局献良策汇聚力量促发展
+JF 海南日报
+OP A02
+FD 2024-03-02
+PB 海南日报
+LA 中文;
+CN 46-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28356/n.cnki.nhlrb.2024.000930
+DO 10.28356/n.cnki.nhlrb.2024.000930
+
+RT Journal Article
+SR 1
+A1 肖明超
+T1 超2.9亿银发人群，适老化家居市场有多大？
+JF 销售与市场
+YR 2024
+IS 07
+vo 
+OP 32-34
+AB <正>企业入局银发经济，不能只看到人口老龄化的机遇，还应挖掘客户精准的需求，针对银发经济的新特征开发出新的商业模式。最近，养老这个话题又被频繁提起，有年轻人早早做好数十年后自己的养老计划，有中年人分享对养老问题的担忧，有老年人讲述亲身经历的养老故事，而与此同时，瞄准巨大的养老需求，一阵“养老造富”风正在悄悄吹起，如何做养老行业成为备受关注的话题。
+SN 1005-3530
+CN 41-1210/F
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKpEiQolszNn3avbsqtXicAC6P7M62nAH2SkvAeJVaJkdJNgPGW0TYOyCC9MKQPryM0_D_JMMEuvO0Hpk-a71MHtpaM6CojQ7lvCbA9VJDZ26hYU565RdESUqfsBs-bFX4SgbqOBU_2FFQyeqC4is2Jc8Aqb4ls_09qpvihVWvDQ23OFlVWpdnM&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 金莉莉
+T1 守护最美“夕阳红”
+JF 衡水日报
+OP A01
+FD 2024-02-28
+PB 衡水日报
+LA 中文;
+CN 13-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.28379/n.cnki.nhsbr.2024.000282
+DO 10.28379/n.cnki.nhsbr.2024.000282
+
+RT Newspaper Article
+SR 1
+A1 弓凤飞
+T1 优化社区养老服务持续增进民生福祉
+JF 太原日报
+OP 003
+FD 2024-02-27
+PB 太原日报
+LA 中文;
+CN 14-0017
+DS CNKI
+LK https://link.cnki.net/doi/10.28809/n.cnki.ntyrb.2024.000441
+DO 10.28809/n.cnki.ntyrb.2024.000441
+
+RT Newspaper Article
+SR 1
+A1 吕东浩;顾意亮;雷蕾;范文杰;凌云;鲍蔓华;照宁;奚冬琪
+T1 数字赋能，托起幸福“夕阳红”
+JF 人民政协报
+OP 005
+FD 2024-02-26
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2024.001079
+DO 10.28660/n.cnki.nrmzx.2024.001079
+
+RT Newspaper Article
+SR 1
+A1 夏青
+AD 石榴云;新疆日报;
+T1 晚年岁月其乐陶陶
+JF 新疆日报(汉)
+OP 007
+FD 2024-02-20
+PB 新疆日报(汉)
+LA 中文;
+CN 65-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28887/n.cnki.nxjrb.2024.000567
+DO 10.28887/n.cnki.nxjrb.2024.000567
+
+RT Newspaper Article
+SR 1
+A1 邓燕玲
+T1 回应核心关切增进民生福祉
+JF 中国老年报
+OP 001
+FD 2024-02-08
+PB 中国老年报
+LA 中文;
+CN 11-0031
+DS CNKI
+LK https://link.cnki.net/doi/10.28108/n.cnki.nclnb.2024.000050
+DO 10.28108/n.cnki.nclnb.2024.000050
+
+RT Newspaper Article
+SR 1
+A1 朱丽媛
+T1 把“老颐养，幼善育”落到实处
+JF 舟山日报
+OP 003
+FD 2024-02-03
+PB 舟山日报
+LA 中文;
+CN 33-0008
+DS CNKI
+LK https://link.cnki.net/doi/10.38335/n.cnki.nzsbr.2024.000106
+DO 10.38335/n.cnki.nzsbr.2024.000106
+
+RT Newspaper Article
+SR 1
+A1 王禹心
+T1 这样的适老化改造老人更爱了
+JF 老年日报
+OP 001
+FD 2024-01-29
+PB 老年日报
+LA 中文;
+CN 23-0018
+DS CNKI
+LK https://link.cnki.net/doi/10.28528/n.cnki.nllrb.2024.000012
+DO 10.28528/n.cnki.nllrb.2024.000012
+
+RT Newspaper Article
+SR 1
+A1 郑子愚;朱雅文
+T1 一个粤北村庄的适老化试验
+JF 解放日报
+OP 005
+FD 2024-01-28
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2024.000492
+DO 10.28410/n.cnki.njfrb.2024.000492
+
+RT Newspaper Article
+SR 1
+A1 景韵润
+AD 中国妇女报;
+T1 聚焦“关键小事”让老年人安享幸福晚年
+JF 中国妇女报
+OP 001
+FD 2024-01-23
+PB 中国妇女报
+LA 中文;
+CN 11-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28067/n.cnki.ncfnb.2024.000241
+DO 10.28067/n.cnki.ncfnb.2024.000241
+
+RT Newspaper Article
+SR 1
+A1 沈建龙
+T1 易门县抓实养老服务体系建设
+JF 玉溪日报
+OP 003
+FD 2024-01-23
+PB 玉溪日报
+LA 中文;
+CN 53-0040
+DS CNKI
+LK https://link.cnki.net/doi/10.38270/n.cnki.nyxbr.2024.000156
+DO 10.38270/n.cnki.nyxbr.2024.000156
+
+RT Newspaper Article
+SR 1
+A1 央金卓玛;德吉央宗
+T1 我区初步形成多元养老服务体系
+JF 西藏日报(汉)
+OP 001
+FD 2024-01-22
+PB 西藏日报(汉)
+LA 中文;
+CN 54-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.38227/n.cnki.nxzrb.2024.000245
+DO 10.38227/n.cnki.nxzrb.2024.000245
+
+RT Newspaper Article
+SR 1
+A1 夏思宇;李都;吕悦;秦思
+AD 南京日报;紫金山新闻;
+T1 “家门口”照料，让“空巢”变“暖巢”
+JF 南京日报
+OP A10
+FD 2024-01-19
+PB 南京日报
+LA 中文;
+CN 32-0030
+DS CNKI
+LK https://link.cnki.net/doi/10.28601/n.cnki.nnjrb.2024.000418
+DO 10.28601/n.cnki.nnjrb.2024.000418
+
+RT Newspaper Article
+SR 1
+A1 徐佳婷
+AD 沈阳日报;沈报;
+T1 老年人助餐点这样找居家适老化改造这样改
+JF 沈阳日报
+OP 007
+FD 2024-01-18
+PB 沈阳日报
+LA 中文;
+CN 21-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28770/n.cnki.nsyrb.2024.000311
+DO 10.28770/n.cnki.nsyrb.2024.000311
+
+RT Newspaper Article
+SR 1
+A1 程芳
+T1 适老化“小改造”托起老年人的“大幸福”
+JF 太行日报
+OP 003
+FD 2024-01-18
+PB 太行日报
+LA 中文;
+CN 14-0022
+DS CNKI
+LK https://link.cnki.net/doi/10.28778/n.cnki.ntarb.2024.000100
+DO 10.28778/n.cnki.ntarb.2024.000100
+
+RT Newspaper Article
+SR 1
+A1 杜亚儒
+AD 市融媒体中心;
+T1 持续提升人民幸福指数
+JF 鄂尔多斯日报
+OP 002
+FD 2024-01-18
+PB 鄂尔多斯日报
+LA 中文;
+CN 15-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28222/n.cnki.nedsb.2024.000170
+DO 10.28222/n.cnki.nedsb.2024.000170
+
+RT Newspaper Article
+SR 1
+A1 林微微;袁先鸣
+T1 从“养老”到“享老”老年生活应有哪些不同？
+JF 宁波日报
+OP 005
+FD 2024-01-17
+PB 宁波日报
+LA 中文;
+CN 33-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28586/n.cnki.nnbrb.2024.000156
+DO 10.28586/n.cnki.nnbrb.2024.000156
+
+RT Newspaper Article
+SR 1
+A1 杨淘夷
+T1 接续奋斗又一年：幸福账单增添民生暖色
+JF 中国社会报
+OP 004
+FD 2024-01-15
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2024.000071
+DO 10.28698/n.cnki.nshhu.2024.000071
+
+RT Newspaper Article
+SR 1
+A1 吴月;黄晓慧;姜晓丹
+T1 多措并举共建老年友好型社会
+JF 人民日报
+OP 006
+FD 2024-01-13
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2024.000469
+DO 10.28655/n.cnki.nrmrb.2024.000469
+
+RT Newspaper Article
+SR 1
+A1 媛媛
+T1 一老一幼系民心一枝一叶总关情
+JF 唐山劳动日报
+OP 001
+FD 2024-01-12
+PB 唐山劳动日报
+LA 中文;
+CN 13-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28802/n.cnki.ntsld.2024.000059
+DO 10.28802/n.cnki.ntsld.2024.000059
+
+RT Newspaper Article
+SR 1
+A1 张珂嘉
+T1 普洱市推动养老服务提质增效
+JF 普洱日报
+OP 001
+FD 2024-01-10
+PB 普洱日报
+LA 中文;
+CN 53-0008
+DS CNKI
+LK https://link.cnki.net/doi/10.28611/n.cnki.nperb.2024.000027
+DO 10.28611/n.cnki.nperb.2024.000027
+
+RT Newspaper Article
+SR 1
+A1 刘子铮;李彦军
+AD 市融媒体中心;
+T1 “幸福圈”让养老变“享老”
+JF 鄂尔多斯日报
+OP 002
+FD 2024-01-06
+PB 鄂尔多斯日报
+LA 中文;
+CN 15-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28222/n.cnki.nedsb.2024.000033
+DO 10.28222/n.cnki.nedsb.2024.000033
+
+RT Newspaper Article
+SR 1
+A1 唐悦
+T1 保障居家安全，托起幸福晚年
+JF 新华日报
+OP 008
+FD 2023-12-29
+PB 新华日报
+LA 中文;
+CN 32-0050
+DS CNKI
+LK https://link.cnki.net/doi/10.28872/n.cnki.nxhrb.2023.007420
+DO 10.28872/n.cnki.nxhrb.2023.007420
+
+RT Newspaper Article
+SR 1
+A1 赖皓阳
+AD YMG;
+T1 优先保障“养老”用地指标
+JF 烟台日报
+OP 003
+FD 2023-12-29
+PB 烟台日报
+LA 中文;
+CN 37-0032
+DS CNKI
+LK https://link.cnki.net/doi/10.38267/n.cnki.nytrb.2023.003397
+DO 10.38267/n.cnki.nytrb.2023.003397
+
+RT Newspaper Article
+SR 1
+A1 张啸
+T1 民生答卷绘满幸福底色
+JF 菏泽日报
+OP 005
+FD 2023-12-29
+PB 菏泽日报
+LA 中文;
+CN 37-0067
+DS CNKI
+LK https://link.cnki.net/doi/10.28395/n.cnki.nhzbr.2023.001896
+DO 10.28395/n.cnki.nhzbr.2023.001896
+
+RT Newspaper Article
+SR 1
+A1 覃雨轩
+T1 健全服务机制增强老年群体幸福感
+JF 南宁日报
+OP 005
+FD 2023-12-28
+PB 南宁日报
+LA 中文;
+CN 45-0070
+DS CNKI
+LK https://link.cnki.net/doi/10.28604/n.cnki.nnnrb.2023.002276
+DO 10.28604/n.cnki.nnnrb.2023.002276
+
+RT Newspaper Article
+SR 1
+A1 关艳玲
+T1 持续增进民生福祉共享振兴发展成果
+JF 辽宁日报
+OP 001
+FD 2023-12-28
+PB 辽宁日报
+LA 中文;
+CN 21-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28534/n.cnki.nlnrb.2023.005848
+DO 10.28534/n.cnki.nlnrb.2023.005848
+
+RT Newspaper Article
+SR 1
+A1 潘剑瑾
+T1 解民忧出新举增福祉
+JF 中国老年报
+OP 003
+FD 2023-12-28
+PB 中国老年报
+LA 中文;
+CN 11-0031
+DS CNKI
+LK https://link.cnki.net/doi/10.28108/n.cnki.nclnb.2023.000548
+DO 10.28108/n.cnki.nclnb.2023.000548
+
+RT Newspaper Article
+SR 1
+T1 全面完善大城养老“浦东样板”
+JF 解放日报
+OP 017
+FD 2023-12-28
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2023.005937
+DO 10.28410/n.cnki.njfrb.2023.005937
+
+RT Newspaper Article
+SR 1
+A1 周旭
+T1 一项项民生工程一张张温暖答卷
+JF 石嘴山日报
+OP 005
+FD 2023-12-28
+PB 石嘴山日报
+LA 中文;
+CN 64-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28775/n.cnki.nszsr.2023.001616
+DO 10.28775/n.cnki.nszsr.2023.001616
+
+RT Newspaper Article
+SR 1
+A1 张铮
+T1 适老化改造，托起老人“稳稳的幸福”
+JF 许昌日报
+OP 001
+FD 2023-12-26
+PB 许昌日报
+LA 中文;
+CN 41-0013
+DS CNKI
+LK https://link.cnki.net/doi/10.28851/n.cnki.nxcrb.2023.002024
+DO 10.28851/n.cnki.nxcrb.2023.002024
+
+RT Newspaper Article
+SR 1
+A1 王向前;李子耀;符浩
+AD 河南日报社;
+T1 让老年人不再磕磕碰碰
+JF 河南日报
+OP 012
+FD 2023-12-19
+PB 河南日报
+LA 中文;
+CN 41-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28371/n.cnki.nhnrb.2023.006417
+DO 10.28371/n.cnki.nhnrb.2023.006417
+
+RT Journal Article
+SR 1
+A1 耿永志;王晓波
+AD 河北师范大学法政与公共管理学院;
+T1 养老服务向家庭延伸的基本逻辑、模式创新及政策支持
+JF 家政学研究
+YR 2023
+IS 02
+OP 1-16
+K1 居家养老;养老服务模式;家庭支持政策
+AB 引导养老服务资源向社区和家庭下沉,已经成为我国养老服务体系建设的重要内容和必然趋势。这种趋势契合了我国传统养老文化的价值取向,适应了我国老龄化特点及养老产业自身规律,养老服务向家庭的延伸可以充分发挥“居家”和“社区”的双重功效,为老年人提供更加优质的养老服务。建议进一步筑牢居家养老服务的基础地位,实现从集中到相对分散服务方式的转变,面向居家养老和社区服务进行平台搭建和流程再造,实现兼顾长期与短期盈利的经营模式创新。政府要尽快明确基本养老服务清单的内容,并尽快将其纳入我国基本公共服务的范围。尽快出台与养老服务有关的家庭支持政策,扎实推进社区和居家环境“适老化”改造工作,推进家庭、社区、机构之间的互联互通,建设更多老年友好型社区。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJvSvdcYW0jj3HvwWeyz46br4EwLeAKOX2gaBMuFhvMRULtquyrODIKI4HZvC80SqyohB5hAlKRbSu156e_yMsH9HScMb1ipByl60BgRfdGuwuoZ8YZBZvBhr0US2xlTthEY_tkVkvOaXDaNCjnGGpwV0jch39r522ZM_KiZuaL1w==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 吴青华
+T1 会展搭台产业唱戏
+JF 南宁日报
+OP 003
+FD 2023-12-11
+PB 南宁日报
+LA 中文;
+CN 45-0070
+DS CNKI
+LK https://link.cnki.net/doi/10.28604/n.cnki.nnnrb.2023.002253
+DO 10.28604/n.cnki.nnnrb.2023.002253
+
+RT Journal Article
+SR 1
+AD 南宁市民政局;
+T1 南宁市民政局关于开展南宁市2023年第二批经济困难失能、部分失能老年人家庭养老床位建设工作的通知
+JF 南宁政报
+YR 2023
+IS 23
+vo 
+OP 7-14
+AB <正>南民规〔2023〕4号各县（市、区）民政局、开发区社会事业（务）局：为做好2023年市本级为民办实事项目工作，不断优化我市养老服务供给能力,提高居家养老服务水平,促进机构、社区与居家养老服务融合发展，更好地满足老年人多样化养老服务需求，经市人民政府同意，现将开展南宁市2023年第二批经济困难失能、部分失能老年人家庭养老床位建设工作通知如下。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iIZRwi3CSSZvzZdneHXuoPU3BzUZk6wV1Eaf88mJt-0CPKjNLY-QNnaw3X208PRWXmO3-gXtZ_btbhOkC6zSeLK1rK5UrNkk1StvZgbE4AZMh4-MJ655lYJLv22tZ9-jrazJMMgOMWT5PyJuk12GQT2YnC2lT8HqdLYlTnb337x30VDl_KC6RPS&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 叶文青;周文媚
+AD 惠州日报;
+T1 今年为250户老人筑“安乐居”
+JF 惠州日报
+OP 008
+FD 2023-12-08
+PB 惠州日报
+LA 中文;
+CN 44-0056
+DS CNKI
+LK https://link.cnki.net/doi/10.28396/n.cnki.nhzdb.2023.003286
+DO 10.28396/n.cnki.nhzdb.2023.003286
+
+RT Newspaper Article
+SR 1
+A1 吴春霖
+T1 “适老化”改造托起老年人幸福晚年
+JF 银川日报
+OP 001
+FD 2023-11-25
+PB 银川日报
+LA 中文;
+CN 64-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.38237/n.cnki.nycdn.2023.003250
+DO 10.38237/n.cnki.nycdn.2023.003250
+
+RT Newspaper Article
+SR 1
+A1 任斐;温明明
+AD 滨州日报;滨州网;
+T1 滨州在全国率先以市为单位实现全覆盖
+JF 滨州日报
+OP 002
+FD 2023-11-23
+PB 滨州日报
+LA 中文;
+CN 37-0052
+DS CNKI
+LK https://link.cnki.net/doi/10.44592/n.cnki.nbhck2023.002622
+DO 10.44592/n.cnki.nbhck2023.002622
+
+RT Newspaper Article
+SR 1
+A1 陈汉儿;程天宇
+T1 养老不离家服务跟得上
+JF 福建日报
+OP 006
+FD 2023-11-17
+PB 福建日报
+LA 中文;
+CN 35-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28232/n.cnki.nfjrb.2023.005175
+DO 10.28232/n.cnki.nfjrb.2023.005175
+
+RT Newspaper Article
+SR 1
+A1 冯雪玉;许敬;孙柳
+T1 老有所养乐享安康晚年
+JF 内蒙古日报(汉)
+OP 006
+FD 2023-11-17
+PB 内蒙古日报(汉)
+LA 中文;
+CN 15-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28568/n.cnki.nmgrb.2023.004349
+DO 10.28568/n.cnki.nmgrb.2023.004349
+
+RT Newspaper Article
+SR 1
+A1 马海菊;刘俞伶;张利明
+AD 惠州日报;
+T1 心系特殊困难群体提升兜底保障水平
+JF 惠州日报
+OP 002
+FD 2023-11-17
+PB 惠州日报
+LA 中文;
+CN 44-0056
+DS CNKI
+LK https://link.cnki.net/doi/10.28396/n.cnki.nhzdb.2023.003071
+DO 10.28396/n.cnki.nhzdb.2023.003071
+
+RT Newspaper Article
+SR 1
+A1 冯晓玲;冉红春;左洁;蒙乾斌;许耀辉
+AD 兵团日报;
+T1 适老化改造，让老年人生活更便利
+JF 兵团日报(汉)
+OP 003
+FD 2023-11-12
+PB 兵团日报(汉)
+LA 中文;
+CN 65-0006
+DS CNKI
+LK https://link.cnki.net/doi/10.28038/n.cnki.nbtrb.2023.001886
+DO 10.28038/n.cnki.nbtrb.2023.001886
+
+RT Newspaper Article
+SR 1
+A1 郭静原
+T1 “适老”家电营造安心生活
+JF 经济日报
+OP 010
+FD 2023-11-11
+PB 经济日报
+LA 中文;
+CN 11-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28425/n.cnki.njjrb.2023.007527
+DO 10.28425/n.cnki.njjrb.2023.007527
+
+RT Newspaper Article
+SR 1
+A1 吴荣;董泊麟
+T1 晚年有爱生活“无碍”
+JF 吴忠日报
+OP 004
+FD 2023-11-10
+PB 吴忠日报
+LA 中文;
+CN 64-0013
+DS CNKI
+LK https://link.cnki.net/doi/10.28838/n.cnki.nwzbr.2023.001128
+DO 10.28838/n.cnki.nwzbr.2023.001128
+
+RT Newspaper Article
+SR 1
+A1 张涛;智慧
+T1 适老化改造，让困难老人居家生活更便利
+JF 宁夏日报
+OP 001
+FD 2023-11-09
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2023.004432
+DO 10.28607/n.cnki.nnxrb.2023.004432
+
+RT Newspaper Article
+SR 1
+A1 李伶
+T1 把暖心服务送到老人家门口
+JF 巴音郭楞日报(汉)
+OP 003
+FD 2023-11-04
+PB 巴音郭楞日报(汉)
+LA 中文;
+CN 65-0015
+DS CNKI
+LK https://link.cnki.net/doi/10.28041/n.cnki.nbygl.2023.001316
+DO 10.28041/n.cnki.nbygl.2023.001316
+
+RT Newspaper Article
+SR 1
+A1 曾艳
+T1 托起幸福“夕阳红”
+JF 赣南日报
+OP 002
+FD 2023-11-04
+PB 赣南日报
+LA 中文;
+CN 36-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28275/n.cnki.ngnbr.2023.002149
+DO 10.28275/n.cnki.ngnbr.2023.002149
+
+RT Newspaper Article
+SR 1
+A1 张莎
+T1 适老化“黑科技”产品争相亮相老博会
+JF 重庆日报
+OP 003
+FD 2023-11-04
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2023.004961
+DO 10.28120/n.cnki.ncqrb.2023.004961
+
+RT Newspaper Article
+SR 1
+A1 王铭
+T1 让幸福养老触手可及
+JF 中国社会报
+OP 001
+FD 2023-11-02
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.002099
+DO 10.28698/n.cnki.nshhu.2023.002099
+
+RT Newspaper Article
+SR 1
+A1 聂书江
+AD 健康时报;
+T1 化“有碍”为“友爱”，让老人乐享幸福晚年
+JF 健康时报
+OP 001
+FD 2023-10-31
+PB 健康时报
+LA 中文;
+CN 11-0218
+DS CNKI
+LK https://link.cnki.net/doi/10.28434/n.cnki.njksb.2023.000266
+DO 10.28434/n.cnki.njksb.2023.000266
+
+RT Newspaper Article
+SR 1
+A1 周冉冉
+T1 养老床位搬进家专业服务送上门
+JF 中国社会报
+OP 002
+FD 2023-10-31
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.002081
+DO 10.28698/n.cnki.nshhu.2023.002081
+
+RT Newspaper Article
+SR 1
+A1 鲍维
+T1 知心贴心暖心安心“颐养·乌海”紧系民心
+JF 乌海日报
+OP 001
+FD 2023-10-26
+PB 乌海日报
+LA 中文;
+CN 15-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.28819/n.cnki.nwhbr.2023.001801
+DO 10.28819/n.cnki.nwhbr.2023.001801
+
+RT Newspaper Article
+SR 1
+A1 胡江涛;钟健
+T1 养老变“享老”满满幸福味
+JF 赣南日报
+OP 002
+FD 2023-10-26
+PB 赣南日报
+LA 中文;
+CN 36-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28275/n.cnki.ngnbr.2023.001854
+DO 10.28275/n.cnki.ngnbr.2023.001854
+
+RT Newspaper Article
+SR 1
+A1 黄尉宏;陈丹娜
+AD 惠州日报;
+T1 今年180户困难家庭完成适老化改造
+JF 惠州日报
+OP 006
+FD 2023-10-25
+PB 惠州日报
+LA 中文;
+CN 44-0056
+DS CNKI
+LK https://link.cnki.net/doi/10.28396/n.cnki.nhzdb.2023.002876
+DO 10.28396/n.cnki.nhzdb.2023.002876
+
+RT Newspaper Article
+SR 1
+A1 梁健;邹海斌
+T1 温暖之城的“幸福密码”
+JF 江西日报
+OP 008
+FD 2023-10-25
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2023.004439
+DO 10.28490/n.cnki.njxrb.2023.004439
+
+RT Newspaper Article
+SR 1
+A1 柳静霓
+T1 平凉老人的N种养老方式
+JF 平凉日报
+OP 003
+FD 2023-10-24
+PB 平凉日报
+LA 中文;
+CN 62-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28613/n.cnki.nplrb.2023.001753
+DO 10.28613/n.cnki.nplrb.2023.001753
+
+RT Newspaper Article
+SR 1
+A1 崔曜
+T1 重庆基本实现每个乡镇街道有1个养老服务中心
+JF 重庆日报
+OP 008
+FD 2023-10-24
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2023.004582
+DO 10.28120/n.cnki.ncqrb.2023.004582
+
+RT Newspaper Article
+SR 1
+A1 杨淑琼;刘祥
+T1 让“养老”变“享老”
+JF 宁夏日报
+OP 004
+FD 2023-10-24
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2023.004282
+DO 10.28607/n.cnki.nnxrb.2023.004282
+
+RT Newspaper Article
+SR 1
+A1 陈郁
+T1 助老服务，呵护晚年生活
+JF 宁夏日报
+OP 004
+FD 2023-10-24
+PB 宁夏日报
+LA 中文;
+CN 64-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28607/n.cnki.nnxrb.2023.004290
+DO 10.28607/n.cnki.nnxrb.2023.004290
+
+RT Newspaper Article
+SR 1
+A1 柳旭;周冉冉;闫洁;张伟涛;张昕;冯佳
+T1 弘扬传统美德凝聚助老力量
+JF 中国社会报
+OP 001
+FD 2023-10-24
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.002004
+DO 10.28698/n.cnki.nshhu.2023.002004
+
+RT Newspaper Article
+SR 1
+A1 赖皓阳
+AD YMG;
+T1 老有颐养托起幸福“夕阳红”
+JF 烟台日报
+OP 003
+FD 2023-10-24
+PB 烟台日报
+LA 中文;
+CN 37-0032
+DS CNKI
+LK https://link.cnki.net/doi/10.38267/n.cnki.nytrb.2023.002744
+DO 10.38267/n.cnki.nytrb.2023.002744
+
+RT Newspaper Article
+SR 1
+A1 杨颖慧;苗楠钰
+T1 等不起的养老
+JF 嘉兴日报
+OP 001
+FD 2023-10-23
+PB 嘉兴日报
+LA 中文;
+CN 33-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28489/n.cnki.njxra.2023.003072
+DO 10.28489/n.cnki.njxra.2023.003072
+
+RT Newspaper Article
+SR 1
+A1 李考考;李丹丹
+AD 西江日报;
+T1 心系老人办实事为老服务暖人心
+JF 西江日报
+OP 003
+FD 2023-10-23
+PB 西江日报
+LA 中文;
+CN 44-0040
+DS CNKI
+LK https://link.cnki.net/doi/10.28877/n.cnki.nxjbr.2023.002089
+DO 10.28877/n.cnki.nxjbr.2023.002089
+
+RT Newspaper Article
+SR 1
+A1 杨景莹
+T1 福彩助老让老年人安心养老乐享晚年
+JF 中国社会报
+OP 005
+FD 2023-10-23
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.001975
+DO 10.28698/n.cnki.nshhu.2023.001975
+
+RT Newspaper Article
+SR 1
+A1 孔海丽
+T1 巨头抢滩适老化改造万亿市场
+JF 21世纪经济报道
+OP 012
+FD 2023-10-19
+PB 21世纪经济报道
+LA 中文;
+CN 44-0073
+DS CNKI
+LK https://link.cnki.net/doi/10.28723/n.cnki.nsjbd.2023.004148
+DO 10.28723/n.cnki.nsjbd.2023.004148
+
+RT Newspaper Article
+SR 1
+A1 郑娅莉
+AD 兵团日报;
+T1 让服务“贴身”更“贴心”
+JF 兵团日报(汉)
+OP 005
+FD 2023-10-19
+PB 兵团日报(汉)
+LA 中文;
+CN 65-0006
+DS CNKI
+LK https://link.cnki.net/doi/10.28038/n.cnki.nbtrb.2023.001730
+DO 10.28038/n.cnki.nbtrb.2023.001730
+
+RT Newspaper Article
+SR 1
+A1 林敏
+AD 汕尾日报;
+T1 真抓实干办实事兜底惠民暖民心
+JF 汕尾日报
+OP 003
+FD 2023-10-13
+PB 汕尾日报
+LA 中文;
+CN 44-0058
+DS CNKI
+LK https://link.cnki.net/doi/10.28745/n.cnki.nswrb.2023.001388
+DO 10.28745/n.cnki.nswrb.2023.001388
+
+RT Newspaper Article
+SR 1
+A1 常碧罗
+T1 适老化改造提升生活品质
+JF 人民日报
+OP 019
+FD 2023-10-13
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2023.010212
+DO 10.28655/n.cnki.nrmrb.2023.010212
+
+RT Newspaper Article
+SR 1
+A1 王芳
+T1 优质养老服务托起幸福“夕阳红”
+JF 邢台日报
+OP 003
+FD 2023-10-12
+PB 邢台日报
+LA 中文;
+CN 13-0007
+DS CNKI
+LK https://link.cnki.net/doi/10.28904/n.cnki.nxtbr.2023.001865
+DO 10.28904/n.cnki.nxtbr.2023.001865
+
+RT Newspaper Article
+SR 1
+A1 莫瑞英
+AD 拉萨融媒;
+T1 让居家养老更有温度
+JF 拉萨日报
+OP 001
+FD 2023-10-06
+PB 拉萨日报
+LA 中文;
+CN 54-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.43655/n.cnki.nlarb.2023.001275
+DO 10.43655/n.cnki.nlarb.2023.001275
+
+RT Newspaper Article
+SR 1
+A1 原韬雄
+T1 扶老助老，做足“绣花”功夫
+JF 人民日报
+OP 014
+FD 2023-09-25
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2023.009722
+DO 10.28655/n.cnki.nrmrb.2023.009722
+
+RT Newspaper Article
+SR 1
+A1 唐悦;刘春
+T1 “老博会”上，“苏适养老”走进未来
+JF 新华日报
+OP 003
+FD 2023-09-22
+PB 新华日报
+LA 中文;
+CN 32-0050
+DS CNKI
+LK https://link.cnki.net/doi/10.28872/n.cnki.nxhrb.2023.008094
+DO 10.28872/n.cnki.nxhrb.2023.008094
+
+RT Newspaper Article
+SR 1
+A1 卢婉凤
+T1 衡水提升服务能力让“养老”变“享老”
+JF 河北经济日报
+OP 006
+FD 2023-09-20
+PB 河北经济日报
+LA 中文;
+CN 13-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.28318/n.cnki.nhbjj.2023.002003
+DO 10.28318/n.cnki.nhbjj.2023.002003
+
+RT Newspaper Article
+SR 1
+A1 耿建扩;陈元秋;赵元君;石梓鲜
+T1 河北石家庄：居家养老“零距离”贴心服务送上门
+JF 光明日报
+OP 010
+FD 2023-09-18
+PB 光明日报
+LA 中文;
+CN 11-0026
+DS CNKI
+LK https://link.cnki.net/doi/10.28273/n.cnki.ngmrb.2023.004562
+DO 10.28273/n.cnki.ngmrb.2023.004562
+
+RT Newspaper Article
+SR 1
+A1 张婷
+T1 江苏：养老服务专业人才有甜头有奔头有劲头
+JF 中国社会报
+OP 003
+FD 2023-09-18
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.001855
+DO 10.28698/n.cnki.nshhu.2023.001855
+
+RT Newspaper Article
+SR 1
+A1 骆妍
+T1 让更多老人融入并享受现代数字化生活
+JF 西安日报
+OP 003
+FD 2023-09-17
+PB 西安日报
+LA 中文;
+CN 61-0058
+DS CNKI
+LK https://link.cnki.net/doi/10.28843/n.cnki.nxarb.2023.002563
+DO 10.28843/n.cnki.nxarb.2023.002563
+
+RT Newspaper Article
+SR 1
+A1 民小爱;蒋承骏;姜涛
+T1 主城区2025年底前实现颐养社区全覆盖
+JF 扬州日报
+OP 001
+FD 2023-09-07
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2023.003252
+DO 10.38283/n.cnki.nyzbr.2023.003252
+
+RT Newspaper Article
+SR 1
+A1 民政轩
+T1 为老年人的幸福生活添彩加码
+JF 鄂尔多斯日报
+OP 005
+FD 2023-09-07
+PB 鄂尔多斯日报
+LA 中文;
+CN 15-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28222/n.cnki.nedsb.2023.001387
+DO 10.28222/n.cnki.nedsb.2023.001387
+
+RT Newspaper Article
+SR 1
+A1 李香晖
+T1 服务送“身边”关爱到“床边”
+JF 钦州日报
+OP 002
+FD 2023-09-06
+PB 钦州日报
+LA 中文;
+CN 45-0059
+DS CNKI
+LK https://link.cnki.net/doi/10.28639/n.cnki.nqzrb.2023.001860
+DO 10.28639/n.cnki.nqzrb.2023.001860
+
+RT Newspaper Article
+SR 1
+A1 刘嵌玥
+T1 为老人打造居家“享老”空间
+JF 健康报
+OP 003
+FD 2023-09-06
+PB 健康报
+LA 中文;
+CN 11-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28415/n.cnki.njika.2023.002636
+DO 10.28415/n.cnki.njika.2023.002636
+
+RT Newspaper Article
+SR 1
+A1 董晴晴
+T1 “齐乐养”品牌创树的淄博路径
+JF 淄博日报
+OP 001
+FD 2023-09-06
+PB 淄博日报
+LA 中文;
+CN 37-0036
+DS CNKI
+LK https://link.cnki.net/doi/10.38290/n.cnki.nzbrb.2023.002078
+DO 10.38290/n.cnki.nzbrb.2023.002078
+
+RT Newspaper Article
+SR 1
+A1 顾磊
+T1 以数字科技推动居家适老化及困难重度残疾人家庭无障碍高质量改造
+JF 人民政协报
+OP 009
+FD 2023-09-05
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2023.005233
+DO 10.28660/n.cnki.nrmzx.2023.005233
+
+RT Newspaper Article
+SR 1
+A1 吴伟;汤亚辉
+T1 多样化服务为老年人幸福生活“加码”
+JF 南昌日报
+OP 002
+FD 2023-09-03
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2023.002560
+DO 10.28591/n.cnki.nncrb.2023.002560
+
+RT Newspaper Article
+SR 1
+A1 周冉冉
+T1 新技术新理念新合作
+JF 中国社会报
+OP 001
+FD 2023-08-30
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.001766
+DO 10.28698/n.cnki.nshhu.2023.001766
+
+RT Newspaper Article
+SR 1
+A1 朱宁宁
+T1 为打造“无障有爱”环境提供坚强法治保障
+JF 法治日报
+OP 005
+FD 2023-08-29
+PB 法治日报
+LA 中文;
+CN 11-0313
+DS CNKI
+LK https://link.cnki.net/doi/10.28241/n.cnki.nfzrb.2023.004888
+DO 10.28241/n.cnki.nfzrb.2023.004888
+
+RT Newspaper Article
+SR 1
+A1 亢舒
+T1 构建便民生活圈
+JF 经济日报
+OP 006
+FD 2023-08-24
+PB 经济日报
+LA 中文;
+CN 11-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28425/n.cnki.njjrb.2023.005921
+DO 10.28425/n.cnki.njjrb.2023.005921
+
+RT Newspaper Article
+SR 1
+A1 张苑;李俊
+T1 我市居家和社区基本养老服务有了“升级版”
+JF 桂林日报
+OP 003
+FD 2023-08-24
+PB 桂林日报
+LA 中文;
+CN 45-0004
+DS CNKI
+LK https://link.cnki.net/doi/10.28272/n.cnki.nglrb.2023.001422
+DO 10.28272/n.cnki.nglrb.2023.001422
+
+RT Newspaper Article
+SR 1
+A1 秦丽;贾雪;陈兴红
+T1 胜利街道精细化为老服务托起幸福夕阳红
+JF 东营日报
+OP 004
+FD 2023-08-22
+PB 东营日报
+LA 中文;
+CN 37-0054
+DS CNKI
+LK https://link.cnki.net/doi/10.28209/n.cnki.ndyrb.2023.001134
+DO 10.28209/n.cnki.ndyrb.2023.001134
+
+RT Newspaper Article
+SR 1
+A1 郑振华
+T1 托起全市老年人的幸福晚年
+JF 珠海特区报
+OP 001
+FD 2023-08-21
+PB 珠海特区报
+LA 中文;
+CN 44-0030
+DS CNKI
+LK https://link.cnki.net/doi/10.38317/n.cnki.nzhtq.2023.002231
+DO 10.38317/n.cnki.nzhtq.2023.002231
+
+RT Newspaper Article
+SR 1
+A1 张一弛
+AD 沈阳日报;沈报;
+T1 市民政局实施“五项行动”助力养老工程提质增效
+JF 沈阳日报
+OP 002
+FD 2023-08-17
+PB 沈阳日报
+LA 中文;
+CN 21-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28770/n.cnki.nsyrb.2023.002595
+DO 10.28770/n.cnki.nsyrb.2023.002595
+
+RT Newspaper Article
+SR 1
+A1 康宁;史飞飞;张军;刘文环
+T1 适老化改造“量身定制”让养老变“享老”
+JF 沧州日报
+OP P05
+FD 2023-08-16
+PB 沧州日报
+LA 中文;
+CN 13-0013
+DS CNKI
+LK https://link.cnki.net/doi/10.28160/n.cnki.nczdb.2023.001273
+DO 10.28160/n.cnki.nczdb.2023.001273
+
+RT Newspaper Article
+SR 1
+A1 卜令伟
+T1 我省重点推动完整社区试点建设
+JF 友报
+OP 003
+FD 2023-08-11
+PB 友报
+LA 中文;
+CN 21-0074
+DS CNKI
+LK https://link.cnki.net/doi/10.38263/n.cnki.nyoub.2023.000157
+DO 10.38263/n.cnki.nyoub.2023.000157
+
+RT Newspaper Article
+SR 1
+A1 张晓鸣
+T1 聚焦安全健康需求，让老人居家生活更舒心
+JF 文汇报
+OP 006
+FD 2023-08-10
+PB 文汇报
+LA 中文;
+CN 31-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28814/n.cnki.nwehu.2023.002943
+DO 10.28814/n.cnki.nwehu.2023.002943
+
+RT Newspaper Article
+SR 1
+A1 张晓东
+T1 让老有所养成色更足
+JF 太行日报
+OP 001
+FD 2023-08-05
+PB 太行日报
+LA 中文;
+CN 14-0022
+DS CNKI
+LK https://link.cnki.net/doi/10.28778/n.cnki.ntarb.2023.001212
+DO 10.28778/n.cnki.ntarb.2023.001212
+
+RT Newspaper Article
+SR 1
+A1 庄瑞玉
+AD 深圳特区报;
+T1 老龄化社区长者服务站覆盖率已达48%
+JF 深圳特区报
+OP A02
+FD 2023-08-01
+PB 深圳特区报
+LA 中文;
+CN 44-0027
+DS CNKI
+LK https://link.cnki.net/doi/10.28776/n.cnki.nsztq.2023.003643
+DO 10.28776/n.cnki.nsztq.2023.003643
+
+RT Newspaper Article
+SR 1
+A1 米静
+T1 养老有寄托幸福夕阳红
+JF 酒泉日报
+OP 004
+FD 2023-07-29
+PB 酒泉日报
+LA 中文;
+CN 62-0055
+DS CNKI
+LK https://link.cnki.net/doi/10.28456/n.cnki.njqrb.2023.000324
+DO 10.28456/n.cnki.njqrb.2023.000324
+
+RT Newspaper Article
+SR 1
+A1 张明明;宋龙飞
+T1 让老人老有所养老有所依
+JF 邢台日报
+OP 007
+FD 2023-07-27
+PB 邢台日报
+LA 中文;
+CN 13-0007
+DS CNKI
+LK https://link.cnki.net/doi/10.28904/n.cnki.nxtbr.2023.001379
+DO 10.28904/n.cnki.nxtbr.2023.001379
+
+RT Newspaper Article
+SR 1
+A1 周冉冉
+T1 身边、床边、家边实现高质量“享老”
+JF 中国社会报
+OP 002
+FD 2023-07-26
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.001592
+DO 10.28698/n.cnki.nshhu.2023.001592
+
+RT Newspaper Article
+SR 1
+T1 适老化改造提升幸福感
+JF 人民日报
+OP 018
+FD 2023-07-26
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2023.007542
+DO 10.28655/n.cnki.nrmrb.2023.007542
+
+RT Newspaper Article
+SR 1
+A1 罗佳雯;罗瑞琪
+AD 汕尾日报;
+T1 擘画养老新图景守护最美“夕阳红”
+JF 汕尾日报
+OP 008
+FD 2023-07-20
+PB 汕尾日报
+LA 中文;
+CN 44-0058
+DS CNKI
+LK https://link.cnki.net/doi/10.28745/n.cnki.nswrb.2023.000677
+DO 10.28745/n.cnki.nswrb.2023.000677
+
+RT Newspaper Article
+SR 1
+A1 蒲晓磊
+T1 把适老化观念融入社会治理全过程
+JF 法治日报
+OP 007
+FD 2023-07-18
+PB 法治日报
+LA 中文;
+CN 11-0313
+DS CNKI
+LK https://link.cnki.net/doi/10.28241/n.cnki.nfzrb.2023.003796
+DO 10.28241/n.cnki.nfzrb.2023.003796
+
+RT Newspaper Article
+SR 1
+A1 朱冬;马一帆
+T1 社会适老化改造让老人“居有所安”
+JF 淮北日报
+OP 001
+FD 2023-07-18
+PB 淮北日报
+LA 中文;
+CN 34-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28325/n.cnki.nhbra.2023.001491
+DO 10.28325/n.cnki.nhbra.2023.001491
+
+RT Newspaper Article
+SR 1
+T1 加快社会适老化改造
+JF 人民政协报
+OP 002
+FD 2023-07-11
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2023.003966
+DO 10.28660/n.cnki.nrmzx.2023.003966
+
+RT Newspaper Article
+SR 1
+T1 加快社会适老化改造
+JF 人民政协报
+OP 003
+FD 2023-07-11
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2023.003967
+DO 10.28660/n.cnki.nrmzx.2023.003967
+
+RT Newspaper Article
+SR 1
+A1 曾俊钦;郭娇妍;张惠荣;范晖
+T1 适老化“小改造”守护老人“大幸福”
+JF 闽西日报
+OP 007
+FD 2023-07-06
+PB 闽西日报
+LA 中文;
+CN 35-0037
+DS CNKI
+LK https://link.cnki.net/doi/10.28573/n.cnki.nmxrb.2023.000973
+DO 10.28573/n.cnki.nmxrb.2023.000973
+
+RT Newspaper Article
+SR 1
+A1 刘丽莎
+AD 广东建设报;
+T1 居家“小改造”托起老年“大幸福”
+JF 广东建设报
+OP 004
+FD 2023-07-04
+PB 广东建设报
+LA 中文;
+CN 44-0132
+DS CNKI
+LK https://link.cnki.net/doi/10.28251/n.cnki.ngdjs.2023.000415
+DO 10.28251/n.cnki.ngdjs.2023.000415
+
+RT Newspaper Article
+SR 1
+A1 张纯荣;陈明喜
+T1 南昌构建五级养老服务体系托起幸福“夕阳红”
+JF 南昌日报
+OP 005
+FD 2023-06-29
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2023.001692
+DO 10.28591/n.cnki.nncrb.2023.001692
+
+RT Newspaper Article
+SR 1
+T1 在家建“床”安心养老
+JF 锦州日报
+OP B04
+FD 2023-06-28
+PB 锦州日报
+LA 中文;
+CN 21-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.28496/n.cnki.njzbr.2023.000715
+DO 10.28496/n.cnki.njzbr.2023.000715
+
+RT Newspaper Article
+SR 1
+A1 唐婕惠;赖世焕
+T1 “小切口”撬动“大民生”
+JF 赣南日报
+OP 003
+FD 2023-06-27
+PB 赣南日报
+LA 中文;
+CN 36-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28275/n.cnki.ngnbr.2023.000152
+DO 10.28275/n.cnki.ngnbr.2023.000152
+
+RT Newspaper Article
+SR 1
+A1 张纯荣;陈明喜
+T1 南昌城市养老服务成效显
+JF 南昌日报
+OP 002
+FD 2023-06-27
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2023.001658
+DO 10.28591/n.cnki.nncrb.2023.001658
+
+RT Newspaper Article
+SR 1
+A1 马晨
+T1 推进机构、社区和居家养老融合发展
+JF 人民日报
+OP 011
+FD 2023-06-12
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2023.005973
+DO 10.28655/n.cnki.nrmrb.2023.005973
+
+RT Newspaper Article
+SR 1
+A1 邱越;王艾冰;张爽;赵萌萌
+AD 健康时报;
+T1 适老化改造:给老人搭建一个专属的家
+JF 健康时报
+OP 003
+FD 2023-06-06
+PB 健康时报
+LA 中文;
+CN 11-0218
+DS CNKI
+LK https://link.cnki.net/doi/10.28434/n.cnki.njksb.2023.000139
+DO 10.28434/n.cnki.njksb.2023.000139
+
+RT Newspaper Article
+SR 1
+A1 康冀楠
+T1 让幸福养老在家门口实现
+JF 开封日报
+OP 004
+FD 2023-06-02
+PB 开封日报
+LA 中文;
+CN 41-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28499/n.cnki.nkfrb.2023.001088
+DO 10.28499/n.cnki.nkfrb.2023.001088
+
+RT Journal Article
+SR 1
+AD 深圳市民政局;
+T1 深圳市民政局关于印发《深圳市开展“0570”老年人居家适老化改造实施办法（试行）》的通知
+JF 深圳市人民政府公报
+YR 2023
+IS 17
+vo 
+OP 11-34
+AB <正>深民规〔2023〕4号各区民政局、大鹏新区统战和社会建设局，各有关单位：《深圳市开展“0570”老年人居家适老化改造实施办法（试行）》已经市政府同意，现予印发，请遵照执行。2023年5月12日深圳市开展“0570”老年人居家适老化改造实施办法（试行）第一章 总则 第一条为规范我市老年人居家适老化改造服务工作，改善老年人居家生活环境，提高老年人居家养老的安全性、便利性，持续巩固家庭养老基础地位、
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKXkz6SvP4niTKmvCCY5RhjQdmXRkDpW-Q7dni0rhwB4aqRn77kuxDZuIYGSzRBbRLhMXFy5StLSV-bf94rjhhO2FBne5ZDvzPT8S690pzXpqTWxfe5SKpXDonGj9TWt719gwxM3Rya94jmdLjqu7H3Gg-E3ETjRfz67uUMmb70BqpXn01BN7-8&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 赵博宇
+AD 北京商报;
+T1 北京居家养老超三成用餐困难
+JF 北京商报
+OP 004
+FD 2023-05-25
+PB 北京商报
+LA 中文;
+CN 11-0104
+DS CNKI
+LK https://link.cnki.net/doi/10.28036/n.cnki.nbjxd.2023.001433
+DO 10.28036/n.cnki.nbjxd.2023.001433
+
+RT Newspaper Article
+SR 1
+A1 郭妍;曹萌萌
+T1 绘就“享福圈”
+JF 陕西日报
+OP 009
+FD 2023-05-24
+PB 陕西日报
+LA 中文;
+CN 61-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28762/n.cnki.nsxrb.2023.002858
+DO 10.28762/n.cnki.nsxrb.2023.002858
+
+RT Newspaper Article
+SR 1
+A1 王子阳;祖维晨
+T1 “这里就是我最理想的家”
+JF 吉林日报
+OP 002
+FD 2023-05-24
+PB 吉林日报
+LA 中文;
+CN 22-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28447/n.cnki.njlrb.2023.001956
+DO 10.28447/n.cnki.njlrb.2023.001956
+
+RT Newspaper Article
+SR 1
+A1 史洪民
+T1 开发区以“小”见“大”提升居家养老服务水平
+JF 通辽日报
+OP 002
+FD 2023-05-19
+PB 通辽日报
+LA 中文;
+CN 15-0006
+DS CNKI
+LK https://link.cnki.net/doi/10.28791/n.cnki.ntlbr.2023.000665
+DO 10.28791/n.cnki.ntlbr.2023.000665
+
+RT Newspaper Article
+SR 1
+A1 孙金诚
+T1 为“老”问题寻求新解法
+JF 人民政协报
+OP 007
+FD 2023-05-12
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2023.002997
+DO 10.28660/n.cnki.nrmzx.2023.002997
+
+RT Newspaper Article
+SR 1
+A1 蔡伟健;蓝斐菲;赖金朗;郑婉玲
+AD 惠州日报;
+T1 今年继续开展324户居家适老化改造
+JF 惠州日报
+OP 007
+FD 2023-05-11
+PB 惠州日报
+LA 中文;
+CN 44-0056
+DS CNKI
+LK https://link.cnki.net/doi/10.28396/n.cnki.nhzdb.2023.001332
+DO 10.28396/n.cnki.nhzdb.2023.001332
+
+RT Newspaper Article
+SR 1
+A1 张晶晶;董鹏飞
+T1 适老化改造好不好实地调研看成效
+JF 中国社会报
+OP 001
+FD 2023-04-24
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.001078
+DO 10.28698/n.cnki.nshhu.2023.001078
+
+RT Newspaper Article
+SR 1
+A1 杨小玲
+T1 陕西养老惠民六项实事让老年人生活更幸福
+JF 陕西日报
+OP 002
+FD 2023-04-22
+PB 陕西日报
+LA 中文;
+CN 61-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28762/n.cnki.nsxrb.2023.002162
+DO 10.28762/n.cnki.nsxrb.2023.002162
+
+RT Newspaper Article
+SR 1
+A1 董晴晴
+T1 未来如何养老，你想好了吗？
+JF 淄博日报
+OP 001
+FD 2023-04-17
+PB 淄博日报
+LA 中文;
+CN 37-0036
+DS CNKI
+LK https://link.cnki.net/doi/10.38290/n.cnki.nzbrb.2023.000898
+DO 10.38290/n.cnki.nzbrb.2023.000898
+
+RT Newspaper Article
+SR 1
+A1 郭文治;李彤彤
+T1 浙江省玉环市：破解融合型大社区大单元治理难题
+JF 中国城市报
+OP B09
+FD 2023-04-10
+PB 中国城市报
+LA 中文;
+CN 11-0283
+DS CNKI
+LK https://link.cnki.net/doi/10.28056/n.cnki.nccsb.2023.000690
+DO 10.28056/n.cnki.nccsb.2023.000690
+
+RT Newspaper Article
+SR 1
+A1 马乐;李禄超
+T1 我市创建“老有暖养”示范城市
+JF 德州日报
+OP A01
+FD 2023-03-23
+PB 德州日报
+LA 中文;
+CN 37-0039
+DS CNKI
+LK https://link.cnki.net/doi/10.28210/n.cnki.ndzbr.2023.000349
+DO 10.28210/n.cnki.ndzbr.2023.000349
+
+RT Newspaper Article
+SR 1
+A1 杨升涛
+AD 成都日报锦观新闻;
+T1 今年推进空巢独居老人适老化改造10000户
+JF 成都日报
+OP 003
+FD 2023-03-22
+PB 成都日报
+LA 中文;
+CN 51-0004
+DS CNKI
+LK https://link.cnki.net/doi/10.28063/n.cnki.ncdrb.2023.001099
+DO 10.28063/n.cnki.ncdrb.2023.001099
+
+RT Newspaper Article
+SR 1
+A1 郑子愚
+T1 让家“适老”
+JF 解放日报
+OP 008
+FD 2023-03-21
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2023.001276
+DO 10.28410/n.cnki.njfrb.2023.001276
+
+RT Newspaper Article
+SR 1
+A1 周楠
+T1 关照细微之处，营造老人宜居“大环境”
+JF 解放日报
+OP 016
+FD 2023-03-20
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2023.001260
+DO 10.28410/n.cnki.njfrb.2023.001260
+
+RT Journal Article
+SR 1
+A1 杨余
+T1 全国政协委员陈伟鸿：建议继续优化我国居家适老化改造
+JF 中国广播影视
+YR 2023
+IS 06
+vo 
+OP 36-39
+AB <正>“每个人都会变老，当整个社会开始步入老龄化时代，我特别希望能够就这一问题建言献策。”伴随人口红利的消失，我国也迎来了人口老龄化的难题。数据显示，2022年，我国人口近61年来首次出现负增长，人口走势历史性拐点到来；全国60岁及以上人口约2.8亿，占全国人口的19.8%，是世界上人口老龄化程度较高的国家之一。预计到2035年，这一数字将增至4.2亿，占比将超过30%。
+SN 1002-4085
+CN 11-1506/G2
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJ-BpK9Ev75shBvuVHXSHO6vTqC3nDOndueh40zYiWeFP96KvqRJL0-vJET_xgi9uVLFaijw-GqSKi6kJmofZwYA7lq7LU-1tZwnGMGi77xNEBRVeMZBTiM60mDmKuvHpaFuZHyZg1tEr74gmJpXGDI1L_STzYtP0URZTOpq5UFpyW_WFSspZfY&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+A1 马存财;田原
+AD 北京林业大学艺术设计学院;
+T1 居家养老模式下的适老化设计标准研究
+JF 包装与设计
+YR 2023
+IS 02
+vo 
+OP 104-105
+K1 居家养老;适老化设计;标准研究
+AB 全国第七次人口普查数据显示,我国即将进入中度老龄化社会,并将长期面临老龄化社会带来的各种压力。对于大多数老年人而言,居家养老为现今主要的养老模式,居家环境的适老化设计因此变得尤为重要。本文基于此社会背景,结合老年人的生理与心理特征,总结居家养老的老年人的实际需求,为现有适老化设计标准提出了相关优化建议。
+SN 1007-4759
+CN 44-1262/TB
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iJ-BpK9Ev75shBvuVHXSHO6vTqC3nDOndsFsGoJuviSr9elQkQ3QZYliI7bAwq489ca8w7yYrCxk8vrSIeYMM3jk9Ey7tOO9CkLMlD6S3DWDX_QWQNObrLY_FJFXzCdBv2S41c8d3qMYO4rlOFQFH6-baCx0h74R3DQ6u3zuyPwBVd8ShsMunNi&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 孙燕明
+T1 养老产业利好政策频出适老改造提速
+JF 中国消费者报
+OP T37
+FD 2023-03-15
+PB 中国消费者报
+LA 中文;
+CN 11-0042
+DS CNKI
+LK https://link.cnki.net/doi/10.28867/n.cnki.nxfzb.2023.000500
+DO 10.28867/n.cnki.nxfzb.2023.000500
+
+RT Newspaper Article
+SR 1
+A1 伍欣
+T1 助力老年人“智享”幸福生活
+JF 中国社会报
+OP 003
+FD 2023-03-12
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.000675
+DO 10.28698/n.cnki.nshhu.2023.000675
+
+RT Newspaper Article
+SR 1
+A1 魏琳;胡高;陈铭婵
+T1 “家门口”医养服务托举“夕阳红”
+JF 新华日报
+OP 013
+FD 2023-03-12
+PB 新华日报
+LA 中文;
+CN 32-0050
+DS CNKI
+LK https://link.cnki.net/doi/10.28872/n.cnki.nxhrb.2023.001545
+DO 10.28872/n.cnki.nxhrb.2023.001545
+
+RT Newspaper Article
+SR 1
+A1 胡春艳
+AD 中青报;中青网;
+T1 在站台与踏板的缝隙间持续发力
+JF 中国青年报
+OP 003
+FD 2023-03-04
+PB 中国青年报
+LA 中文;
+CN 11-0061
+DS CNKI
+LK https://link.cnki.net/doi/10.38302/n.cnki.nzgqn.2023.000653
+DO 10.38302/n.cnki.nzgqn.2023.000653
+
+RT Newspaper Article
+SR 1
+A1 彭红霞;周文媚;冯雪辉
+AD 惠州日报;
+T1 谈思路出点子助推高质量发展
+JF 惠州日报
+OP 008
+FD 2023-03-03
+PB 惠州日报
+LA 中文;
+CN 44-0056
+DS CNKI
+LK https://link.cnki.net/doi/10.28396/n.cnki.nhzdb.2023.000682
+DO 10.28396/n.cnki.nhzdb.2023.000682
+
+RT Newspaper Article
+SR 1
+A1 加兰
+T1 深圳拟提高老年人居家适老化改造资助标准
+JF 中国老年报
+OP 003
+FD 2023-03-02
+PB 中国老年报
+LA 中文;
+CN 11-0031
+DS CNKI
+LK https://link.cnki.net/doi/10.28108/n.cnki.nclnb.2023.000138
+DO 10.28108/n.cnki.nclnb.2023.000138
+
+RT Newspaper Article
+SR 1
+A1 刘春;张红军
+T1 智慧助老，让老人乐享幸福晚年
+JF 新华日报
+OP 006
+FD 2023-03-01
+PB 新华日报
+LA 中文;
+CN 32-0050
+DS CNKI
+LK https://link.cnki.net/doi/10.28872/n.cnki.nxhrb.2023.001216
+DO 10.28872/n.cnki.nxhrb.2023.001216
+
+RT Newspaper Article
+SR 1
+A1 陈嵘伟;龚春辉
+AD 南方日报;
+T1 “一户一案”做好特殊困难老人居家适老化改造
+JF 南方日报
+OP A02
+FD 2023-02-22
+PB 南方日报
+LA 中文;
+CN 44-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28597/n.cnki.nnfrb.2023.001022
+DO 10.28597/n.cnki.nnfrb.2023.001022
+
+RT Journal Article
+SR 1
+T1 从居家到社区、由线下及线上，各地加快推进适老化改造——“小改造”承载“大幸福”
+JF 财富生活
+YR 2023
+IS 04
+vo 
+OP 1-3
+AB <正>在家走路怕摔、洗澡怕滑,线上挂不上号、打不到车……日常生活中,老年人在各类高频事项和服务场景中都有可能遇到难处。“适老化改造”应运而生。中共中央、国务院印发的《关于加强新时代老龄工作的意见》提出,将无障碍环境建设和适老化改造纳入城市更新、城镇老旧小区改造、农村危房改造、农村人居环境整治提升统筹推进,让老年人参与社会活动更加安全方便。
+SN 2096-4625
+CN 12-1456/F
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iIFkfbL3n-MPSGiC-VTiuRGVKGnhyX6_uX5GmS-6wPyP9mUgH70oMXHOZwcuZhajNeWlOegfJQ7Kzwp810JnQDtDuQvIYYPOEH3Q4cN4CRpShz5-dEZuf2OK2AKypbzY0yqDFazW-qNyTxzvrd7p6xmkguTabMl_d93vVXHfUKH29-RffGfTs4N&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+AD 无锡市人民政府办公室;
+T1 市政府办公室关于印发“锡心医养”社区居家“332”服务行动方案（2023-2025年）的通知
+JF 无锡市人民政府公报
+YR 2023
+IS 02
+vo 
+OP 15-26
+AB <正>锡政办发〔2022〕103号各市（县）、区人民政府，市各委办局，市各直属单位：《“锡心医养”社区居家“332”服务行动方案（2023-2025年）》已经市政府同意，现印发给你们，请认真贯彻落实。2022年12月30日“锡心医养”社区居家“332”服务行动方案（2023—2025年）为深入推进我市社区居家医养服务发展，根据《中共中央国务院关于加强新时代老龄工作的意见》（中发〔2021〕42号）、《关于进一步推进医养结合发展的指导意见》（国卫老龄发〔2022〕25号）和《市政府办公室关于印发无锡市“一老一小”整体解决方案的通知》（锡政办发〔2022〕79号）精神，结合我市实际，制定以下行动方案。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iIFkfbL3n-MPSGiC-VTiuRGVKGnhyX6_uXLdzKiNVFfMcRBVoRX3qjFOMJLvZdB1HVBlVm833AAGiNFiqkh8aEk1s_T5bRDW91dt0FdZbmb9zL48Sq63upTw7vvmkiycrmKXo2bN31wtLTRu94LxQGbibktkor5Z6VmLJLwinz0U-PVWVQ88e1k&uniplatform=NZKPT&language=CHS
+
+RT Journal Article
+SR 1
+AD 内江市人民政府办公室;
+T1 内江市人民政府办公室关于加快推进养老服务高质量发展的实施意见
+JF 内江市人民政府公报
+YR 2023
+IS 02
+vo 
+OP 25-37
+AB <正>(内府办发〔2022〕59号)各县(市、区)人民政府,内江新区、内江经开区、内江高新区管委会,市级有关部门(单位):根据《中共中央国务院关于加强新时代老龄工作的意见》《四川省人民政府办公厅关于推进四川养老服务发展的实施意见》(川办发〔2020〕9号)文件精神,为积极应对人口老龄化,加快推进我市养老服务高质量发展,结合内江实际,提出如下实施意见。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKrmC7-iFuKYWPQC_kcjDUkHjbDFRVapv0lhMEVc7sdlf2u-_U-sMG-nTfTyBUqp6SVLbem1fGBH4OeZOxxn9WlK2whBNWXJPL3ReWX0BcFOHbZUK2k98UTCxGjy9wDQeUEnoOYz0oXndTWqKp-M5Rv-5tBD7072NCR59c_vSW5gS8q4AQrTbQ8&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 鲁燕
+AD 郑报;
+T1 河南7334个社区实现养老服务场所全覆盖
+JF 郑州日报
+OP 002
+FD 2023-02-14
+PB 郑州日报
+LA 中文;
+CN 41-0048
+DS CNKI
+LK https://link.cnki.net/doi/10.38344/n.cnki.nzzrb.2023.000312
+DO 10.38344/n.cnki.nzzrb.2023.000312
+
+RT Newspaper Article
+SR 1
+A1 王向前
+T1 让“15分钟养老服务圈”看得见摸得着
+JF 河南日报
+OP 003
+FD 2023-02-14
+PB 河南日报
+LA 中文;
+CN 41-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28371/n.cnki.nhnrb.2023.000771
+DO 10.28371/n.cnki.nhnrb.2023.000771
+
+RT Newspaper Article
+SR 1
+A1 徐玉涛
+AD 顶端新闻;河南商报;
+T1 将对6万户特困老年人家庭适老化改造
+JF 河南商报
+OP A02
+FD 2023-02-14
+PB 河南商报
+LA 中文;
+CN 41-0036
+DS CNKI
+LK https://link.cnki.net/doi/10.28373/n.cnki.nhnsb.2023.000172
+DO 10.28373/n.cnki.nhnsb.2023.000172
+
+RT Journal Article
+SR 1
+T1 筑爱而起养乐天伦——记河北筑养乐养老服务有限公司董事长竺杨
+JF 乡音
+YR 2023
+IS 02
+vo 
+OP 57-58
+AB <正>老有所养、老有所依、老有所乐、老有所安,这是千百年来中国老百姓最朴素的心愿。全心全意为老人服务是河北筑养乐养老服务有限公司企业的宗旨。公司成立于2014年3月,主营社区和居家养老服务,依托互联网工具和全新的消费智慧养老模式,深度服务于社区市场。围绕老人多元化需求,通过互联网和线下服务深入社区,提供餐饮服务、日间照料、居家服务,康复理疗、旅居养老、旅游养老、社区老年大学、适老化工程改造等服务,互联网科技+养老服务的服务模式,为创新养老商业模式,提供全方位、专业的精细化服务提供基础。专业的为老服务流程体系,为老人精神需求和生活需求提供了保障,实现了多种养老形式的无缝对接。
+SN 1003-6296
+CN 13-1018/D
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iIRppFVk27LRfZm4XAerYepJIa7JUbPOHSwFnPIyjJdGWLvGm9-I1lEOlseJUnky92zvQWWMGXz8VCaVpr88hbiwkttz9VPU9JFiIr4FP3LPiMPyHFlXP7C-XmxxttCFuwRkWWy4UUxmiAkKU5EIK9Jky5CTxj3ToFjhmsAdulcxLNuix4hxvJS&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 张伟涛
+T1 广东中山：让特殊困难老年人生活得安心舒心
+JF 中国社会报
+OP 001
+FD 2023-02-07
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2023.000298
+DO 10.28698/n.cnki.nshhu.2023.000298
+
+RT Newspaper Article
+SR 1
+T1 河西各部门不打年盹接续奋斗
+JF 天津日报
+OP 011
+FD 2023-02-02
+PB 天津日报
+LA 中文;
+CN 12-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28789/n.cnki.ntjrb.2023.000559
+DO 10.28789/n.cnki.ntjrb.2023.000559
+
+RT Newspaper Article
+SR 1
+A1 高桢;晓波;李后祥
+AD 合肥通客户端;合报;
+T1 适老化改造让老人安心居家养老
+JF 合肥晚报
+OP A07
+FD 2023-02-01
+PB 合肥晚报
+LA 中文;
+CN 34-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28337/n.cnki.nhfwb.2023.000164
+DO 10.28337/n.cnki.nhfwb.2023.000164
+
+RT Newspaper Article
+SR 1
+A1 赵博宇
+AD 北京商报;
+T1 适老化改造还有多少可能
+JF 北京商报
+OP 003
+FD 2023-01-18
+PB 北京商报
+LA 中文;
+CN 11-0104
+DS CNKI
+LK https://link.cnki.net/doi/10.28036/n.cnki.nbjxd.2023.000189
+DO 10.28036/n.cnki.nbjxd.2023.000189
+
+RT Newspaper Article
+SR 1
+A1 单颖文
+T1 民生保障温暖人心群策群力突破创新
+JF 文汇报
+OP 003
+FD 2023-01-13
+PB 文汇报
+LA 中文;
+CN 31-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28814/n.cnki.nwehu.2023.000186
+DO 10.28814/n.cnki.nwehu.2023.000186
+
+RT Newspaper Article
+SR 1
+A1 元萌
+T1 适老化改造破局养老难题
+JF 台州日报
+OP 009
+FD 2023-01-13
+PB 台州日报
+LA 中文;
+CN 33-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28812/n.cnki.ntzrb.2023.000200
+DO 10.28812/n.cnki.ntzrb.2023.000200
+
+RT Newspaper Article
+SR 1
+A1 元萌
+T1 老年“幸福家”，我们来改造
+JF 台州日报
+OP 009
+FD 2023-01-13
+PB 台州日报
+LA 中文;
+CN 33-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28812/n.cnki.ntzrb.2023.000202
+DO 10.28812/n.cnki.ntzrb.2023.000202
+
+RT Newspaper Article
+SR 1
+A1 刘晓宇
+T1 养老更贴心生活有盼头
+JF 人民日报
+OP 004
+FD 2023-01-05
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2023.000138
+DO 10.28655/n.cnki.nrmrb.2023.000138
+
+RT Newspaper Article
+SR 1
+A1 任海怡;王雅雯;刘畅
+AD 合肥通客户端;合报;
+T1 加速老年助餐服务建设改造破解物业专项维修资金使用难题
+JF 合肥晚报
+OP A04
+FD 2023-01-03
+PB 合肥晚报
+LA 中文;
+CN 34-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28337/n.cnki.nhfwb.2023.000041
+DO 10.28337/n.cnki.nhfwb.2023.000041
+
+RT Newspaper Article
+SR 1
+A1 刘佳旎
+AD 青岛日报;观海新闻;
+T1 深化爱老助老五项行动全面提升老年人幸福感
+JF 青岛日报
+OP 006
+FD 2022-12-28
+PB 青岛日报
+LA 中文;
+CN 37-0029
+DS CNKI
+LK https://link.cnki.net/doi/10.28617/n.cnki.nqdrb.2022.005431
+DO 10.28617/n.cnki.nqdrb.2022.005431
+
+RT Newspaper Article
+SR 1
+T1 “微改造”促进“精提升”“小变化”筑就“大幸福”
+JF 吉林日报
+OP 005
+FD 2022-12-26
+PB 吉林日报
+LA 中文;
+CN 22-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28447/n.cnki.njlrb.2022.004933
+DO 10.28447/n.cnki.njlrb.2022.004933
+
+RT Newspaper Article
+SR 1
+A1 蔡烨
+AD 政协;
+T1 适老化改造亟需多点发力
+JF 湘声报
+OP 005
+FD 2022-12-17
+PB 湘声报
+LA 中文;
+CN 43-0018
+DS CNKI
+LK https://link.cnki.net/doi/10.28901/n.cnki.nxsbz.2022.000940
+DO 10.28901/n.cnki.nxsbz.2022.000940
+
+RT Newspaper Article
+SR 1
+A1 张涵博
+T1 适老化改造托起“老有颐养”的幸福晚年
+JF 各界导报
+OP 001
+FD 2022-12-13
+PB 各界导报
+LA 中文;
+CN 61-0016
+DS CNKI
+LK https://link.cnki.net/doi/10.28265/n.cnki.ngjdb.2022.001640
+DO 10.28265/n.cnki.ngjdb.2022.001640
+
+RT Newspaper Article
+SR 1
+A1 韩昊霖;张舒逸
+T1 江苏省常州经开区持续完善配套服务“一老一小”幸福再升级
+JF 中国社会报
+OP 003
+FD 2022-12-12
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.003641
+DO 10.28698/n.cnki.nshhu.2022.003641
+
+RT Newspaper Article
+SR 1
+A1 王玮;王一婷
+T1 市南区：用心用情做好“一老一小”大文章
+JF 青岛日报
+OP 007
+FD 2022-12-10
+PB 青岛日报
+LA 中文;
+CN 37-0029
+DS CNKI
+LK https://link.cnki.net/doi/10.28617/n.cnki.nqdrb.2022.005275
+DO 10.28617/n.cnki.nqdrb.2022.005275
+
+RT Newspaper Article
+SR 1
+A1 朱雪娇
+T1 适老化改造再加把劲儿
+JF 西安日报
+OP 007
+FD 2022-12-08
+PB 西安日报
+LA 中文;
+CN 61-0058
+DS CNKI
+LK https://link.cnki.net/doi/10.28843/n.cnki.nxarb.2022.003490
+DO 10.28843/n.cnki.nxarb.2022.003490
+
+RT Newspaper Article
+SR 1
+T1 积极推进社会适老化改造持续提升人民生活水平
+JF 各界导报
+OP 004
+FD 2022-12-07
+PB 各界导报
+LA 中文;
+CN 61-0016
+DS CNKI
+LK https://link.cnki.net/doi/10.28265/n.cnki.ngjdb.2022.001599
+DO 10.28265/n.cnki.ngjdb.2022.001599
+
+RT Newspaper Article
+SR 1
+A1 黄晗;贺威
+AD 湖南日报;
+T1 关爱“一老一小”和特殊群体织密织牢民生保障网
+JF 湖南日报
+OP 003
+FD 2022-12-06
+PB 湖南日报
+LA 中文;
+CN 43-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28360/n.cnki.nhnbr.2022.007243
+DO 10.28360/n.cnki.nhnbr.2022.007243
+
+RT Journal Article
+SR 1
+A1 秋慈
+T1 适老化改造改出“暖心窝
+JF 科学之友
+YR 2022
+IS 12
+vo 
+OP 54-57
+AB <正>家家有老人,人人都会老。第七次全国人口普查数据显示,我国65岁及以上人口达1.9亿人。我国已经进入老龄化社会,如何让老年人在家中安全养老,日益成为社会关注的话题。随着老人身体机能的退化,熟悉的环境也会出现这样那样的不便—家中没有呼叫、报警设施,卫生间缺少扶手、光线昏暗,老旧楼房没电梯……这些都可能给老人带来不便与安全隐患。基于这些问题,适老化改造应运而生。
+SN 1000-8136
+CN 14-1032/N
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iL3GLsLYC4NxFXoOAaHNXfsR46sUUturZN4CfK_K8S_FGMCH-9igZnDo1Sia1eWOU2xQqiHOAmiYFxw4MMOlBIInukWzAFIWEp4MVIu45v1ephBm4fvkroSFoMNduqcf6x__jpWupSvcL7zE2aZupxznAkb2Lr2s2BYiwxYjWn-7h0rMSC0sgSO&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 蒋天羚
+T1 智慧养老，何以见“智”
+JF 团结报
+OP 006
+FD 2022-11-29
+PB 团结报
+LA 中文;
+CN 11-0051
+DS CNKI
+LK https://link.cnki.net/doi/10.28784/n.cnki.ntjbz.2022.002036
+DO 10.28784/n.cnki.ntjbz.2022.002036
+
+RT Newspaper Article
+SR 1
+A1 孙金诚
+T1 改造只是起步更多适老化堵点待打通
+JF 人民政协报
+OP 008
+FD 2022-11-25
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2022.008374
+DO 10.28660/n.cnki.nrmzx.2022.008374
+
+RT Newspaper Article
+SR 1
+A1 张伟涛;张雪阳
+T1 深圳“家门口”服务提升老年人幸福指数
+JF 中国社会报
+OP 001
+FD 2022-11-22
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.003782
+DO 10.28698/n.cnki.nshhu.2022.003782
+
+RT Newspaper Article
+SR 1
+A1 张伟涛;李国全
+T1 “安居计划”让困难群众幸福可感
+JF 中国社会报
+OP 004
+FD 2022-11-16
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.003211
+DO 10.28698/n.cnki.nshhu.2022.003211
+
+RT Newspaper Article
+SR 1
+A1 单颖文;刘佳媛
+T1 康养资源“一键”接驳，“原居安老”越来越踏实
+JF 文汇报
+OP 001
+FD 2022-11-14
+PB 文汇报
+LA 中文;
+CN 31-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28814/n.cnki.nwehu.2022.003914
+DO 10.28814/n.cnki.nwehu.2022.003914
+
+RT Newspaper Article
+SR 1
+A1 吕娅莉
+T1 让群众暖在心头
+JF 平凉日报
+OP 001
+FD 2022-11-13
+PB 平凉日报
+LA 中文;
+CN 62-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28613/n.cnki.nplrb.2022.001694
+DO 10.28613/n.cnki.nplrb.2022.001694
+
+RT Newspaper Article
+SR 1
+A1 刘聪;郭子萱
+T1 智慧养老托起稳稳的幸福
+JF 山西日报
+OP 011
+FD 2022-11-02
+PB 山西日报
+LA 中文;
+CN 14-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28713/n.cnki.nshxr.2022.005287
+DO 10.28713/n.cnki.nshxr.2022.005287
+
+RT Newspaper Article
+SR 1
+A1 蔡颖辉
+T1 居家养老更安心舒心
+JF 江西日报
+OP 013
+FD 2022-10-28
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2022.005192
+DO 10.28490/n.cnki.njxrb.2022.005192
+
+RT Newspaper Article
+SR 1
+A1 孙金诚
+T1 让养老变“享老”
+JF 人民政协报
+OP 012
+FD 2022-10-26
+PB 人民政协报
+LA 中文;
+CN 11-0033
+DS CNKI
+LK https://link.cnki.net/doi/10.28660/n.cnki.nrmzx.2022.007411
+DO 10.28660/n.cnki.nrmzx.2022.007411
+
+RT Journal Article
+SR 1
+AD 南宁市民政局;
+T1 南宁市民政局关于开展南宁市特殊困难老年人家庭居家适老化改造项目的通知
+JF 南宁政报
+YR 2022
+IS 20
+vo 
+OP 13-16
+AB <正>南民政规〔2022〕3号各县(市、区)人民政府,各开发区管委会,市发展改革委、市财政局、市住建局、市卫健委、市残联:为积极应对人口老龄化,帮助困难老年人家庭改善居住条件和生活质量,根据民政部等9部委联合印发《关于加快实施老年人居家适老化改造工程的指导意见》(民发〔2020〕86号)和南宁市人民政府办公室《关于分解2022年市本级为民办实事工程目标任务的通知》(南府办〔2022〕15号)要求,决定在全市开展特殊困难老年人家庭居家适老化改造工作。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iLJrvR8EFCFeTF45CgrK4cZvh9uicCaVbFrG7UAOfQJkhScXmvIde1wXH4Uy5_j0euAwZr5rJCRx1wDljyrfb5pfEpKds3D3qiY_CCJ97kfKhNAn0a_WkMXVI1SntPEaXYwI3tcIU-yO_jzbi6P6aJ2-i-tnO_GSdqo2isb0vvqNort575VbON5&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 田先进;叶传增;刘以晴
+T1 优化养老照护专业服务入户
+JF 人民日报
+OP 013
+FD 2022-10-21
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2022.011450
+DO 10.28655/n.cnki.nrmrb.2022.011450
+
+RT Newspaper Article
+SR 1
+A1 杨冉冉
+T1 “适老化”撬动大市场
+JF 工人日报
+OP 007
+FD 2022-10-11
+PB 工人日报
+LA 中文;
+CN 11-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28277/n.cnki.ngrrb.2022.004870
+DO 10.28277/n.cnki.ngrrb.2022.004870
+
+RT Newspaper Article
+SR 1
+A1 民小爱;陈钢;姜涛
+T1 4426户家庭已实施适老化改造
+JF 扬州日报
+OP 002
+FD 2022-10-11
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2022.002495
+DO 10.38283/n.cnki.nyzbr.2022.002495
+
+RT Newspaper Article
+SR 1
+A1 庄瑞玉
+AD 深圳特区报;
+T1 深圳：越来越多福利惠及长者人群
+JF 深圳特区报
+OP A01
+FD 2022-10-05
+PB 深圳特区报
+LA 中文;
+CN 44-0027
+DS CNKI
+LK https://link.cnki.net/doi/10.28776/n.cnki.nsztq.2022.004560
+DO 10.28776/n.cnki.nsztq.2022.004560
+
+RT Newspaper Article
+SR 1
+A1 汪洁琼
+T1 守护最美“夕阳红”
+JF 十堰日报
+OP 001
+FD 2022-09-30
+PB 十堰日报
+LA 中文;
+CN 42-0066
+DS CNKI
+LK https://link.cnki.net/doi/10.28767/n.cnki.nsybr.2022.001775
+DO 10.28767/n.cnki.nsybr.2022.001775
+
+RT Newspaper Article
+SR 1
+A1 张隽
+T1 邯郸社区日间照料站全覆盖
+JF 河北经济日报
+OP 007
+FD 2022-09-27
+PB 河北经济日报
+LA 中文;
+CN 13-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.28318/n.cnki.nhbjj.2022.002362
+DO 10.28318/n.cnki.nhbjj.2022.002362
+
+RT Newspaper Article
+SR 1
+A1 蒲晓磊
+T1 加强养老服务法治体系建设
+JF 法治日报
+OP 007
+FD 2022-09-20
+PB 法治日报
+LA 中文;
+CN 11-0313
+DS CNKI
+LK https://link.cnki.net/doi/10.28241/n.cnki.nfzrb.2022.005474
+DO 10.28241/n.cnki.nfzrb.2022.005474
+
+RT Newspaper Article
+SR 1
+A1 莫比林
+T1 以适老化改造守护最美“夕阳红”
+JF 西江日报
+OP 002
+FD 2022-09-16
+PB 西江日报
+LA 中文;
+CN 44-0040
+DS CNKI
+LK https://link.cnki.net/doi/10.28877/n.cnki.nxjbr.2022.002000
+DO 10.28877/n.cnki.nxjbr.2022.002000
+
+RT Newspaper Article
+SR 1
+A1 柯学
+T1 应对人口老龄化托起幸福“夕阳红”
+JF 中国社会报
+OP 001
+FD 2022-09-02
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.002509
+DO 10.28698/n.cnki.nshhu.2022.002509
+
+RT Newspaper Article
+SR 1
+A1 刘昒;刘冕
+T1 “微”改造让老年人生活有品质
+JF 南昌日报
+OP 005
+FD 2022-09-01
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2022.002007
+DO 10.28591/n.cnki.nncrb.2022.002007
+
+RT Newspaper Article
+SR 1
+A1 赵希翔
+T1 智能相伴，让老年生活更体面
+JF 淄博日报
+OP 003
+FD 2022-08-31
+PB 淄博日报
+LA 中文;
+CN 37-0036
+DS CNKI
+LK https://link.cnki.net/doi/10.38290/n.cnki.nzbrb.2022.001907
+DO 10.38290/n.cnki.nzbrb.2022.001907
+
+RT Newspaper Article
+SR 1
+A1 柳旭
+T1 居家养老中的住、食、护难题这样解
+JF 中国社会报
+OP 001
+FD 2022-08-26
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.002409
+DO 10.28698/n.cnki.nshhu.2022.002409
+
+RT Newspaper Article
+SR 1
+A1 陈璋;邓扶摇
+T1 十措施提升城市居家社区养老服务
+JF 江西日报
+OP 004
+FD 2022-08-13
+PB 江西日报
+LA 中文;
+CN 36-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28490/n.cnki.njxrb.2022.003845
+DO 10.28490/n.cnki.njxrb.2022.003845
+
+RT Newspaper Article
+SR 1
+A1 张嫚芮
+T1 适老化改造暖到心坎里
+JF 天津日报
+OP 008
+FD 2022-08-04
+PB 天津日报
+LA 中文;
+CN 12-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28789/n.cnki.ntjrb.2022.003396
+DO 10.28789/n.cnki.ntjrb.2022.003396
+
+RT Newspaper Article
+SR 1
+A1 苑立立
+AD 河北日报;
+T1 辛集：守护“一老一小”解决群众急难愁盼
+JF 河北日报
+OP 006
+FD 2022-07-14
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2022.004751
+DO 10.28326/n.cnki.nhbrb.2022.004751
+
+RT Newspaper Article
+SR 1
+A1 王美华
+T1 怎样改造老人的家才能适合老人家？
+JF 人民日报海外版
+OP 009
+FD 2022-07-08
+PB 人民日报海外版
+LA 中文;
+CN 11-0066
+DS CNKI
+LK https://link.cnki.net/doi/10.28656/n.cnki.nrmrh.2022.002059
+DO 10.28656/n.cnki.nrmrh.2022.002059
+
+RT Newspaper Article
+SR 1
+A1 沈雪梅;龚秋瑾;范译
+T1 让老人享受更高质量养老服务
+JF 南通日报
+OP A04
+FD 2022-07-04
+PB 南通日报
+LA 中文;
+CN 32-0025
+DS CNKI
+LK https://link.cnki.net/doi/10.28606/n.cnki.nntrb.2022.002110
+DO 10.28606/n.cnki.nntrb.2022.002110
+
+RT Newspaper Article
+SR 1
+A1 王冰洁
+AD 青岛日报;观海新闻;
+T1 “物业+养老”，打造家门口的“养老院”
+JF 青岛日报
+OP 002
+FD 2022-07-04
+PB 青岛日报
+LA 中文;
+CN 37-0029
+DS CNKI
+LK https://link.cnki.net/doi/10.28617/n.cnki.nqdrb.2022.004638
+DO 10.28617/n.cnki.nqdrb.2022.004638
+
+RT Newspaper Article
+SR 1
+A1 周燕珉
+AD 清华大学建筑学院;
+T1 居住环境怎样改造更适老
+JF 健康报
+OP 008
+FD 2022-06-20
+PB 健康报
+LA 中文;
+CN 11-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28415/n.cnki.njika.2022.002195
+DO 10.28415/n.cnki.njika.2022.002195
+
+RT Journal Article
+SR 1
+T1 呼和浩特市人民政府办公室关于印发呼和浩特市老年人家庭适老化改造实施办法的通知
+JF 呼和浩特市人民政府公报
+YR 2022
+IS 03
+vo 
+OP 3-16
+AB <正>呼政发〔2022〕21号2022年5月7日各旗、县、区人民政府,经济技术开发区、和林格尔新区管委会,市各委、办、局,各企业、事业单位:经市人民政府同意,现将《呼和浩特市老年人家庭适老化改造实施办法》印发给你们,请认真贯彻落实。呼和浩特市老年人家庭适老化改造实施办法
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iII6dMcmOpcz4Cwu44OBZ0W9dLi8gscTRblw3BhwViAdcYRV43_3Gnk4AIyuXuJPliKSbEl-9zCOslbj3y85-uWFiQMvia0U5ETSJtyT7gmZqX9LS3Fzl-mJmxeFEmgp6jIfmgsU0HToouHINcMQbWqbelEtZ9fy6y5TxWEWrgs1cS2jciA2wPg&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 孔海丽
+T1 鄂俊宇：迎接康养爆发期
+JF 21世纪经济报道
+OP 012
+FD 2022-06-09
+PB 21世纪经济报道
+LA 中文;
+CN 44-0073
+DS CNKI
+LK https://link.cnki.net/doi/10.28723/n.cnki.nsjbd.2022.002078
+DO 10.28723/n.cnki.nsjbd.2022.002078
+
+RT Newspaper Article
+SR 1
+A1 李德鹏
+T1 “私人定制”托起长者“稳稳的幸福”
+JF 汕头日报
+OP 008
+FD 2022-06-07
+PB 汕头日报
+LA 中文;
+CN 44-0060
+DS CNKI
+LK https://link.cnki.net/doi/10.28744/n.cnki.nstrb.2022.002081
+DO 10.28744/n.cnki.nstrb.2022.002081
+
+RT Newspaper Article
+SR 1
+A1 张旭
+T1 开启奋斗新征程一心为民谋幸福
+JF 淮北日报
+OP G07
+FD 2022-05-28
+PB 淮北日报
+LA 中文;
+CN 34-0009
+DS CNKI
+LK https://link.cnki.net/doi/10.28325/n.cnki.nhbra.2022.002429
+DO 10.28325/n.cnki.nhbra.2022.002429
+
+RT Newspaper Article
+SR 1
+T1 让百姓充分了解党和政府的惠民政策
+JF 天津日报
+OP 010
+FD 2022-05-18
+PB 天津日报
+LA 中文;
+CN 12-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28789/n.cnki.ntjrb.2022.000816
+DO 10.28789/n.cnki.ntjrb.2022.000816
+
+RT Newspaper Article
+SR 1
+AD 科大讯飞;
+T1 科大讯飞:破解居家养老难题
+JF 通信产业报
+OP 024
+FD 2022-05-16
+PB 通信产业报
+LA 中文;
+CN 11-0006
+DS CNKI
+LK https://link.cnki.net/doi/10.28806/n.cnki.ntxcy.2022.000139
+DO 10.28806/n.cnki.ntxcy.2022.000139
+
+RT Newspaper Article
+SR 1
+T1 焦作市2022年民生实事项目
+JF 焦作日报
+OP A05
+FD 2022-04-29
+PB 焦作日报
+LA 中文;
+CN 41-0007
+DS CNKI
+LK https://link.cnki.net/doi/10.28497/n.cnki.njzrb.2022.001054
+DO 10.28497/n.cnki.njzrb.2022.001054
+
+RT Newspaper Article
+SR 1
+A1 张婷
+T1 让老年人生活有品质更幸福
+JF 中国社会报
+OP 004
+FD 2022-04-28
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.001082
+DO 10.28698/n.cnki.nshhu.2022.001082
+
+RT Newspaper Article
+SR 1
+A1 廖晨霞
+T1 新八大里新目标：三年实现两个“翻一番”
+JF 天津日报
+OP 005
+FD 2022-04-21
+PB 天津日报
+LA 中文;
+CN 12-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28789/n.cnki.ntjrb.2022.001771
+DO 10.28789/n.cnki.ntjrb.2022.001771
+
+RT Newspaper Article
+SR 1
+A1 梁淑芳
+T1 我市家庭养老床位推行“三入户”服务
+JF 乌鲁木齐晚报(汉)
+OP A04
+FD 2022-04-19
+PB 乌鲁木齐晚报(汉)
+LA 中文;
+CN 65-0013
+DS CNKI
+LK https://link.cnki.net/doi/10.28830/n.cnki.nwlwb.2022.001721
+DO 10.28830/n.cnki.nwlwb.2022.001721
+
+RT Newspaper Article
+SR 1
+A1 张玉香;王琛汐
+T1 多措并举托起最美“夕阳红”
+JF 华兴时报
+OP 004
+FD 2022-04-08
+PB 华兴时报
+LA 中文;
+CN 64-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28386/n.cnki.nhxbs.2022.000681
+DO 10.28386/n.cnki.nhxbs.2022.000681
+
+RT Newspaper Article
+SR 1
+A1 吴潇远
+T1 丰富社区服务功能打造15分钟“养老服务圈”
+JF 南昌日报
+OP 006
+FD 2022-04-01
+PB 南昌日报
+LA 中文;
+CN 36-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28591/n.cnki.nncrb.2022.000787
+DO 10.28591/n.cnki.nncrb.2022.000787
+
+RT Newspaper Article
+SR 1
+A1 孟佩佩
+AD 中青报;中青网;
+T1 越来越多的年轻人关注养老
+JF 中国青年报
+OP 007
+FD 2022-04-01
+PB 中国青年报
+LA 中文;
+CN 11-0061
+DS CNKI
+LK https://link.cnki.net/doi/10.38302/n.cnki.nzgqn.2022.001195
+DO 10.38302/n.cnki.nzgqn.2022.001195
+
+RT Newspaper Article
+SR 1
+A1 亢舒
+T1 住宅适老化改造应早布局
+JF 经济日报
+OP 006
+FD 2022-03-30
+PB 经济日报
+LA 中文;
+CN 11-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28425/n.cnki.njjrb.2022.001912
+DO 10.28425/n.cnki.njjrb.2022.001912
+
+RT Newspaper Article
+SR 1
+A1 袁弘
+T1 到2025年成都将新增1万张普惠养老床位
+JF 成都日报
+OP 002
+FD 2022-03-11
+PB 成都日报
+LA 中文;
+CN 51-0004
+DS CNKI
+LK https://link.cnki.net/doi/10.28063/n.cnki.ncdrb.2022.000924
+DO 10.28063/n.cnki.ncdrb.2022.000924
+
+RT Newspaper Article
+SR 1
+A1 高建华
+T1 让老年人安享幸福晚年
+JF 山西日报
+OP 009
+FD 2022-03-10
+PB 山西日报
+LA 中文;
+CN 14-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28713/n.cnki.nshxr.2022.001178
+DO 10.28713/n.cnki.nshxr.2022.001178
+
+RT Newspaper Article
+SR 1
+A1 石伟琴;柯丽娟;方海涛;吴颖瑜
+T1 设置“三厅九室”老人生活更多彩
+JF 泉州晚报
+OP 007
+FD 2022-03-10
+PB 泉州晚报
+LA 中文;
+CN 35-0014
+DS CNKI
+LK https://link.cnki.net/doi/10.28640/n.cnki.nqzwb.2022.000619
+DO 10.28640/n.cnki.nqzwb.2022.000619
+
+RT Newspaper Article
+SR 1
+A1 陈致宏
+T1 六大行动让老年人生活得更幸福
+JF 天津日报
+OP 011
+FD 2022-03-10
+PB 天津日报
+LA 中文;
+CN 12-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28789/n.cnki.ntjrb.2022.001251
+DO 10.28789/n.cnki.ntjrb.2022.001251
+
+RT Newspaper Article
+SR 1
+A1 何莹
+T1 为老年人托起稳稳的幸福
+JF 中国老年报
+OP 002
+FD 2022-03-09
+PB 中国老年报
+LA 中文;
+CN 11-0031
+DS CNKI
+LK https://link.cnki.net/doi/10.28108/n.cnki.nclnb.2022.000153
+DO 10.28108/n.cnki.nclnb.2022.000153
+
+RT Newspaper Article
+SR 1
+A1 徐恒;齐旭;王伟;张心怡
+T1 全国两会代表委员热议新一代信息技术
+JF 中国电子报
+OP 002
+FD 2022-03-04
+PB 中国电子报
+LA 中文;
+CN 11-0005
+DS CNKI
+LK https://link.cnki.net/doi/10.28065/n.cnki.ncdzb.2022.000227
+DO 10.28065/n.cnki.ncdzb.2022.000227
+
+RT Newspaper Article
+SR 1
+A1 黄瑶
+T1 养老“大礼包”托起老年人稳稳的幸福
+JF 中国社会报
+OP 004
+FD 2022-02-24
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2022.000382
+DO 10.28698/n.cnki.nshhu.2022.000382
+
+RT Newspaper Article
+SR 1
+A1 叶菁
+T1 这个冬天有点暖中国电信适老化精准服务又“上新”
+JF 通信信息报
+OP 008
+FD 2022-02-16
+PB 通信信息报
+LA 中文;
+CN 35-0012
+DS CNKI
+LK https://link.cnki.net/doi/10.28808/n.cnki.ntxxx.2022.000046
+DO 10.28808/n.cnki.ntxxx.2022.000046
+
+RT Newspaper Article
+SR 1
+A1 丁艳彬
+T1 托起老年人“稳稳的幸福”
+JF 中国建设报
+OP 001
+FD 2022-02-15
+PB 中国建设报
+LA 中文;
+CN 11-0038
+DS CNKI
+LK https://link.cnki.net/doi/10.38299/n.cnki.nzgjs.2022.000248
+DO 10.38299/n.cnki.nzgjs.2022.000248
+
+RT Newspaper Article
+SR 1
+A1 雨晨
+T1 我市统筹推进养老服务改革
+JF 乌海日报
+OP 002
+FD 2022-01-25
+PB 乌海日报
+LA 中文;
+CN 15-0024
+DS CNKI
+LK https://link.cnki.net/doi/10.28819/n.cnki.nwhbr.2022.000211
+DO 10.28819/n.cnki.nwhbr.2022.000211
+
+RT Newspaper Article
+SR 1
+A1 王鹏飞;孟双奎
+AD 中房报;
+T1 沈阳:一个养老服务中心里的春意
+JF 中国房地产报
+OP 003
+FD 2022-01-24
+PB 中国房地产报
+LA 中文;
+CN 11-0152
+DS CNKI
+LK https://link.cnki.net/doi/10.28066/n.cnki.ncfdc.2022.000059
+DO 10.28066/n.cnki.ncfdc.2022.000059
+
+RT Newspaper Article
+SR 1
+A1 杨颖慧;范祥址
+T1 嘉兴推动实现老年人在家门口享受高质量养老服务
+JF 嘉兴日报
+OP 002
+FD 2022-01-22
+PB 嘉兴日报
+LA 中文;
+CN 33-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28489/n.cnki.njxra.2022.000307
+DO 10.28489/n.cnki.njxra.2022.000307
+
+RT Newspaper Article
+SR 1
+A1 李静
+T1 “老有所养”变“品质养老”硬核托起幸福“夕阳红”
+JF 南宁日报
+OP 002
+FD 2022-01-20
+PB 南宁日报
+LA 中文;
+CN 45-0070
+DS CNKI
+LK https://link.cnki.net/doi/10.28604/n.cnki.nnnrb.2022.000168
+DO 10.28604/n.cnki.nnnrb.2022.000168
+
+RT Journal Article
+SR 1
+AD 舟山市人民政府办公室;
+T1 舟山市人民政府办公室关于贯彻舟山市居家养老服务促进条例的实施意见
+JF 舟山市人民政府公报
+YR 2021
+IS 12
+vo 
+OP 23-31
+AB <正>舟政办发〔2021〕140号各县（区）人民政府，各功能区管委会，市政府直属各单位：根据舟山市第七届人民代表大会常务委员会公告（第二十号）要求，《舟山市居家养老服务促进条例》（以下简称《条例》）自2022年1月1日起施行。为更好地贯彻落实《条例》，全面提升我市居家养老服务水平，经市政府同意，现提出如下实施意见。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iLp-Z-OSjSPQPWbAP7ZSl6PX76FOSQbgVSOBIfV7quotmE3r4Dkd2CAlhHrbdfBmSdmChbDtac1Y14vTYTk6O0Lm7gJLL4yNeXoyub4v5iVuKfA6HtTrhaadrW0DYz4vXpqKyJfH79cYDDRpsS8dtw9lVInZd3XoWOOaJN14nz_IaO4BWEbMib-&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 缪梦羽
+T1 今年建成35个街道级社区养老综合体
+JF 成都日报
+OP 003
+FD 2022-01-14
+PB 成都日报
+LA 中文;
+CN 51-0004
+DS CNKI
+LK https://link.cnki.net/doi/10.28063/n.cnki.ncdrb.2022.000161
+DO 10.28063/n.cnki.ncdrb.2022.000161
+
+RT Newspaper Article
+SR 1
+A1 龚青;王越
+T1 长者饭堂让老人放心更暖心
+JF 中国质量报
+OP 002
+FD 2022-01-13
+PB 中国质量报
+LA 中文;
+CN 11-0167
+DS CNKI
+LK https://link.cnki.net/doi/10.28164/n.cnki.nczlb.2022.000125
+DO 10.28164/n.cnki.nczlb.2022.000125
+
+RT Newspaper Article
+SR 1
+A1 乐天茵子;卫晓敏;庄文倩;蒋瑜香;刘梅梅
+AD 合肥报业;
+T1 “一老一小”最关情
+JF 合肥晚报
+OP A03
+FD 2022-01-12
+PB 合肥晚报
+LA 中文;
+CN 34-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28337/n.cnki.nhfwb.2022.000058
+DO 10.28337/n.cnki.nhfwb.2022.000058
+
+RT Newspaper Article
+SR 1
+A1 杨昱;卜岚
+T1 居家养老服务的新探索
+JF 中国老年报
+OP 003
+FD 2021-12-30
+PB 中国老年报
+LA 中文;
+CN 11-0031
+DS CNKI
+LK https://link.cnki.net/doi/10.28108/n.cnki.nclnb.2021.000818
+DO 10.28108/n.cnki.nclnb.2021.000818
+
+RT Newspaper Article
+SR 1
+A1 任欢;范天培
+T1 为老年人生活增添幸福底色
+JF 光明日报
+OP 007
+FD 2021-12-10
+PB 光明日报
+LA 中文;
+CN 11-0026
+DS CNKI
+LK https://link.cnki.net/doi/10.28273/n.cnki.ngmrb.2021.006208
+DO 10.28273/n.cnki.ngmrb.2021.006208
+
+RT Newspaper Article
+SR 1
+A1 彭放;张冶秋;尹新发
+T1 盘活养老“一张床”优化养老“一个圈”
+JF 长沙晚报
+OP 007
+FD 2021-11-29
+PB 长沙晚报
+LA 中文;
+CN 43-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28047/n.cnki.ncawb.2021.004562
+DO 10.28047/n.cnki.ncawb.2021.004562
+
+RT Newspaper Article
+SR 1
+A1 刘冰洋
+AD 河北日报;
+T1 完善服务网络，让老年人安享幸福晚年
+JF 河北日报
+OP 008
+FD 2021-11-28
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2021.008857
+DO 10.28326/n.cnki.nhbrb.2021.008857
+
+RT Newspaper Article
+SR 1
+A1 李双双;胡耀元
+T1 春城养老变“享老”
+JF 昆明日报
+OP 007
+FD 2021-11-26
+PB 昆明日报
+LA 中文;
+CN 53-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28508/n.cnki.nkmrb.2021.004155
+DO 10.28508/n.cnki.nkmrb.2021.004155
+
+RT Newspaper Article
+SR 1
+A1 张莎
+T1 居家适老化改造敬老院提档升级困难老人照护兜底
+JF 重庆日报
+OP 007
+FD 2021-11-18
+PB 重庆日报
+LA 中文;
+CN 50-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28120/n.cnki.ncqrb.2021.007382
+DO 10.28120/n.cnki.ncqrb.2021.007382
+
+RT Newspaper Article
+SR 1
+A1 曹春俊;周丹;陈洁文
+T1 119万“银发”共享“好地方”好生活
+JF 扬州日报
+OP 002
+FD 2021-10-28
+PB 扬州日报
+LA 中文;
+CN 32-0023
+DS CNKI
+LK https://link.cnki.net/doi/10.38283/n.cnki.nyzbr.2021.003399
+DO 10.38283/n.cnki.nyzbr.2021.003399
+
+RT Newspaper Article
+SR 1
+A1 王茜
+T1 适老宜居家居家装行业责无旁贷
+JF 中华建筑报
+OP 002
+FD 2021-10-19
+PB 中华建筑报
+LA 中文;
+CN 11-0246
+DS CNKI
+LK https://link.cnki.net/doi/10.38313/n.cnki.nzhjz.2021.000174
+DO 10.38313/n.cnki.nzhjz.2021.000174
+
+RT Newspaper Article
+SR 1
+A1 邱菊
+AD 沈阳日报;沈报;
+T1 沈阳即将启动家庭养老床位建设
+JF 沈阳日报
+OP 003
+FD 2021-10-15
+PB 沈阳日报
+LA 中文;
+CN 21-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28770/n.cnki.nsyrb.2021.002974
+DO 10.28770/n.cnki.nsyrb.2021.002974
+
+RT Newspaper Article
+SR 1
+A1 马雪娇
+AD 兵团日报;
+T1 我言秋日胜春朝
+JF 兵团日报(汉)
+OP 005
+FD 2021-10-14
+PB 兵团日报(汉)
+LA 中文;
+CN 65-0006
+DS CNKI
+LK https://link.cnki.net/doi/10.28038/n.cnki.nbtrb.2021.002530
+DO 10.28038/n.cnki.nbtrb.2021.002530
+
+RT Newspaper Article
+SR 1
+A1 方敏
+T1 关爱细之又细老有所养所依
+JF 人民日报
+OP 012
+FD 2021-10-14
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2021.010791
+DO 10.28655/n.cnki.nrmrb.2021.010791
+
+RT Newspaper Article
+SR 1
+A1 杨小玲
+T1 适老化改造让“养老”变“享老”
+JF 陕西日报
+OP 012
+FD 2021-10-14
+PB 陕西日报
+LA 中文;
+CN 61-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28762/n.cnki.nsxrb.2021.005821
+DO 10.28762/n.cnki.nsxrb.2021.005821
+
+RT Newspaper Article
+SR 1
+A1 杨颖慧;范祥址
+T1 嘉兴奋力绘就“颐养在嘉”幸福图景
+JF 嘉兴日报
+OP 001
+FD 2021-10-14
+PB 嘉兴日报
+LA 中文;
+CN 33-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28489/n.cnki.njxra.2021.004589
+DO 10.28489/n.cnki.njxra.2021.004589
+
+RT Newspaper Article
+SR 1
+A1 冯叶
+T1 给老年人一个更安心舒适的家
+JF 湘潭日报
+OP 001
+FD 2021-10-13
+PB 湘潭日报
+LA 中文;
+CN 43-0006
+DS CNKI
+LK https://link.cnki.net/doi/10.28905/n.cnki.nxtrb.2021.002493
+DO 10.28905/n.cnki.nxtrb.2021.002493
+
+RT Newspaper Article
+SR 1
+A1 张俊
+T1 微改造温暖老人心
+JF 中国社会报
+OP 001
+FD 2021-10-12
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2021.003038
+DO 10.28698/n.cnki.nshhu.2021.003038
+
+RT Newspaper Article
+SR 1
+AD 重庆市民政局;
+T1 多元保障探索构建基本养老服务体系
+JF 中国社会报
+OP 002
+FD 2021-09-27
+PB 中国社会报
+LA 中文;
+CN 11-0021
+DS CNKI
+LK https://link.cnki.net/doi/10.28698/n.cnki.nshhu.2021.002932
+DO 10.28698/n.cnki.nshhu.2021.002932
+
+RT Newspaper Article
+SR 1
+A1 王迎超;孟双奎
+AD 中房报;
+T1 “一老一小”理想照进现实:沈阳多渠道破解养老难题
+JF 中国房地产报
+OP 002
+FD 2021-09-20
+PB 中国房地产报
+LA 中文;
+CN 11-0152
+DS CNKI
+LK https://link.cnki.net/doi/10.28066/n.cnki.ncfdc.2021.000695
+DO 10.28066/n.cnki.ncfdc.2021.000695
+
+RT Journal Article
+SR 1
+A1 杨莉
+AD 武汉市社会科学院社会学研究所;
+T1 武汉推动城市适老化改造调查研究
+JF 武汉社会科学
+YR 2021
+IS 02
+OP 85-93
+K1 适老化;宜居社区;改造经验;对策建议
+AB 现阶段老年人口快速增加，老龄化程度日益加深，老年群体养老服务需求不断增长。武汉作为全国首批养老服务业综合改革试点城市，养老服务改革发展成效明显，养老模式探索不断创新，已形成居家、社区、机构“三位一体”的立体式、多层次养老服务网络。本文结合近年来武汉城市适老化改造的具体实践，重点对武汉市养老硬件设施和养老服务展开调研，分析推进城市适老化改造中面临的问题，为深入推进城市适老化改造的持续升级提出对策建议。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iInSQ94HOC5prRKL9zpapcKHvQ4-_uFOzI9iYKbmwqXz1Z12xtt_UKnRQaO5CtsOqhTwZYwp-76BK7l_dp8m1DfpBeusDlMiiAFJWGF9RY1YHYiBKczwn8kinzKDZJUQbYiE1oY-bMIGmK0rF0ySNxQDP6yLTeeJPoqhao9mSnXWg==&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 李光正;姜帆
+AD 湖北日报;
+T1 适老化改造是及时雨
+JF 湖北日报
+OP 001
+FD 2021-09-15
+PB 湖北日报
+LA 中文;
+CN 42-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28310/n.cnki.nhbbr.2021.007802
+DO 10.28310/n.cnki.nhbbr.2021.007802
+
+RT Newspaper Article
+SR 1
+A1 潘洁
+T1 江苏派发“民生大礼包”
+JF 国际金融报
+OP 008
+FD 2021-09-06
+PB 国际金融报
+LA 中文;
+CN 31-0016
+DS CNKI
+LK https://link.cnki.net/doi/10.28403/n.cnki.nifnb.2021.000870
+DO 10.28403/n.cnki.nifnb.2021.000870
+
+RT Newspaper Article
+SR 1
+A1 申少铁;杨彦帆
+T1 居家养老安心温馨
+JF 人民日报
+OP 019
+FD 2021-09-03
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2021.009392
+DO 10.28655/n.cnki.nrmrb.2021.009392
+
+RT Newspaper Article
+SR 1
+A1 冯华
+T1 居家适老化改造，再加把劲儿
+JF 人民日报
+OP 019
+FD 2021-09-03
+PB 人民日报
+LA 中文;
+CN 11-0065
+DS CNKI
+LK https://link.cnki.net/doi/10.28655/n.cnki.nrmrb.2021.009394
+DO 10.28655/n.cnki.nrmrb.2021.009394
+
+RT Newspaper Article
+SR 1
+T1 “我省社区居家养老服务体系建设与城市养老服务高质量发展”对口协商会发言(摘登)
+JF 江西政协报
+OP 003
+FD 2021-09-03
+PB 江西政协报
+LA 中文;
+CN 36-0063
+DS CNKI
+LK https://link.cnki.net/doi/10.28262/n.cnki.nghsb.2021.000336
+DO 10.28262/n.cnki.nghsb.2021.000336
+
+RT Newspaper Article
+SR 1
+A1 尉迟国利;潘文静
+AD 河北日报;
+T1 让老年人安享幸福晚年
+JF 河北日报
+OP 002
+FD 2021-08-31
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2021.006791
+DO 10.28326/n.cnki.nhbrb.2021.006791
+
+RT Newspaper Article
+SR 1
+A1 刘子烨
+T1 助老年人实现老有所养老有所乐
+JF 联合时报
+OP 008
+FD 2021-08-31
+PB 联合时报
+LA 中文;
+CN 31-0019
+DS CNKI
+LK https://link.cnki.net/doi/10.28527/n.cnki.nlhsb.2021.001095
+DO 10.28527/n.cnki.nlhsb.2021.001095
+
+RT Newspaper Article
+SR 1
+A1 计思佳;陈创淼;蔡翔任
+T1 适老化改造解决“老”问题
+JF 海南日报
+OP A14
+FD 2021-08-27
+PB 海南日报
+LA 中文;
+CN 46-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28356/n.cnki.nhlrb.2021.006319
+DO 10.28356/n.cnki.nhlrb.2021.006319
+
+RT Newspaper Article
+SR 1
+A1 潘文静;李建成
+AD 河北日报;
+T1 “让老年人能有一个幸福美满的晚年”
+JF 河北日报
+OP 010
+FD 2021-08-26
+PB 河北日报
+LA 中文;
+CN 13-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28326/n.cnki.nhbrb.2021.006694
+DO 10.28326/n.cnki.nhbrb.2021.006694
+
+RT Newspaper Article
+SR 1
+A1 钱培坚
+T1 在“一碗汤”的距离实现老有所养
+JF 工人日报
+OP 006
+FD 2021-08-23
+PB 工人日报
+LA 中文;
+CN 11-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28277/n.cnki.ngrrb.2021.004025
+DO 10.28277/n.cnki.ngrrb.2021.004025
+
+RT Newspaper Article
+SR 1
+A1 王嘉旖;周辰
+T1 小小卫浴室，如何更好满足老人“心尖尖上所需”
+JF 文汇报
+OP 006
+FD 2021-08-12
+PB 文汇报
+LA 中文;
+CN 31-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28814/n.cnki.nwehu.2021.005555
+DO 10.28814/n.cnki.nwehu.2021.005555
+
+RT Newspaper Article
+SR 1
+A1 王佳;潘迪;梅薇
+T1 让每一位老人都拥有幸福晚年
+JF 宁波日报
+OP 001
+FD 2021-08-04
+PB 宁波日报
+LA 中文;
+CN 33-0003
+DS CNKI
+LK https://link.cnki.net/doi/10.28586/n.cnki.nnbrb.2021.003951
+DO 10.28586/n.cnki.nnbrb.2021.003951
+
+RT Newspaper Article
+SR 1
+A1 夏天
+T1 本市全面推进居家环境适老化改造
+JF 上海法治报
+OP A04
+FD 2021-07-28
+PB 上海法治报
+LA 中文;
+CN 31-0011
+DS CNKI
+LK https://link.cnki.net/doi/10.28696/n.cnki.nshfz.2021.001062
+DO 10.28696/n.cnki.nshfz.2021.001062
+
+RT Newspaper Article
+SR 1
+A1 顾杰
+T1 让老人生活更方便，上海全面推进适老化改造
+JF 解放日报
+OP 005
+FD 2021-07-28
+PB 解放日报
+LA 中文;
+CN 31-0001
+DS CNKI
+LK https://link.cnki.net/doi/10.28410/n.cnki.njfrb.2021.004209
+DO 10.28410/n.cnki.njfrb.2021.004209
+
+RT Newspaper Article
+SR 1
+A1 白瑶
+T1 读书群里献良策委员履职展风采
+JF 各界导报
+OP 001
+FD 2021-07-28
+PB 各界导报
+LA 中文;
+CN 61-0016
+DS CNKI
+LK https://link.cnki.net/doi/10.28265/n.cnki.ngjdb.2021.001318
+DO 10.28265/n.cnki.ngjdb.2021.001318
+
+RT Newspaper Article
+SR 1
+A1 于娜
+T1 “中国式养老”酝酿变局
+JF 华夏时报
+OP 008
+FD 2021-07-19
+PB 华夏时报
+LA 中文;
+CN 11-0071
+DS CNKI
+LK https://link.cnki.net/doi/10.28391/n.cnki.nhxsb.2021.000621
+DO 10.28391/n.cnki.nhxsb.2021.000621
+
+RT Newspaper Article
+SR 1
+A1 李德鹏
+T1 “一户一方案”适老化改造送上门
+JF 汕头日报
+OP 001
+FD 2021-07-11
+PB 汕头日报
+LA 中文;
+CN 44-0060
+DS CNKI
+LK https://link.cnki.net/doi/10.28744/n.cnki.nstrb.2021.001546
+DO 10.28744/n.cnki.nstrb.2021.001546
+
+RT Journal Article
+SR 1
+AD 住房城乡建设部;发展改革委;民政部;卫生健康委;医保局;全国老龄办;
+T1 住房城乡建设部发展改革委民政部卫生健康委医保局全国老龄办关于推动物业服务企业发展居家社区养老服务的意见
+JF 中华人民共和国国务院公报
+YR 2021
+IS 02
+vo 
+OP 83-86
+AB <正>建房〔2020〕92号各省、自治区、直辖市住房和城乡建设厅（委、管委）、发展改革委、民政厅（局）、卫生健康委、医保局、老龄办，新疆生产建设兵团住房和城乡建设局、发展改革委、民政局、卫生健康委、医保局、老龄办：为贯彻落实党中央、国务院关于加快发展养老服务业的一系列决策部署，充分发挥物业服务企业常驻社区、贴近居民、响应快速等优势，推动和支持物业服务企业积极探索“物业服务+养老服务”模式，切实增加居家社区养老服务有效供给，更好满足广大老年人日益多样化多层次的养老服务需求，着力破解高龄、空巢、独居、失能老年人生活照料和长期照护难题，促进家庭幸福、邻里和睦、社区和谐，现就推动物业服务企业发展居家社区养老服务提出以下意见。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iKHbD3sc38ayiG9tr5RtcHA_RHvZKmReC_HVvPhsaNbdTGXgt1lezCajpXmWaQ-jXEnLLGAlNNOX2Wwf5ck8PEJA6xFJ2gRlUwgh2pGcX7Sv7xM1d74H_qPUWEhMvS7Lv0agx8D1mC2v53s22L8aKOFZscfIUuYeW51in70ArQeKY0ed-y9U2SI&uniplatform=NZKPT&language=CHS
+
+RT Newspaper Article
+SR 1
+A1 汪莹
+T1 以标准化提速居家适老化改造
+JF 嘉兴日报
+OP 001
+FD 2020-12-03
+PB 嘉兴日报
+LA 中文;
+CN 33-0010
+DS CNKI
+LK https://link.cnki.net/doi/10.28489/n.cnki.njxra.2020.004561
+DO 10.28489/n.cnki.njxra.2020.004561
+
+RT Newspaper Article
+SR 1
+T1 爱现在的他们就是爱未来的自己
+JF 昆明日报
+OP 004
+FD 2020-10-25
+PB 昆明日报
+LA 中文;
+CN 53-0002
+DS CNKI
+LK https://link.cnki.net/doi/10.28508/n.cnki.nkmrb.2020.002854
+DO 10.28508/n.cnki.nkmrb.2020.002854
+
+RT Journal Article
+SR 1
+AD 郴州市人民政府办公室;
+T1 郴州市人民政府办公室关于印发《郴州市居家和社区养老服务改革试点工作方案》的通知
+JF 郴州政报
+YR 2020
+IS Z1
+OP 51-57
+AB <正>郴政办发〔2019〕32号各县市区人民政府，市政府各工作部门，中省驻郴各单位：《郴州市居家和社区养老服务改革试点工作方案》已经市人民政府同意，现印发给你们，请认真组织实施。2019年12月30日郴州市居家和社区养老服务改革试点工作方案为做好全市居家和社区养老服务改革试点工作，加快完善多层次养老服务体系，根据《民政部财政部关于中央财政支持开展居家和社区养老服务改革试点工作的通知》（民函〔2016〕200号）和《民政部财政部关于确定第四批中央财政支持开展居家和社区养老服务改革试点地区的通知》（民函〔2019〕88号）精神，结合我市实际，制定本实施方案。
+LA 中文;
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iI-ozF3gjtwQvbrycC3a_GUkfD8GCsTdIYRkomM7XzqkUwdpmmYtPFaGp1PWio3vyRCQfT9yrl1Saba3bpQXd9HqgrVCM8cAwkKjJzkxp3PyE4MLXWjVbaxf1RRgHToi8OkEnq_f6EYLH0wzUYpna3luabtZ5iuPQa0oMCWEj8mXxbsbUnXHTpl&uniplatform=NZKPT&language=CHS
+
+RT Other Article
+SR 1
+T1 东北寒地城市住宅存量适老化改造评估体系研究
+A1 张宇
+AD 哈尔滨工业大学
+FD 2017-09-04
+K1 严寒地区;存量住宅;适老化;住宅改造;评估体系
+AB 我国人口老龄化发展十分迅速,态势十分严峻,解决广大老年人的养老服务问题成为保障和改善民生的关键问题。尤其是在东北地区,由于历史问题及经济发展的制约,随着大批产业工人的退休及青年人口的流失加剧,以及每年长达6个月的寒冷气候,都对东北寒地城市养老问题造成极大影响。另一方面,我国目前推行“以居家养老为基础、社区服务为依托、机构照料为补充的社会养老服务体系”。将居家养老作为我国普适化发展的养老居住模式,即普通住居提出了适老化要求。本文综合考虑我国老龄化的发展趋势和现有住居的普遍问题,存量住宅自身具有极大的适老化改造需求,寒地存量住宅自身的特点及存量住宅改造涉及的影响因素较复杂,在实际操作中往往出现考虑较为片面或者由于经费的限制造成改造技术不完善,严重影响改造效果及适老化环境改造的推广,因此本研究针对东北严寒地区存量住宅适老化改造评估进行研究,调查研究将复杂的影响因素并通过量化研究进行归类,通过权重比较确定在设计中影响因素的作用机制及影响效果,以此为依据将为发展居家养老,促进积极老龄化的的设计提供策略优化手段及方法。研究意义主要体现在以下三点：(1)促进严寒地区存量住宅适老化环境优化,对改善严寒地区城市老年人生活质量,促进社会和谐发展,具有重要的社会现实意义。(2)对科学引导城市住居空间的适老化趋势,优化严寒地区城市居家养老住居设计, 具有重要的应用意义。(3)构建东北寒地城市存量住宅适老化改造评价体系,对提升寒地城市住居适老化环境具有重要的理论指导意义。
+DB 科技成果
+
+RT Newspaper Article
+SR 1
+A1 张东林
+T1 安纯人：居家养老要解决住宅适老化
+JF 中国建设报
+OP 005
+FD 2013-03-13
+PB 中国建设报
+LA 中文;
+CN 11-0038
+DS CNKI
+LK https://kns.cnki.net/kcms2/article/abstract?v=HHZEz91P5iI-WcFqPmWTTLMcDungjgiR_WCPELo8ecN7LIlARp3h3MUZC5iEowcAMAFbeYLx_DhaZfGC8m_nZVEv3_GPR4-GzcOMI8IGHgJVVpnTBLsQK_n3_5W9PVo5wMMDO4vZWDyALnnEmgmIJdK0kweQE2Badi-1grc32Sd_NfyerZ2GDw8UAHaxsM7q&uniplatform=NZKPT&language=CHS
+
+ 
