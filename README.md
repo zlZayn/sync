@@ -1,25 +1,30 @@
-# Sync Folder
+# Sync
+> **Personal Cloud Storage & Version Control**  
+> A centralized repository for synchronizing configuration files, important documents, and scripts across multiple devices.
 
-This folder is synchronized with GitHub repository: https://github.com/zlZayn/sync
+## 🎯 Purpose
+- **Cross-Device Sync**: Seamlessly keep files updated between work and personal machines.
+- **Version History**: Track changes in configuration files and critical documents using Git.
+- **Secure Backup**: Maintain a remote backup on GitHub for disaster recovery.
 
-## Purpose
-- Store files that need to be synchronized between devices
-- Version control for important documents
-- Backup of configuration files
+## 🚀 Quick Start
 
-## Usage
+### Pull latest changes (on a new device)
 ```bash
-# Add files to sync
+git pull origin main
+```
+
+### Sync local changes (after editing files)
+```bash
 git add .
-
-# Commit changes
-git commit -m "Your commit message"
-
-# Push to GitHub
+git commit -m "feat: upload files"
 git push origin main
 ```
 
-## Notes
-- Created: 2026-03-05
-- Location: C:\Users\speak\.openclaw\workspace\sync
-- Owner: Zayn
+## ⚠️ Best Practices
+- **Do not store sensitive data**: Avoid committing passwords, API keys, or private credentials. Use `.env` files and add them to `.gitignore`.
+- **Commit often**: Small, frequent commits make it easier to resolve conflicts.
+- **Pull before push**: Always run `git pull` before starting work to minimize merge conflicts.
+
+---
+*Last Updated: 2026-03-05 | Maintainer: Zayn*
