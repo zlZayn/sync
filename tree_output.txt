@@ -1,0 +1,89 @@
+? OS ???? PATH ??
+????? 5E07-F372
+C:\USERS\SPEAK\.OPENCLAW\WORKSPACE
+|   AGENTS.md
+|   BOOTSTRAP.md
+|   check_openclaw_status.md
+|   HEARTBEAT.md
+|   IDENTITY.md
+|   MEMORY.md
+|   SOUL.md
+|   TOOLS.md
+|   USER.md
+|   
++---.openclaw
+|       workspace-state.json
+|       
++---memory
+|       2026-03-04-d-drive-access.md
+|       2026-03-04-desktop-python-creation.md
+|       2026-03-04-exec-sandbox-check.md
+|       2026-03-04-pdf-analysis.md
+|       2026-03-04-powershell-skill.md
+|       2026-03-04-qmd-file-analysis.md
+|       2026-03-04-r-runner-examples.md
+|       2026-03-04-r-runner-fix.md
+|       2026-03-04-screenshot-tool.md
+|       2026-03-04-skill-cleanup-summary.md
+|       2026-03-04-tidyverse-skill.md
+|       2026-03-04.md
+|       2026-03-05-heartbeat-check.md
+|       2026-03-05-screenshot-paths.md
+|       2026-03-05-sync-folder-creation.md
+|       2026-03-05-workspace-tree.md
+|       2026-03-05.md
+|       
++---skills
+|   |   skill-creation-guide.md
+|   |   
+|   +---feishu-send-file
+|   |       SKILL.md
+|   |       
+|   +---file-explorer
+|   |       package.json
+|   |       README.md
+|   |       SKILL.md
+|   |       
+|   +---powershell-helper
+|   |   |   package.json
+|   |   |   README.md
+|   |   |   SKILL.md
+|   |   |   
+|   |   \---examples
+|   |           file-manager.ps1
+|   |           
+|   +---r-runner
+|   |   |   index.js
+|   |   |   package.json
+|   |   |   README.md
+|   |   |   SKILL.md
+|   |   |   
+|   |   \---examples
+|   |           basic_script.R
+|   |           example_data.csv
+|   |           run_basic_script.ps1
+|   |           
+|   +---screenshot-tool
+|   |       package.json
+|   |       README.md
+|   |       screenshot_tool.ps1
+|   |       SKILL.md
+|   |       
+|   \---tidyverse
+|       |   package.json
+|       |   README.md
+|       |   SKILL.md
+|       |   
+|       +---examples
+|       |       advanced_analysis.R
+|       |       basic_usage.R
+|       |       
+|       \---test
+|               test_basic.R
+|               
+\---sync
+        .gitignore
+        README.md
+        tree_output.txt
+        USAGE.md
+        
