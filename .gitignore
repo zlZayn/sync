@@ -1,0 +1,19 @@
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive information
+*.env
+*.secret
+*.key
+*.pem
+
+# Ignore large files
+*.zip
+*.tar
+*.gz
