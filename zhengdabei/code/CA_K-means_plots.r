@@ -263,7 +263,7 @@ plot_elder <- p2 + p4 + plot_layout(ncol = 2, widths = c(3, 2))
 
 # 导出最佳K值图
 ggsave(
-  filename = paste0(output_path, "01_子女最佳K值.png"),
+  filename = paste0(output_path, "01_C_最佳K值.png"),
   plot = p_k_C,
   width = 10,
   height = 5,
@@ -272,7 +272,7 @@ ggsave(
 )
 
 ggsave(
-  filename = paste0(output_path, "02_老人最佳K值.png"),
+  filename = paste0(output_path, "02_E_最佳K值.png"),
   plot = p_k_E,
   width = 10,
   height = 5,
@@ -282,7 +282,7 @@ ggsave(
 
 # 导出聚类组合图
 ggsave(
-  filename = paste0(output_path, "03_子女聚类组合图.png"),
+  filename = paste0(output_path, "03_C_聚类组合图.png"),
   plot = plot_child,
   width = 14,
   height = 7,
@@ -291,7 +291,7 @@ ggsave(
 )
 
 ggsave(
-  filename = paste0(output_path, "04_老人聚类组合图.png"),
+  filename = paste0(output_path, "04_E_聚类组合图.png"),
   plot = plot_elder,
   width = 14,
   height = 7,
@@ -300,8 +300,8 @@ ggsave(
 )
 
 # 导出聚类标签结果
-write_csv(df_C_cluster_tag, paste0(output_path, "子女_K-means聚类标签.csv"))
-write_csv(df_E_cluster_tag, paste0(output_path, "老年人_K-means聚类标签.csv"))
+write_csv(df_C_cluster_tag, paste0(output_path, "C_K-means聚类标签.csv"))
+write_csv(df_E_cluster_tag, paste0(output_path, "E_K-means聚类标签.csv"))
 
 # ==============================================================
 # 五、变量名称映射表（原始变量 → 自定义特征名）
@@ -789,15 +789,15 @@ C_facet_df <- df_C_profile_scaled |>
 # ==============================================================
 write_xlsx_with_auto_width(
   E_facet_df,
-  paste0(output_path, "老年人_各核心维度特征差异.xlsx")
+  paste0(output_path, "E_各核心维度特征差异.xlsx")
 )
 
 write_xlsx_with_auto_width(
   C_facet_df,
-  paste0(output_path, "子女_各核心维度特征差异.xlsx")
+  paste0(output_path, "C_各核心维度特征差异.xlsx")
 )
 
-cat("✅ 两个维度差异表已自动导出至：", output_path, "\n")
+cat("✅ 已导出: ", output_path, "{C,E}_各核心维度特征差异.xlsx\n", sep = "")
 
 # ==============================================================
 # 十一、维度分面差异图绘制
@@ -853,4 +853,9 @@ ggsave(
   dpi = 300
 )
 
-cat("✅ 所有图片已保存至：", output_path, "\n")
+cat(
+  "✅ 已导出: ",
+  output_path,
+  "{01-06}_*.png, {C,E}_K-means聚类标签.csv\n",
+  sep = ""
+)

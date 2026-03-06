@@ -6,7 +6,7 @@ library(openxlsx)
 
 # 1. 设置文件路径
 data_path <- "D:/RDirectory/zhengdabei/data/子女_老年人.RData"
-output_xlsx <- "D:/RDirectory/zhengdabei/output/子女_老年人_统计汇总.xlsx"
+output_xlsx <- "D:/RDirectory/zhengdabei/output/C_E_统计汇总.xlsx"
 
 # 2. 计算字符串宽度：中文×2 + 非中文×1.2
 calc_char_width <- function(str) {
@@ -66,4 +66,4 @@ for (ds in names(data_list)) {
 
 # 6. 保存Excel文件
 saveWorkbook(wb, output_xlsx, overwrite = TRUE)
-cat("\n📁 文件保存至：", output_xlsx, "\n")
+cat("✅ 已导出: ", output_xlsx, "\n", sep = "")

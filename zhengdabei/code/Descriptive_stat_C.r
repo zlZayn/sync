@@ -260,14 +260,32 @@ patch_1_C
 # ======================= 4. 绘图：量表维度均值条形图 =======================
 # 照护价值
 p12 <- df_C_desc %>%
-  summarise(across(照护价值_1:照护价值_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(照护价值 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(照护价值 = factor(照护价值, levels = 照护价值)) %>%
-  ggplot(aes(x = 平均值, y = 照护价值, fill = 照护价值)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    照护价值_1:照护价值_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Blues") +
   theme_bw() +
   theme(
@@ -280,14 +298,32 @@ p12 <- df_C_desc %>%
 
 # 代际责任
 p13 <- df_C_desc %>%
-  summarise(across(代际责任_1:代际责任_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(代际责任 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(代际责任 = factor(代际责任, levels = 代际责任)) %>%
-  ggplot(aes(x = 平均值, y = 代际责任, fill = 代际责任)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    代际责任_1:代际责任_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Greens") +
   theme_bw() +
   theme(
@@ -300,14 +336,32 @@ p13 <- df_C_desc %>%
 
 # 决策便利
 p14 <- df_C_desc %>%
-  summarise(across(决策便利_1:决策便利_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(决策便利 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(决策便利 = factor(决策便利, levels = 决策便利)) %>%
-  ggplot(aes(x = 平均值, y = 决策便利, fill = 决策便利)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    决策便利_1:决策便利_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Oranges") +
   theme_bw() +
   theme(
@@ -320,16 +374,35 @@ p14 <- df_C_desc %>%
 
 # 资源投入
 p15 <- df_C_desc %>%
-  summarise(across(资源投入_1:资源投入_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(资源投入 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(资源投入 = factor(资源投入, levels = 资源投入)) %>%
-  ggplot(aes(x = 平均值, y = 资源投入, fill = 资源投入)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    资源投入_1:资源投入_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Purples") +
   theme_bw() +
+  xlab("得分") +
   theme(
     axis.title.x = element_text(face = "bold", size = 12),
     axis.title.y = element_blank(),
@@ -340,16 +413,35 @@ p15 <- df_C_desc %>%
 
 # 认知偏差
 p16 <- df_C_desc %>%
-  summarise(across(认知偏差_1:认知偏差_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(认知偏差 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(认知偏差 = factor(认知偏差, levels = 认知偏差)) %>%
-  ggplot(aes(x = 平均值, y = 认知偏差, fill = 认知偏差)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    认知偏差_1:认知偏差_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Reds") +
   theme_bw() +
+  xlab("得分") +
   theme(
     axis.title.x = element_text(face = "bold", size = 12),
     axis.title.y = element_blank(),
@@ -360,16 +452,35 @@ p16 <- df_C_desc %>%
 
 # 购买意愿
 p17 <- df_C_desc %>%
-  summarise(across(购买意愿_1:购买意愿_3, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(购买意愿 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(购买意愿 = factor(购买意愿, levels = 购买意愿)) %>%
-  ggplot(aes(x = 平均值, y = 购买意愿, fill = 购买意愿)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    购买意愿_1:购买意愿_3,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "BuGn") +
   theme_bw() +
+  xlab("得分") +
   theme(
     axis.title.x = element_text(face = "bold", size = 12),
     axis.title.y = element_blank(),
@@ -449,7 +560,8 @@ ggsave(
   plot = patch_1_C,
   width = 12,
   height = 12,
-  dpi = 300
+  dpi = 300,
+  type = "cairo-png"
 )
 
 # 导出量表均值图
@@ -458,7 +570,8 @@ ggsave(
   plot = patch_2_C,
   width = 10,
   height = 5,
-  dpi = 300
+  dpi = 300,
+  type = "cairo-png"
 )
 
 ggsave(
@@ -466,10 +579,11 @@ ggsave(
   plot = MS_rate_C,
   width = 8,
   height = 6,
-  dpi = 300
+  dpi = 300,
+  type = "cairo-png"
 )
 
-cat("✅ 子女全部图已导出至：", output_path, "\n")
+cat("✅ 已导出: ", output_path, "C_{01-03}_*.png\n", sep = "")
 
 #=================================================================================
 #=================================================================================
@@ -494,7 +608,7 @@ df_C_desc |>
   gt() |>
   tab_header(title = "分类变量描述统计", subtitle = "子女调研数据") |>
   tab_style(cell_text(weight = "bold"), cells_column_labels()) |>
-  gtsave(paste0(output_path, "子女_分类变量统计.rtf"))
+  gtsave(paste0(output_path, "C_分类变量统计.rtf"))
 
 # 2. 数值变量统计
 df_C_desc |>
@@ -518,6 +632,6 @@ df_C_desc |>
   gt() |>
   tab_header(title = "数值变量描述统计", subtitle = "子女调研数据") |>
   tab_style(cell_text(weight = "bold"), cells_column_labels()) |>
-  gtsave(paste0(output_path, "子女_数值变量统计.rtf"))
+  gtsave(paste0(output_path, "C_数值变量统计.rtf"))
 
-message("✅ 子女全部表已导出至：", output_path, "\n")
+cat("✅ 已导出: ", output_path, "C_{分类/数值}变量统计.rtf\n", sep = "")

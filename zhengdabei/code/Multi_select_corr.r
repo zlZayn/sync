@@ -9,9 +9,14 @@ data_C_path <- "data/df_C_desc.RData"
 load(data_E_path)
 load(data_C_path)
 
+# 创建输出目录
+if (!dir.exists("output")) {
+  dir.create("output")
+}
+
 # ==================== E版 热力图 ====================
 # 安装场景
-df_E_desc |>
+p1 <- df_E_desc |>
   select(starts_with("安装场景_")) |>
   polychoric() |>
   pluck("rho") |>
@@ -24,8 +29,10 @@ df_E_desc |>
   theme_bw() +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 
+ggsave("output/E_安装场景_相关热力图.png", p1, width = 8, height = 6, dpi = 300)
+
 # 补贴期望
-df_E_desc |>
+p2 <- df_E_desc |>
   select(starts_with("补贴期望_")) |>
   polychoric() |>
   pluck("rho") |>
@@ -38,9 +45,11 @@ df_E_desc |>
   theme_bw() +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 
+ggsave("output/E_补贴期望_相关热力图.png", p2, width = 8, height = 6, dpi = 300)
+
 # ==================== C版 热力图 ====================
 # 安装场景
-df_C_desc |>
+p3 <- df_C_desc |>
   select(starts_with("安装场景_")) |>
   polychoric() |>
   pluck("rho") |>
@@ -53,8 +62,10 @@ df_C_desc |>
   theme_bw() +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 
+ggsave("output/C_安装场景_相关热力图.png", p3, width = 8, height = 6, dpi = 300)
+
 # 服务期望
-df_C_desc |>
+p4 <- df_C_desc |>
   select(starts_with("服务期望_")) |>
   polychoric() |>
   pluck("rho") |>
@@ -66,3 +77,7 @@ df_C_desc |>
   ) +
   theme_bw() +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
+
+ggsave("output/C_服务期望_相关热力图.png", p4, width = 8, height = 6, dpi = 300)
+
+cat("✅ 已导出: output/{E,C}_{安装场景,补贴/服务期望}_相关热力图.png (共4张)\n")

@@ -1,3 +1,20 @@
+# 加载依赖包
+library(tidyverse)
+library(gt)
+
+# 加载数据
+load("data/df_all_dbl.RData")
+
+# 读取聚类标签
+df_C_cluster_tag <- readr::read_csv(
+  "output/C_K-means聚类标签.csv",
+  show_col_types = FALSE
+)
+df_E_cluster_tag <- readr::read_csv(
+  "output/E_K-means聚类标签.csv",
+  show_col_types = FALSE
+)
+
 # 子女群体聚类特征剖面（重命名美化版）
 df_C_all_dbl |>
   left_join(df_C_cluster_tag, by = "序号_C") |>
@@ -124,8 +141,9 @@ df_C_all_dbl |>
     locations = cells_column_labels()
   ) |>
   tab_options(table.width = "100%", table.font.size = 12) |>
-  gtsave("output/子女群体聚类特征剖面.rtf")
+  gtsave("output/C_聚类特征剖面.rtf")
 
+cat("✅ 已导出: output/C_聚类特征剖面.rtf\n")
 
 # 老年人群体聚类特征剖面
 df_E_all_dbl |>
@@ -234,4 +252,6 @@ df_E_all_dbl |>
     locations = cells_column_labels()
   ) |>
   tab_options(table.width = "100%", table.font.size = 12) |>
-  gtsave("output/老年人体聚类特征剖面.rtf")
+  gtsave("output/E_聚类特征剖面.rtf")
+
+cat("✅ 已导出: output/E_聚类特征剖面.rtf\n")

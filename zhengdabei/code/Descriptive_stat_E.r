@@ -252,14 +252,32 @@ patch_1_E
 # ======================= 4. 绘图：量表维度均值条形图 =======================
 # 风险收益
 p12 <- df_E_desc %>%
-  summarise(across(风险收益_1:风险收益_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(风险收益 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(风险收益 = factor(风险收益, levels = 风险收益)) %>%
-  ggplot(aes(x = 平均值, y = 风险收益, fill = 风险收益)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    风险收益_1:风险收益_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Blues", type = "seq") +
   theme_bw() +
   theme(
@@ -272,14 +290,32 @@ p12 <- df_E_desc %>%
 
 # 社会支持
 p13 <- df_E_desc %>%
-  summarise(across(社会支持_1:社会支持_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(社会支持 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(社会支持 = factor(社会支持, levels = 社会支持)) %>%
-  ggplot(aes(x = 平均值, y = 社会支持, fill = 社会支持)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    社会支持_1:社会支持_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Greens", type = "seq") +
   theme_bw() +
   theme(
@@ -292,16 +328,35 @@ p13 <- df_E_desc %>%
 
 # 政策适配
 p14 <- df_E_desc %>%
-  summarise(across(政策适配_1:政策适配_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(政策适配 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(政策适配 = factor(政策适配, levels = 政策适配)) %>%
-  ggplot(aes(x = 平均值, y = 政策适配, fill = 政策适配)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    政策适配_1:政策适配_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Oranges", type = "seq") +
   theme_bw() +
+  xlab("得分") +
   theme(
     axis.title.x = element_text(face = "bold", size = 12),
     axis.title.y = element_blank(),
@@ -312,16 +367,35 @@ p14 <- df_E_desc %>%
 
 # 生活依赖
 p15 <- df_E_desc %>%
-  summarise(across(生活依赖_1:生活依赖_4, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(生活依赖 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(生活依赖 = factor(生活依赖, levels = 生活依赖)) %>%
-  ggplot(aes(x = 平均值, y = 生活依赖, fill = 生活依赖)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    生活依赖_1:生活依赖_4,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "Purples", type = "seq") +
   theme_bw() +
+  xlab("得分") +
   theme(
     axis.title.x = element_text(face = "bold", size = 12),
     axis.title.y = element_blank(),
@@ -332,16 +406,35 @@ p15 <- df_E_desc %>%
 
 # 使用意愿
 p16 <- df_E_desc %>%
-  summarise(across(使用意愿_1:使用意愿_3, mean)) %>%
-  pivot_longer(everything()) %>%
-  rename(使用意愿 = name, 平均值 = value) %>%
-  arrange(平均值) %>%
-  mutate(使用意愿 = factor(使用意愿, levels = 使用意愿)) %>%
-  ggplot(aes(x = 平均值, y = 使用意愿, fill = 使用意愿)) +
-  geom_bar(stat = "identity", color = "black", alpha = 0.8, linewidth = 0.3) +
-  xlim(0, 5) +
+  summarise(across(
+    使用意愿_1:使用意愿_3,
+    list(mean = ~ mean(.x, na.rm = T), sd = ~ sd(.x, na.rm = T))
+  )) %>%
+  pivot_longer(
+    everything(),
+    names_to = c("题项", ".value"),
+    names_sep = "_(?=mean|sd)"
+  ) %>%
+  arrange(mean) %>%
+  mutate(题项 = factor(题项, levels = 题项)) %>%
+  ggplot(aes(x = mean, y = 题项)) +
+  geom_bar(
+    stat = "identity",
+    aes(fill = 题项),
+    color = "black",
+    alpha = 0.8,
+    linewidth = 0.3
+  ) +
+  geom_errorbarh(
+    aes(xmin = mean - sd, xmax = mean + sd),
+    height = 0.3,
+    color = "black",
+    linewidth = 0.3
+  ) +
+  scale_x_continuous(breaks = seq(0, 5, 1), limits = c(0, 5.5)) +
   scale_fill_brewer(palette = "BuGn", type = "seq") +
   theme_bw() +
+  xlab("得分") +
   theme(
     axis.title.x = element_text(face = "bold", size = 12),
     axis.title.y = element_blank(),
@@ -350,14 +443,15 @@ p16 <- df_E_desc %>%
     legend.position = "none"
   )
 
+
 # 拼接量表图
-patch4_E <- p12 +
+patch_2_E <- p12 +
   p13 +
   p14 +
   p15 +
   p16 +
   plot_layout(ncol = 3, widths = c(1, 1, 1))
-patch4_E
+patch_2_E
 
 # ======================= 多选题选择率 水平条形图 =======================
 MS_rate_E <- df_E_desc |>
@@ -420,16 +514,18 @@ ggsave(
   plot = patch_1_E,
   width = 12,
   height = 12,
-  dpi = 300
+  dpi = 300,
+  type = "cairo-png"
 )
 
 # 导出老年人量表均值图
 ggsave(
   filename = paste0(output_path, "E_02_老年人量表维度均值图.png"),
-  plot = patch4_E,
+  plot = patch_2_E,
   width = 10,
   height = 5,
-  dpi = 300
+  dpi = 300,
+  type = "cairo-png"
 )
 
 ggsave(
@@ -437,10 +533,11 @@ ggsave(
   plot = MS_rate_E,
   width = 8,
   height = 6,
-  dpi = 300
+  dpi = 300,
+  type = "cairo-png"
 )
 
-cat("✅ 老年人全部图已导出至：", output_path, "\n")
+cat("✅ 已导出: ", output_path, "E_{01-03}_*.png\n", sep = "")
 
 #=================================================================================
 #=================================================================================
@@ -465,7 +562,7 @@ df_E_desc |>
   gt() |>
   tab_header(title = "分类变量描述统计", subtitle = "老年人调研数据") |>
   tab_style(cell_text(weight = "bold"), cells_column_labels()) |>
-  gtsave(paste0(output_path, "老年人_分类变量统计.rtf"))
+  gtsave(paste0(output_path, "E_分类变量统计.rtf"))
 
 # 2. 数值变量统计
 df_E_desc |>
@@ -489,6 +586,6 @@ df_E_desc |>
   gt() |>
   tab_header(title = "数值变量描述统计", subtitle = "老年人调研数据") |>
   tab_style(cell_text(weight = "bold"), cells_column_labels()) |>
-  gtsave(paste0(output_path, "老年人_数值变量统计.rtf"))
+  gtsave(paste0(output_path, "E_数值变量统计.rtf"))
 
-message("✅ 老年人全部表已导出至：", output_path, "\n")
+cat("✅ 已导出: ", output_path, "E_{分类/数值}变量统计.rtf\n", sep = "")
