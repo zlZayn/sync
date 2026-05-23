@@ -1,5 +1,7 @@
 # sync
 
+[English](README.md) | [简体中文](README_zh.md)
+
 Personal cloud storage and version control system for syncing files across devices.
 
 ## Overview
